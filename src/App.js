@@ -120,7 +120,11 @@ export default class App extends React.Component {
           }}
         />
         {/*Cenk ".0000001% voter fraud"*/}
-        <h4>The despondency of labor</h4>
+        <h4>
+          The despondency of labor; Medicare for All mean inflation pennywise
+          pound short for supply and labor-demand despondence, false/surrendered
+          bid pools and implausible use leases.
+        </h4>
         The state is blaming GDP/p growth over time-period/hour on bad
         parenting, age and madness.
         <br />
