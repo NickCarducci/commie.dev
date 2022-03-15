@@ -26,6 +26,7 @@ export default class App extends React.Component {
     this.refresh(true);
   };
   componentWillUnmount = () => {
+    clearTimeout(this.check);
     clearTimeout(this.scrollTimeout);
     clearTimeout(this.resizeTimer);
     window.removeEventListener("resize", this.refresh);
