@@ -273,7 +273,9 @@ export default class App extends React.Component {
         <br />
         “We do a lot of trade with China so we will hurt if they hurt.” Trade is
         1% of GDP (BEA) + imports Aluminum $28.70B (2021); exports Aluminum
-        $12.02B (2021). Give us the schematic
+        $12.02B (2021, by amount likely matches, for labor is twice as
+        expensive, when nominal is positive for equal actual lbs). Give us the
+        schematic
         <br />
         <br />
         no one wishes for personal sacrifice, they do not want leases to
