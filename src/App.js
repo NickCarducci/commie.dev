@@ -281,6 +281,14 @@ export default class App extends React.Component {
         no one wishes for personal sacrifice, they do not want leases to
         treasury, yet rather platform for dollar owners to sign off and royalty,
         with 11/12 decision.
+        <br />
+        <br />
+        (income/hour)/home is a better metric of poverty than poverty, and
+        1/hour-GDP/p of productivity than GDP/hour
+        <br />
+        <br />
+        Mike Huckabee, "they set you up with housing," is imputed mortgages
+        actually leased to the treasury.
       </div>
     );
   }
