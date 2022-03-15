@@ -124,7 +124,9 @@ export default class App extends React.Component {
         <h4>
           The despondency of labor; Medicare for All mean inflation pennywise
           pound short for supply and labor-demand despondence, false/surrendered
-          bid pools and implausible use leases.
+          bid pools and implausible use leases, labor being variable-part sprint
+          with material,{space}
+          <i>inflation</i>.
         </h4>
         The state is blaming GDP/p growth over time-period/hour on bad
         parenting, age and madness.
