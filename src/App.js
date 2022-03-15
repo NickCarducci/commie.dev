@@ -271,7 +271,8 @@ export default class App extends React.Component {
         <br />
         <br />
         “We do a lot of trade with China so we will hurt if they hurt.” Trade is
-        1% of GDP (BEA)
+        1% of GDP (BEA) + imports Aluminum $28.70B (2021); exports Aluminum
+        $12.02B (2021)
       </div>
     );
   }
