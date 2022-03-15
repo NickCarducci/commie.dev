@@ -98,7 +98,6 @@ export default class App extends React.Component {
     return (
       <div
         style={{
-          overflowX: "hidden",
           fontFamily: "arial, sans serif",
           wordBreak: "break-word",
           textAlign: "left",
@@ -115,7 +114,7 @@ export default class App extends React.Component {
           style={{
             display: this.state.trigger ? "none" : "block",
             position: "absolute",
-            height: "101%",
+            height: "101vh",
             width: "100%",
             backgroundColor: "rgba(20,20,20,.5)"
           }}
@@ -146,7 +145,7 @@ export default class App extends React.Component {
         <br />
         <br />
         <Cable
-          style={{ height: "380px", width: "300px", transform: "scale(-1,1)" }}
+          style={{ width: "300px", transform: "scale(-1,1)" }}
           onError={handleScollImgError}
           img={true}
           src={
@@ -207,6 +206,29 @@ export default class App extends React.Component {
           style={{
             paddingBottom: "15px",
             backgroundColor: "rgb(190,150,180)"
+          }}
+        />
+        <br />
+        <hr />
+        <br />
+        <Cable
+          style={{ width: "100%", height: "300px" }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.noyout ? "" : "https://www.youtube.com/embed/nKvUf7F4Xn4"
+          }
+          float={null}
+          title="Dick Morris and the Odessa revolution"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+          iframe={{
+            frameBorder: "0",
+            allowFullScreen: "",
+            allow:
+              "autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
           }}
         />
       </div>
