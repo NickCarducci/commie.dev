@@ -1,8 +1,9 @@
 import React from "react";
+import TwitterTweetEmbed from "./TwitterTweetEmbed";
 import { UAParser } from "ua-parser-js";
 import Cable from "./Dropwire";
 import NetToGDP from "./net";
-
+//import "./style.css";
 export default class App extends React.Component {
   constructor(props) {
     super(props);
@@ -98,6 +99,7 @@ export default class App extends React.Component {
     return (
       <div
         style={{
+          //margin: "5px",
           fontFamily: "arial, sans serif",
           wordBreak: "break-word",
           textAlign: "left",
@@ -114,7 +116,7 @@ export default class App extends React.Component {
           style={{
             display: this.state.trigger ? "none" : "block",
             position: "absolute",
-            height: "101vh",
+            height: "101%",
             width: "100%",
             backgroundColor: "rgba(20,20,20,.5)"
           }}
@@ -231,6 +233,45 @@ export default class App extends React.Component {
               "autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
           }}
         />
+        <br />
+        <br />
+        <TwitterTweetEmbed
+          style={{
+            width: "200px",
+            float: "left",
+            overflowX: "auto",
+            marginRight: "10px"
+          }}
+          key="1416803308824633347"
+          tweetId="1416803308824633347"
+        />
+        Nick Carducci - Bookie at Book.com.co (2019–present)
+        <br />
+        <br />
+        What would you do if the economy crashed?
+        <br />
+        <br />
+        I’d buy things.
+        <br />
+        <br />
+        Now (2022), life is more important than $12k/64 debt/cash new person a
+        year (U.S.) and 2/3 false bid pools and implausible use leases,
+        surrendered bids and outrights, excess monetary-debits than
+        concurrentable depositary of secured receipts.
+        <br />
+        <br />
+        Life is royaltyable-science, processmaking; free rider immutable and
+        rent-free is all Public can ever be, for open ingredient licensure, and
+        1/hour-GDP/p reasoning but what else for, and by how else than
+        trust-breaking horizontally, by general-income, or surrendered,
+        standardized guarantees?
+        <br />
+        <br />
+        Why are men forced to fight but there is more than jobs to fill?
+        <br />
+        <br />
+        “We do a lot of trade with China so we will hurt if they hurt.” Trade is
+        1% of GDP (BEA)
       </div>
     );
   }
