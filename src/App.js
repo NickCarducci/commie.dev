@@ -1,6 +1,7 @@
 import React from "react";
 import { UAParser } from "ua-parser-js";
 import Cable from "./Dropwire";
+import NetToGDP from "./net";
 
 export default class App extends React.Component {
   constructor(props) {
@@ -199,6 +200,13 @@ export default class App extends React.Component {
         permitting, contracting, and borrowings of monetary-debits, Poverty is
         Food Clothing Shelter Utilities *1.2 for employer contributions, imputed
         mortgage if you have none.
+        <NetToGDP
+          lastWidth={Math.min(600, this.state.lastWidth)}
+          style={{
+            paddingBottom: "15px",
+            backgroundColor: "rgb(190,150,180)"
+          }}
+        />
       </div>
     );
   }
