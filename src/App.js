@@ -289,6 +289,39 @@ export default class App extends React.Component {
         <br />
         Mike Huckabee, "they set you up with housing," is imputed mortgages
         actually leased to the treasury.
+        <br />
+        <br />
+        Y’all for the general fund are too far too the right
+        <br />
+        <br />
+        Home title protection or debt, either way, surrendered general fund and
+        guarantee scheme
+        <br />
+        <br />
+        jobs are why there is technological relenting, admitted by the right,
+        poverty is lower for income, not hours that expenses lessen when
+        laborless-demand expenses-income margins
+        <br />
+        <br />
+        “Planned parenthood can fund themselves,” Lauren Bobart, 600k/yr,
+        mandatory testing. Y’all for the general fund are too far too the right.
+        Loren bobart wants to fund Ukraine, why? They are forcing people to
+        fight especially when there are more people than jobs?
+        <br />
+        <br />
+        They have no skills we need, coming here as total wards of the state,
+        only because you gentrify equity
+        <br />
+        <br />
+        Basing GDP/p by collateralization, false bid pools and implausible use
+        leases
+        <br />
+        <br />
+        “Democrats want to import poverty,” more people breeds competition and
+        so poverty as rated per population is the same, yet hours per time
+        period is less with working age labor. Why are they wards of the state?
+        Most wards of the state are the elderly, whom scapegoat delinquent
+        tax-payer-vacations and general fund self dealings
       </div>
     );
   }
