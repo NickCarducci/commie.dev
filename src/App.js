@@ -122,6 +122,8 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        denomination of “spm” poverty skew, income matching 3rd, rather than
+        original “official” thrice expenses
         {/*Cenk ".0000001% voter fraud"*/}
         <h4>
           The despondency of labor; Medicare for All mean inflation pennywise
