@@ -123,7 +123,7 @@ export default class App extends React.Component {
           }}
         />
         denomination of “spm” poverty skew, income matching 3rd, rather than
-        original “official” thrice expenses
+        original “official” thrice expenses; 1/hour-GDP/p - home/(income/hour)
         {/*Cenk ".0000001% voter fraud"*/}
         <h4>
           The despondency of labor; Medicare for All mean inflation pennywise
@@ -471,6 +471,32 @@ export default class App extends React.Component {
         <br />
         Patrick O'Connor: "Can you translate that word salad into standard
         English?"
+        <br />
+        <br />
+        non monetary-lending corporate and household checking are up, but the
+        self employed aren't included in the economy.{space}
+        <a href="https://www.ssa.gov/oact/progdata/taxRates.html">
+          Corporate tax free
+        </a>
+        , and As you can know, I've led my life as far away from credit as
+        income as possible. I am making a bank to have checking that is fungible
+        for currency.
+        <br />
+        <br />
+        I know Amazon's income is credit/good-will, insurance (false bid pool
+        loss non-insulated-from-donee-beneficiary nor concurrentable investment
+        bank), and I can only imagine what else. Would you like to make
+        accommodations so I am not a hypocrite and contributing to the $12k/64
+        debt/cash per person a year over Savers' land-exploration rights, $ (20%
+        of U.S.)?
+        <br />
+        <br />
+        Likely not, given checking is not fungible for currency anymore, due to
+        the pandemic. I can’t associate with people that suffer such basis rate
+        fallacy, as excess was less than expected, unless Amazon will try to
+        explain to me that sewage causes Alzheimer’s, people were once negative
+        years old and wrinkles isn’t an artifact of natural age of death. Nick
+        Carducci.sh
       </div>
     );
   }
