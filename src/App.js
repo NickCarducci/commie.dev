@@ -122,6 +122,14 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        ratified by consensus and reason yet appeal fines and variable-part,
+        ward of free rider mutable stewardship and immutable truncated
+        production tax as per the appropriate services, without oxymoronic equal
+        bond-tax nor flat tax to treasury closed-source-vig nor leases of
+        dollar-sign off (drilling permits of, royalty subservient to customers,
+        not treasury rig-rates, and ) and local-community EPA NWP12 wastewater
+        self-ascertainable damages
+        <br />
         denomination of “spm” poverty skew, income matching 3rd, rather than
         original “official” thrice expenses; 1/hour-GDP/p - home/(income/hour)
         {/*Cenk ".0000001% voter fraud"*/}
@@ -510,6 +518,33 @@ export default class App extends React.Component {
         explain to me that sewage causes Alzheimer’s, people were once negative
         years old and wrinkles isn’t an artifact of natural age of death. Nick
         Carducci.sh
+        <br />
+        <br />
+        Nick Carducci - Econometrist at Occupy Wall St
+        <br />
+        How do you calculate the inflation rate over time?
+        <br />
+        There are multiple inflations, that which uses employer contributions
+        gains in demand by standardized guarantee schemes (PCE, BEA), or
+        out-of-pocket costs (CPI, BLS).
+        <br />
+        Your /time-period can be any x-axis, yet 5%/yr+ is homes, 7.5%/yr+ is
+        bonds debt and currency, 2%/yr+ (cpi+pce)/2.
+        <br />
+        real GDP/yr+ growth is government and structures expenditures, minus the
+        growth of personal consumption expenditures, which include general fund
+        standardized guarantee false bid pool name your price, -scapegoat, for
+        supply already not equating labor-demand price controls yet still
+        invoice begotten self-dealing and surrendered freedom of labor-demands’
+        bids, “funds.”
+        <br />
+        <br />
+        "Does Obamacare save money?"
+        <br />
+        Compared to standardized guarantee schemes without price controls, it
+        certainly saves money, but only because supply already doesn’t equate
+        labor-demand. Better to ban invoices for surrendered freedom and
+        foreseeable force majeure ascertainable standing and tortious grounds.
       </div>
     );
   }
