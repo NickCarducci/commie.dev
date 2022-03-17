@@ -178,6 +178,19 @@ export default class App extends React.Component {
         intranationally.
         <br />
         <br />
+        Nick Carducci - Some credits in International Law (college major) &
+        Computer Science, Monmouth University (Graduated 2014)
+        <br />
+        "How is health care a human right?"
+        <br />
+        Buying settled trade and free schematics without operational (hourly,
+        past labor-demand freedoms notwithstanding), costs, like animal testing
+        (FDA) nor wastewater ascertainable damages (EPA NWP12, Saver Party) by
+        concurrentable, non good will last trade, without accrual but rollover
+        is Tranquil and voluntary trade for reason but for 1/hour-GDP/p, and
+        free science of non-exclusive answer endeavor copyrights (USPTO).
+        <br />
+        <br />
         No Surrender of Others' Freedom Sample Clauses | Law Insider
         <br />
         <br />
