@@ -324,6 +324,153 @@ export default class App extends React.Component {
         period is less with working age labor. Why are they wards of the state?
         Most wards of the state are the elderly, whom scapegoat delinquent
         tax-payer-vacations and general fund self dealings
+        <br />
+        <br />
+        "Too burdensome blood tests?" Mr. Tonko asks the{space}
+        <a href="https://2024nj.com/phlebotomists">Phlebotomists</a>
+        .<br />
+        <br />"
+        <a href="https://qr.ae/pGLVpQ">
+          Philanthropic funding to really support individuals, as well, when we
+          raise the average price
+        </a>
+        , or scapegoat target margins of a market where{space}
+        <a href="https://qr.ae/pGLVNS">supply already doesn't equate demand</a>
+        {/**    Compared to standardized guarantee schemes without price controls, 
+        it certainly saves money, but only because supply already doesn’t equate labor-demand. 
+        Better to ban invoices for surrendered freedom and foreseeable force majeure ascertainable
+        standing and tortious grounds */}
+        , as a sorted propensity of indifference and labor-borne-budget
+        contraints, for the 1/hour-GDP/p plane of Supply and Demand, by
+        Microeconomic gaming."
+        <br />
+        <Cable
+          style={{ width: "200px" }}
+          onError={handleScollImgError}
+          img={true}
+          src={
+            this.state.noyout
+              ? ""
+              : "https://www.dl.dropboxusercontent.com/s/sqf6c2uuuf4kjzg/Screen%20Shot%202022-03-17%20at%201.39.57%20PM.png?dl=0"
+          }
+          float={"left"}
+          title="The Future of Medicine: Legislation to Encourage Innovation and Improve Oversight (Energy and Commerce Committee, Youtube) - https://youtu.be/Oiy0aFXyKzU"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        Work to ensure continued acces to medication for all patients by
+        invoicing the general fund and leasing corporate profits to the
+        treasury.
+        <br />
+        <br />
+        Diseases cannot be designated by artifact, alone, for that may not be
+        the cause unless you test exclusively for it with (a) correlations
+        (meaningfully-diverse) and endogenoous-debasements (homogeneous, not
+        heterogenous or exogeneous correlation-coincidence), from{space}
+        <a href="https://brainscan.info">me sure</a>, and in (b)
+        population-surveys (significance with assumptions of meaning)
+        <h4>
+          How to Run a{space}
+          <a href="https://teapharmacy.party/drugs">Drug Cartel</a>
+          {space}with the Government: Money Laundering 301
+        </h4>
+        "How do I solve a money debt problem?"
+        <br />
+        Nick Carducci - Bookkeeper at Household Chores (2006-present)
+        <br />
+        Money-debt, or borrowings of monetary-debits, financial and monetary
+        liability, is best solved by (cash/debt)*income reverse amortization,
+        transaction-fee based inventory of treasury (state-lands) or vault share
+        consortium, currency with truncated production tax for free rider
+        immutable sewage police lawsuits 3% under $2k geohash/month report
+        spoofable precinct without closed-source-vig nor general fund
+        self-dealing scapegoating elder-delinquency and laborless-demand for
+        asset inequality standardized guarantee false bid pool name your price
+        tool schemes nor free rider mutable trust breaking, hypocrisy and
+        <div style={{ borderLeft: "3px solid", paddingLeft: "5px" }}>
+          or else, you know what,
+        </div>
+        ratification. That means voting for{space}
+        <a href="https://2024nj.com/carducci">
+          NJ for Nick Carducci U.S. Senate 2024
+        </a>
+        .
+        <br />
+        <br />
+        As an individual, you can claim borrower defense forseeable force
+        majeure, just cite $12k/64, or donee beneficiary defense, that which is
+        the actual owner of the dollars (currency, not even fungible for
+        checking, because of the global pandemic) promised.
+        <br />
+        <br />
+        As an alternative means of finance, without licensure but for naming and
+        open ingredient lists and non-exclusive answers of endeavors, even rare
+        disease ARPA-H uses the same input costs, and licensure fees, as well as
+        animal life, let alone variable-part, labors’ leases and borrowings, is
+        1/12 industry-vertical as “collateral” max-royalty, and of course
+        copy-investing for brand- or neighborhood-good will gains.
+        <br />
+        <br />
+        <a href="https://www.lawinsider.com/clause/no-surrender-of-others-freedom">
+          No Surrender of Others' Freedom Sample Clauses | Law Insider Sample
+          Contracts and Business Agreements
+        </a>
+        <br />
+        <a href="https://studentaid.gov/borrower-defense">
+          https://studentaid.gov/borrower-defense
+        </a>
+        <br />
+        <br />
+        Actual innovation. Actual labor-borne-demand lest dead-weight of
+        1/hour-GDP/p enumerated economic welfare you fucking retarded vet. even
+        he is booned by false bid pools, and cannot comment on funding, as
+        politicians can only own currency and concurrentable commodities, lest
+        abstain.
+        <br />
+        Reasonable doubt for policy and permit requires an alternative.
+        <br />
+        Small and mid-sized biotech companies are forced to shut down because of
+        operations, and the technology is thereby banned or rent-seeken by the
+        government trust. We require the review documents, for reasons you know
+        (or else).
+        <br />
+        <br />
+        durable approval is dissmissive of all of FDA, NIH and USPTO; (1) naming
+        and (2) open ingredient lists for (a) less exclusivity
+        <br />
+        <br />
+        Mind you, I am a developer for bookkeeping software, that believes a
+        transaction-fee based currency is the future - now that USD is fungible
+        for treasury inventory (at least 23% of oil-wells in America are
+        “federally-leased” back to us through corporations instead of dollar
+        royalty and drilling sign off, to be subservient to customers). Debt is
+        the cause of inflation, that is the rationale that the Federal Reserve
+        provides for raising rates. Why do that pennywise short for a pound
+        cowardice? Just work for demand in real time without a money ‘market’ by
+        “collateral” as NAICS industry-designations as tortious for revenue for
+        max-royalty, undisbursed.
+        <br />
+        <br />
+        What do you think about the Fed raising interest rates for the first
+        time since 2018?
+        <br />
+        Patrick O'Connor - former State Representative (1979-1983)
+        <br />
+        Too little, too late. True inflation (including food and fuel) is a
+        shade under 17%. That needs to be crushed FAST or we are screwed.
+        <br />
+        <br />
+        The rationale is to compel less borrowing by the government? Why would
+        we allow borrowing at all with truncated production tax NJ for Nick
+        Carducci U.S. Senate 2024 on the horizon - (debt/cash)*income,
+        geohash/mo spoofable precinct. Future collateral is 1/12
+        vertical-industry designation for max-royalty, no surrender of others’
+        freedoms to bid, as labor-borne-demand.
+        <br />
+        Patrick O'Connor: "Can you translate that word salad into standard
+        English?"
       </div>
     );
   }
