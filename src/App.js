@@ -122,6 +122,13 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        division of labor, hairdos cannot be discriminate and I do not get
+        disability for that but only psychiatry.{space}
+        <a href="https://2024nj.com/disability">scapegoating delinquence</a>. I
+        am going to kill Greg Murphy, "we have plenty of protections in the
+        constitution," WELL IT ISN'T WORKING, WHISTLEBLOWERS OFF JURY DUTY?
+        <br />
+        <br />
         The Republicans and Democrats just want us to work more, they tax and
         collude
         <br />
