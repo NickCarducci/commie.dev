@@ -122,13 +122,28 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
-        <a href="https://qr.ae/pGLlsf">minimizing</a>
-        {space}the{space}
-        <a href="https://micro-theory.com">
-          Supply and Demand by Labor despondency
-        </a>
+        The Horseshoe Theory has been posited as the idea that the despondency
+        amongst people and their stances on issue-vectors is etymology, or
+        miscommunication. For instance, the No-Fly Zone and Pay Debt Off are
+        scopes of requirements that just are estimates in naming and material +
+        variable-part labor, not low-level, actual, modular, scripts.
         <br />
-        <br />
+        <br />I have invented an alternative to counterfeit in contract, by
+        collateral, so to speak, for ascertainable-torts, by 1/12 NAICS industry
+        lines of business (name doesn’t matter, yet not payday general income
+        for surrendered bid of third part donee labor-borne, currency, demand,
+        nor compound, of the same). Otherwise, loitering on surrendered bid for
+        implausibly deniably force majeure, and amortizable correction
+        (concurrentable, not good-will last traded neighborhood nor
+        brand-inventory value, firesale), is malfeasantly permissible, for any
+        contractor dream, no surrender of others’ freedom, pointless.
+        <h4>
+          <a href="https://qr.ae/pGLlsf">minimizing</a>
+          {space}the{space}
+          <a href="https://micro-theory.com">
+            Supply and Demand by Labor despondency
+          </a>
+        </h4>
         Are they really transporting the fentanyl laced heroine and marijuana in
         their asses or{space}
         <a href="https://teapharmacy.party/drugs">unchecked parcels</a>? They
@@ -579,13 +594,17 @@ export default class App extends React.Component {
         shade under 17%. That needs to be crushed FAST or we are screwed.
         <br />
         <br />
-        The rationale is to compel less borrowing by the government? Why would
-        we allow borrowing at all with truncated production tax NJ for Nick
-        Carducci U.S. Senate 2024 on the horizon - (debt/cash)*income,
-        geohash/mo spoofable precinct. Future collateral is 1/12
-        vertical-industry designation for max-royalty, no surrender of others’
-        freedoms to bid, as labor-borne-demand.
-        <br />
+        <h4>
+          The rationale is to compel less borrowing by the government? Why would
+          we allow borrowing at all with{space}
+          <a href="https://2024nj.com/carducci">
+            truncated production tax NJ for Nick Carducci U.S. Senate 2024
+          </a>
+          {space}on the horizon - (debt/cash)*income, geohash/mo spoofable
+          precinct. Future collateral is 1/12 vertical-industry designation for
+          max-royalty, no surrender of others’ freedoms to bid, as
+          labor-borne-demand.
+        </h4>
         Patrick O'Connor: "Can you translate that word salad into standard
         English?"
         <br />
