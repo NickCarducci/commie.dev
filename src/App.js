@@ -122,6 +122,10 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        <h4>
+          if there were no false/surrendered bid pools, implausible use leases,
+          Putin wouldn't destroy his own peoples' apartment buildings.
+        </h4>
         "Taxes Death and your car breaking down, is certain. Protect with
         price-lock guarantee." Protecting your car with Car Shield guaranteed
         schemes are not trade, artifact of and there by is, surrendered freedoms
