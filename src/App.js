@@ -123,6 +123,9 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        50m/yr+ expected deaths worldwide, Dr. Peter Michalos calls pandemic a
+        death sentance and is the reason for making checking non-fungible for
+        currency.
         <h4>
           "War Machine (n.): kill deserters, destroy buildings, growth of real
           GDP, average of out-of-pocket and standardized guarantee scheme
