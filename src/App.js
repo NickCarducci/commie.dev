@@ -122,6 +122,13 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        Communism deprives no man of the power to appropriate the products of
+        society; all that it does is to deprive him of the power to subjugate
+        the labour of others by means of such appropriations.
+        <h4>
+          Trading without collateralization nor{space}
+          <a href="https://qr.ae/pGLl8V">standardized guarantee schemes</a>
+        </h4>
         "Getting a job he doesn't deserve." Oh yeah, thanks
         <br />
         Nick Carducci - BA in Political Science & Economics, Johns Hopkins
