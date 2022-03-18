@@ -131,11 +131,15 @@ export default class App extends React.Component {
           if there were no false/surrendered bid pools, implausible use leases,
           Putin wouldn't destroy his own peoples' apartment buildings.
         </h4>
-        "Taxes Death and your car breaking down, is certain. Protect with
-        price-lock guarantee." Protecting your car with Car Shield guaranteed
-        schemes are not trade, artifact of and there by is, surrendered freedoms
-        to bid, by labor-borne-demand (metric: 1/hour-GDP/p). flat GDP/p amongst
-        3%/yr+ population growth proves that is not true.
+        "Taxes Death and your car breaking down,{space}
+        <a href="https://qz.com/1033336/survey-americans-hate-the-health-care-industry-even-more-than-wall-street/">
+          is certain
+        </a>
+        . Protect with price-lock guarantee." Protecting your car with Car
+        Shield guaranteed schemes are not trade, artifact of and there by is,
+        surrendered freedoms to bid, by labor-borne-demand (metric:
+        1/hour-GDP/p). flat GDP/p amongst 3%/yr+ population growth proves that
+        is not true.
         <br />
         <br />
         The Horseshoe Theory has been posited as the idea that the despondency
