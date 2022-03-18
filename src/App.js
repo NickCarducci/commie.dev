@@ -122,6 +122,11 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        Jimmy Kimmel: "Do you wish you had Apple Care standardized guarantee
+        self-dealing general fund name your price employer contributions
+        PCE(BEA)-CPI(BLS) margin(profits+savings)?"
+        <br />
+        <br />
         division of labor, hairdos cannot be discriminate and I do not get
         disability for that but only psychiatry.{space}
         <a href="https://2024nj.com/disability">scapegoating delinquence</a>. I
