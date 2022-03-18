@@ -7,6 +7,7 @@ import {
   loansofdebtoutstanding,
   newdebt
 } from "./netdata";
+import { balance, checking, currency } from "./balance";
 const gdps = {
   "1952-03-01": {
     corporateOrSelf: 443100,
@@ -2315,7 +2316,8 @@ class NetToGDP extends React.Component {
       lowNetRatio,
       highDate,
       lowDate,
-      newDebtData: []
+      newDebtData: [],
+      currenData: []
     };
     this.state = state;
   }
@@ -2336,34 +2338,69 @@ class NetToGDP extends React.Component {
         let notesData = [];
         let bond = [];
         let bondData = [];
-        Object.keys(levelRatio).forEach((yr, i) => {
-          const year = new Date(yr).getTime();
-          const data = Object.values(levelRatio)[i];
-          const gdpdata = gdps[yr],
-            gdp = gdpdata.gdp;
+        let curren = [];
+        let currenData = [];
+        if (this.state.chartType === "federal reserve") {
+          currency.forEach((set) => {
+            const yr = set[0];
+            const checkingData = checking[yr];
+            const balanceData = balance[yr];
+            const year = new Date(yr).getTime();
+            curren.push(set[1]);
+            currenData.push([year, set[1]]);
+            date.push(year);
+            noData.push([year, 0]);
+            if (checkingData) {
+              households.push(checkingData.household);
+              householdsData.push([year, checkingData.household]);
 
-          const newdebtData = newdebt[yr];
-          const loansData = loansofdebtoutstanding[yr];
-          const creditData = creditsofdebtoutstanding[yr];
-          const householdData = householdbalance[yr];
-          const financialData = financialbalance[yr];
+              notes.push(checkingData.government);
+              notesData.push([year, checkingData.government]);
 
-          const selection =
-            this.state.chartType === "financial accounts"
-              ? financialData
-              : this.state.chartType === "household accounts"
-              ? householdData
-              : this.state.chartType === "lendings of monetary-debits"
-              ? creditData
-              : this.state.chartType === "borrowings of monetary-debits"
-              ? loansData
-              : this.state.chartType === "new debt"
-              ? newdebtData
-              : this.state.chartType === "spending (m2)"
-              ? gdpdata
-              : data;
-          date.push(year);
-          /**
+              corporates.push(checkingData.corporate);
+              corporatesData.push([year, checkingData.corporate]);
+
+              selfs.push(checkingData.bottomhalf);
+              selfsData.push([year, checkingData.bottomhalf]);
+            }
+            if (balanceData) {
+              mortgages.push(balanceData.mortgage);
+              mortgagesData.push([year, balanceData.mortgage]);
+
+              bond.push(balanceData.assets);
+              bondData.push([year, balanceData.assets]);
+            }
+          });
+          // console.log(bondData);
+        } else
+          Object.keys(levelRatio).forEach((yr, i) => {
+            const year = new Date(yr).getTime();
+            const data = Object.values(levelRatio)[i];
+            const gdpdata = gdps[yr],
+              gdp = gdpdata.gdp;
+
+            const newdebtData = newdebt[yr];
+            const loansData = loansofdebtoutstanding[yr];
+            const creditData = creditsofdebtoutstanding[yr];
+            const householdData = householdbalance[yr];
+            const financialData = financialbalance[yr];
+
+            const selection =
+              this.state.chartType === "financial accounts"
+                ? financialData
+                : this.state.chartType === "household accounts"
+                ? householdData
+                : this.state.chartType === "lendings of monetary-debits"
+                ? creditData
+                : this.state.chartType === "borrowings of monetary-debits"
+                ? loansData
+                : this.state.chartType === "new debt"
+                ? newdebtData
+                : this.state.chartType === "spending (m2)"
+                ? gdpdata
+                : data;
+            date.push(year);
+            /**
            * 
     nonprofitassets: 0,
     nonprofitmiscellaneousassets: 0,
@@ -2401,115 +2438,118 @@ class NetToGDP extends React.Component {
     hnliabilities: 0,
     hnnet: 0
            */
-          const household =
-            this.state.chartType === "financial accounts"
-              ? financialData.deposits + financialData.pensions
-              : this.state.chartType === "household accounts"
-              ? householdData.householdestate + householdData.householdcheckable
-              : //+householdData.householdgoods
-              this.state.chartType === "borrowings of monetary-debits"
-              ? data.financialMortages * 1.3 * gdp
-              : selection.households;
-          households.push(household);
-          householdsData.push([year, household]);
-          const government =
-            this.state.chartType === "financial accounts"
-              ? financialData.notes + financialData.bondnotes
-              : this.state.chartType === "household accounts"
-              ? householdData.householdnotes +
-                householdData.householddeposits +
-                householdData.householdfinance +
-                householdData.householdcredits //+ householdData.householdborrowing
-              : this.state.chartType === "borrowings of monetary-debits"
-              ? data.government * gdp + data.municipalities * gdp
-              : selection.government + selection.municipalities;
-          notes.push(government);
-          notesData.push([year, government]);
+            const household =
+              this.state.chartType === "financial accounts"
+                ? financialData.deposits + financialData.pensions
+                : this.state.chartType === "household accounts"
+                ? householdData.householdestate +
+                  householdData.householdcheckable
+                : //+householdData.householdgoods
+                this.state.chartType === "borrowings of monetary-debits"
+                ? data.financialMortages * 1.3 * gdp
+                : selection.households;
+            households.push(household);
+            householdsData.push([year, household]);
+            const government =
+              this.state.chartType === "financial accounts"
+                ? financialData.notes + financialData.bondnotes
+                : this.state.chartType === "household accounts"
+                ? householdData.householdnotes +
+                  householdData.householddeposits +
+                  householdData.householdfinance +
+                  householdData.householdcredits //+ householdData.householdborrowing
+                : this.state.chartType === "borrowings of monetary-debits"
+                ? data.government * gdp + data.municipalities * gdp
+                : selection.government + selection.municipalities;
+            notes.push(government);
+            notesData.push([year, government]);
 
-          const lowdata = ["spending (m2)", "new debt"].includes(
-            this.state.chartType
-          );
-          const corporateExmortgage =
-            creditData.corporateCorporate +
-            creditData.corporateDepositaryLoansExMortgage +
-            creditData.corporateCommercialPaper +
-            creditData.CorporateOther;
-          const corporate =
-            this.state.chartType === "financial accounts"
-              ? //financialData.bonds +
-                financialData.equities +
-                financialData.shares +
-                financialData.funds
-              : this.state.chartType === "household accounts"
-              ? householdData.householdequities //+householdData.householdborrowing +householdData.householdcredits
-              : this.state.chartType === "lendings of monetary-debits"
-              ? corporateExmortgage
-              : selection.corporate;
-          corporates.push(corporate);
-          corporatesData.push([year, corporate]);
-          const selfExmortgage =
-            creditData.selfemployedNotes + creditData.selfemployedOther;
-          const self =
-            this.state.chartType === "financial accounts"
-              ? financialData.self + financialData.insurance
-              : this.state.chartType === "household accounts"
-              ? householdData.householdself //+ householdData.householdcredits
-              : this.state.chartType === "lendings of monetary-debits"
-              ? selfExmortgage
-              : lowdata
-              ? selection.corporateOrSelf - selection.corporate
-              : selection.selfemployed;
-          selfs.push(self);
-          selfsData.push([year, self]);
-          const mortgage =
-            this.state.chartType === "financial accounts"
-              ? financialData.mortgages +
-                financialData.homeloan +
-                financialData.estates
-              : this.state.chartType === "household accounts"
-              ? householdData.householdmortgages
-              : this.state.chartType === "lendings of monetary-debits"
-              ? creditData.corporateMortgages + creditData.selfemployedMortgages
-              : ["borrowings of monetary-debits", "spending (m2)"].includes(
-                  this.state.chartType
-                )
-              ? loansData.corporateMortgages + loansData.selfemployedMortgages
-              : data.financialMortages;
-          const bonds =
-            this.state.chartType === "financial accounts"
-              ? financialData.bonds +
-                financialData.monetarypaper +
-                financialData.paper +
-                financialData.moneyfunds +
-                financialData.treasury +
-                financialData.repurchases
-              : this.state.chartType === "household accounts"
-              ? householdData.householdbonds + householdData.householdlending
-              : this.state.chartType === "lendings of monetary-debits"
-              ? corporateExmortgage + selfExmortgage
-              : ["borrowings of monetary-debits", "spending (m2)"].includes(
-                  this.state.chartType
-                )
-              ? loansData.corporate -
-                loansData.corporateMortgages +
-                loansData.selfemployed -
-                loansData.selfemployedMortgages
-              : data.corporateBonds;
-          const forPercentage = this.state.chartType === "new debt" ? 100 : 1;
-          mortgages.push(forPercentage * mortgage);
-          mortgagesData.push([year, forPercentage * mortgage]);
-          bond.push(forPercentage * bonds);
-          bondData.push([year, forPercentage * bonds]);
+            const lowdata = ["spending (m2)", "new debt"].includes(
+              this.state.chartType
+            );
+            const corporateExmortgage =
+              creditData.corporateCorporate +
+              creditData.corporateDepositaryLoansExMortgage +
+              creditData.corporateCommercialPaper +
+              creditData.CorporateOther;
+            const corporate =
+              this.state.chartType === "financial accounts"
+                ? //financialData.bonds +
+                  financialData.equities +
+                  financialData.shares +
+                  financialData.funds
+                : this.state.chartType === "household accounts"
+                ? householdData.householdequities //+householdData.householdborrowing +householdData.householdcredits
+                : this.state.chartType === "lendings of monetary-debits"
+                ? corporateExmortgage
+                : selection.corporate;
+            corporates.push(corporate);
+            corporatesData.push([year, corporate]);
+            const selfExmortgage =
+              creditData.selfemployedNotes + creditData.selfemployedOther;
+            const self =
+              this.state.chartType === "financial accounts"
+                ? financialData.self + financialData.insurance
+                : this.state.chartType === "household accounts"
+                ? householdData.householdself //+ householdData.householdcredits
+                : this.state.chartType === "lendings of monetary-debits"
+                ? selfExmortgage
+                : lowdata
+                ? selection.corporateOrSelf - selection.corporate
+                : selection.selfemployed;
+            selfs.push(self);
+            selfsData.push([year, self]);
+            const mortgage =
+              this.state.chartType === "financial accounts"
+                ? financialData.mortgages +
+                  financialData.homeloan +
+                  financialData.estates
+                : this.state.chartType === "household accounts"
+                ? householdData.householdmortgages
+                : this.state.chartType === "lendings of monetary-debits"
+                ? creditData.corporateMortgages +
+                  creditData.selfemployedMortgages
+                : ["borrowings of monetary-debits", "spending (m2)"].includes(
+                    this.state.chartType
+                  )
+                ? loansData.corporateMortgages + loansData.selfemployedMortgages
+                : data.financialMortages;
+            const bonds =
+              this.state.chartType === "financial accounts"
+                ? financialData.bonds +
+                  financialData.monetarypaper +
+                  financialData.paper +
+                  financialData.moneyfunds +
+                  financialData.treasury +
+                  financialData.repurchases
+                : this.state.chartType === "household accounts"
+                ? householdData.householdbonds + householdData.householdlending
+                : this.state.chartType === "lendings of monetary-debits"
+                ? corporateExmortgage + selfExmortgage
+                : ["borrowings of monetary-debits", "spending (m2)"].includes(
+                    this.state.chartType
+                  )
+                ? loansData.corporate -
+                  loansData.corporateMortgages +
+                  loansData.selfemployed -
+                  loansData.selfemployedMortgages
+                : data.corporateBonds;
+            const forPercentage = this.state.chartType === "new debt" ? 100 : 1;
+            mortgages.push(forPercentage * mortgage);
+            mortgagesData.push([year, forPercentage * mortgage]);
+            bond.push(forPercentage * bonds);
+            bondData.push([year, forPercentage * bonds]);
 
-          return noData.push([year, 0]);
-        });
+            return noData.push([year, 0]);
+          });
         const all = [
           ...households,
           ...corporates,
           ...mortgages,
           ...selfs,
           ...bond,
-          ...notes
+          ...notes,
+          ...curren
         ];
         var lowNetRatio = Math.min(...all);
         var lowDate = Math.min(...date);
@@ -2517,6 +2557,8 @@ class NetToGDP extends React.Component {
         var highDate = Math.max(...date);
         //console.log(dataData);
         var state = {
+          date,
+          noData,
           highNetRatio,
           notesData,
           bondData,
@@ -2528,7 +2570,8 @@ class NetToGDP extends React.Component {
           xAxis: highDate - lowDate,
           lowNetRatio,
           highDate,
-          lowDate
+          lowDate,
+          currenData
         };
         this.setState(state);
       });
@@ -2589,43 +2632,62 @@ class NetToGDP extends React.Component {
     ]);
     //console.log(this.state.oilprice);
 
-    const selfsData = this.state.selfsData.map(([x, y]) => [
-      ((x - this.state.lowDate) / this.state.xAxis) *
-        0.9 *
-        this.props.lastWidth,
-      ((y - this.state.lowNetRatio) / this.state.yAxis) * 150
-    ]);
-    const mortgagesData = this.state.mortgagesData.map(([x, y]) => [
-      ((x - this.state.lowDate) / this.state.xAxis) *
-        0.9 *
-        this.props.lastWidth,
-      ((y - this.state.lowNetRatio) / this.state.yAxis) * 150
-    ]);
-    const householdsData = this.state.householdsData.map(([x, y]) => [
-      ((x - this.state.lowDate) / this.state.xAxis) *
-        0.9 *
-        this.props.lastWidth,
-      ((y - this.state.lowNetRatio) / this.state.yAxis) * 150
-    ]);
-    const corporatesData = this.state.corporatesData.map(([x, y]) => [
-      ((x - this.state.lowDate) / this.state.xAxis) *
-        0.9 *
-        this.props.lastWidth,
-      ((y - this.state.lowNetRatio) / this.state.yAxis) * 150
-    ]);
-    const bondData = this.state.bondData.map(([x, y]) => [
-      ((x - this.state.lowDate) / this.state.xAxis) *
-        0.9 *
-        this.props.lastWidth,
-      ((y - this.state.lowNetRatio) / this.state.yAxis) * 150
-    ]);
-    const notesData = this.state.notesData.map(([x, y]) => [
-      ((x - this.state.lowDate) / this.state.xAxis) *
-        0.9 *
-        this.props.lastWidth,
-      ((y - this.state.lowNetRatio) / this.state.yAxis) * 150
-    ]);
-
+    const selfsData = this.state.selfsData
+      .filter((x) => x[1] !== 0)
+      .map(([x, y]) => [
+        ((x - this.state.lowDate) / this.state.xAxis) *
+          0.9 *
+          this.props.lastWidth,
+        ((y - this.state.lowNetRatio) / this.state.yAxis) * 150
+      ]);
+    const mortgagesData = this.state.mortgagesData
+      .filter((x) => x[1] !== 0)
+      .map(([x, y]) => [
+        ((x - this.state.lowDate) / this.state.xAxis) *
+          0.9 *
+          this.props.lastWidth,
+        ((y - this.state.lowNetRatio) / this.state.yAxis) * 150
+      ]);
+    const householdsData = this.state.householdsData
+      .filter((x) => x[1] !== 0)
+      .map(([x, y]) => [
+        ((x - this.state.lowDate) / this.state.xAxis) *
+          0.9 *
+          this.props.lastWidth,
+        ((y - this.state.lowNetRatio) / this.state.yAxis) * 150
+      ]);
+    const corporatesData = this.state.corporatesData
+      .filter((x) => x[1] !== 0)
+      .map(([x, y]) => [
+        ((x - this.state.lowDate) / this.state.xAxis) *
+          0.9 *
+          this.props.lastWidth,
+        ((y - this.state.lowNetRatio) / this.state.yAxis) * 150
+      ]);
+    const bondData = this.state.bondData
+      .filter((x) => x[1] !== 0)
+      .map(([x, y]) => [
+        ((x - this.state.lowDate) / this.state.xAxis) *
+          0.9 *
+          this.props.lastWidth,
+        ((y - this.state.lowNetRatio) / this.state.yAxis) * 150
+      ]);
+    const notesData = this.state.notesData
+      .filter((x) => x[1] !== 0 && x[1] > 10000)
+      .map(([x, y]) => [
+        ((x - this.state.lowDate) / this.state.xAxis) *
+          0.9 *
+          this.props.lastWidth,
+        ((y - this.state.lowNetRatio) / this.state.yAxis) * 150
+      ]);
+    const currenData = this.state.currenData
+      .filter((x) => x[1] !== 0)
+      .map(([x, y]) => [
+        ((x - this.state.lowDate) / this.state.xAxis) *
+          0.9 *
+          this.props.lastWidth,
+        ((y - this.state.lowNetRatio) / this.state.yAxis) * 150
+      ]);
     const labelitem = {
       color: "white",
       width: "max-content",
@@ -2691,23 +2753,35 @@ class NetToGDP extends React.Component {
               width: "calc(100% - 80px)"
             }}
           >
-            {["new debt"].includes(this.state.chartType) ? "annum/" : ""}
-            {["lendings of monetary-debits"].includes(this.state.chartType)
-              ? "share"
-              : ["borrowings of monetary-debits"].includes(this.state.chartType)
-              ? "total"
-              : "quarterly"}
+            {"federal reserve" === this.state.chartType
+              ? `checking`
+              : `${
+                  (["new debt"].includes(this.state.chartType)
+                    ? "annum/"
+                    : "") +
+                  (["lendings of monetary-debits"].includes(
+                    this.state.chartType
+                  )
+                    ? "share"
+                    : ["borrowings of monetary-debits"].includes(
+                        this.state.chartType
+                      )
+                    ? "total"
+                    : "quarterly")
+                }`}
             &nbsp;
             <select
               style={{
                 width: "min-content"
               }}
+              defaultValue="liabilities/GDP, m2*velocity"
               state={this.state.chartType}
               onChange={(name) => {
                 this.setState({ chartType: name.target.value });
               }}
             >
               {[
+                "federal reserve",
                 "liabilities/GDP, m2*velocity",
                 "spending (m2)",
                 "borrowings of monetary-debits",
@@ -2723,6 +2797,7 @@ class NetToGDP extends React.Component {
             </select>
             &nbsp;
             {[
+              "federal reserve",
               "spending (m2)",
               "borrowings of monetary-debits",
               "household accounts",
@@ -2826,6 +2901,23 @@ class NetToGDP extends React.Component {
                   />
                 )
             )}
+            {this.state.chartType === "federal reserve" &&
+              currenData.map(
+                ([x, y], i) =>
+                  !isNaN(x) &&
+                  !isNaN(y) && (
+                    <rect
+                      x={x}
+                      y={y}
+                      width={2}
+                      height={1}
+                      stroke="yellow"
+                      fill="blue"
+                      strokeWidth={1}
+                      key={i}
+                    />
+                  )
+              )}
             {householdsData.map(
               ([x, y], i) =>
                 !isNaN(x) &&
