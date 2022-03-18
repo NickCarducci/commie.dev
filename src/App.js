@@ -131,7 +131,10 @@ export default class App extends React.Component {
         self-ascertainable damages
         <br />
         denomination of “spm” poverty skew, income matching 3rd, rather than
-        original “official” thrice expenses; 1/hour-GDP/p - home/(income/hour)
+        original “official” thrice expenses;{space}
+        <a href="https://micro-theory.com">1/hour-GDP/p</a>
+        {space}-{space}
+        <a href="https://adailyimpeachment.quora.com">home/(income/hour)</a>
         {/*Cenk ".0000001% voter fraud"*/}
         <h4>
           The despondency of labor; Medicare for All mean inflation pennywise
