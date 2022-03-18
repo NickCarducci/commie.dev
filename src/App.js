@@ -122,6 +122,13 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        "Taxes Death and your car breaking down, is certain. Protect with
+        price-lock guarantee." Protecting your car with Car Shield guaranteed
+        schemes are not trade, artifact of and there by is, surrendered freedoms
+        to bid, by labor-borne-demand (metric: 1/hour-GDP/p). flat GDP/p amongst
+        3%/yr+ population growth proves that is not true.
+        <br />
+        <br />
         The Horseshoe Theory has been posited as the idea that the despondency
         amongst people and their stances on issue-vectors is etymology, or
         miscommunication. For instance, the No-Fly Zone and Pay Debt Off are
@@ -144,6 +151,7 @@ export default class App extends React.Component {
             Supply and Demand by Labor despondency
           </a>
         </h4>
+        <h3>I WANNA SEE SOME FUCKING ANUS</h3>
         Are they really transporting the fentanyl laced heroine and marijuana in
         their asses or{space}
         <a href="https://teapharmacy.party/drugs">unchecked parcels</a>? They
