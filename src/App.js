@@ -122,6 +122,13 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        <a href="https://qr.ae/pGLlsf">minimizing</a>
+        {space}the{space}
+        <a href="https://micro-theory.com">
+          Supply and Demand by Labor despondency
+        </a>
+        <br />
+        <br />
         Vulgar socialism (and from it in turn a section of the democrats) has
         taken over distribution as production[, not productive-ward]. After the
         real relation has long been made clear, why retrogress again?
@@ -132,13 +139,17 @@ export default class App extends React.Component {
         imputed in thrice a third percentile) pay for higher energy prices, just
         cut the leases and margins thereafter…. Professor of Political Economy
         University of Sheffield Michael Jacobs, “The rich have no friends so who
-        cares?” I am a competing bid and I care, I don’t want to have to work
-        more for price alone
+        cares?” I am a competing bid and I care, I don’t want to have to{space}
+        <a href="https://qr.ae/pGLl8V">work more for price alone</a>
         <br />
         <br />
         Communism deprives no man of the power to appropriate the products of
-        society; all that it does is to deprive him of the power to subjugate
-        the labour of others by means of such appropriations.
+        society; all that it does is to{space}
+        <a href="https://qr.ae/pGLlHZ">
+          deprive him of the power to subjugate the labour of others by means of
+          such appropriations
+        </a>
+        .
         <br />
         <br />
         <h4>
