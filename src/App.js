@@ -129,6 +129,22 @@ export default class App extends React.Component {
         </a>
         <br />
         <br />
+        Are they really transporting the fentanyl laced heroine and marijuana in
+        their asses or{space}
+        <a href="https://teapharmacy.party/drugs">unchecked parcels</a>? They
+        are a whole less percentage less criminal, closed source prescription
+        and animal testing trust breaking hypocrisy state vig with standing. The
+        pandemic caused checking to no longer be fungible for currency
+        (commie.dev) which itself is fungible for treasury inventory, we could
+        have Hyrnvia share-split; occupy and progressives is global ubi or bust,
+        and I don't want to tax the rich for work more for higher prices alone,
+        a truncated production tax 2024nj.com/carducci 3% under $2k could pay
+        for free rider immutable things like sewage police and lawsuits and
+        leases to treasury for citizenship instead of royalty and drilling
+        signoff platform for dollar owners is self-deprecation, as is preventing
+        the division of labor and laborless-demand.
+        <br />
+        <br />
         Vulgar socialism (and from it in turn a section of the democrats) has
         taken over distribution as production[, not productive-ward]. After the
         real relation has long been made clear, why retrogress again?
