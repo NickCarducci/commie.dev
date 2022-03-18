@@ -123,7 +123,11 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
-        <h4>"War Machine (n.): kill deserters"</h4>
+        <h4>
+          "War Machine (n.): kill deserters, destroy buildings, growth of real
+          GDP, average of out-of-pocket and standardized guarantee scheme
+          premium and impute owner rent mortgage government or structures"
+        </h4>
         name your price elastic (
         <a href="https://theharrispoll.com/only-nine-percent-of-u-s-consumers-believe-pharmaceutical-and-biotechnology-companies-put-patients-over-profits-while-only-16-percent-believe-health-insurance-companies-do-according-to-a-harris-pol/">
           73% of 50+ are pro-AARP
