@@ -122,6 +122,10 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        The Republicans and Democrats just want us to work more, they tax and
+        collude
+        <br />
+        <br />
         ratified by consensus and reason yet appeal fines and variable-part,
         ward of free rider mutable stewardship and immutable truncated
         production tax as per the appropriate services, without oxymoronic equal
