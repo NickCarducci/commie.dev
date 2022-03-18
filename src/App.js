@@ -122,6 +122,33 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        "Getting a job he doesn't deserve." Oh yeah, thanks
+        <br />
+        Nick Carducci - BA in Political Science & Economics, Johns Hopkins
+        University (Graduated 2015)
+        <br />
+        "What would you do if you knew the economy was about to crash?"
+        <br />
+        Originally Answered: "What would you do if the economy crashed?"
+        <br />
+        (For the new question: I’d sell and work for my own copy, instead of
+        currency fungible for state-lands, if I knew concurrent-prices would
+        crash, and then:) I’d buy things.
+        <br />
+        <br />
+        Now (2022), life is more important than $12k/64 debt/cash new person a
+        year (U.S.) and 2/3 false bid pools and implausible use leases,
+        surrendered bids and outrights, excess monetary-debits than
+        concurrentable depositary of secured receipts.
+        <br />
+        <br />
+        Life is royaltyable-science, processmaking; free rider immutable and
+        rent-free is all Public can ever be, for open ingredient licensure, and
+        1/hour-GDP/p reasoning but what else for, and by how else than
+        trust-breaking horizontally, by general-income, or surrendered,
+        standardized guarantees?
+        <br />
+        <br />
         Jimmy Kimmel: "Do you wish you had Apple Care standardized guarantee
         self-dealing general fund name your price employer contributions
         PCE(BEA)-CPI(BLS) margin(profits+savings)?"
