@@ -122,9 +122,25 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        Vulgar socialism (and from it in turn a section of the democrats) has
+        taken over distribution as production[, not productive-ward]. After the
+        real relation has long been made clear, why retrogress again?
+        <br />
+        <br />
+        Taxes to help poor (Progressives vs Occupy: global ubi or bust)
+        households (and small business vs self and individual renters, mortgages
+        imputed in thrice a third percentile) pay for higher energy prices, just
+        cut the leases and margins thereafter…. Professor of Political Economy
+        University of Sheffield Michael Jacobs, “The rich have no friends so who
+        cares?” I am a competing bid and I care, I don’t want to have to work
+        more for price alone
+        <br />
+        <br />
         Communism deprives no man of the power to appropriate the products of
         society; all that it does is to deprive him of the power to subjugate
         the labour of others by means of such appropriations.
+        <br />
+        <br />
         <h4>
           Trading without collateralization nor{space}
           <a href="https://qr.ae/pGLl8V">standardized guarantee schemes</a>
