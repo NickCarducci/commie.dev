@@ -3,6 +3,7 @@ import TwitterTweetEmbed from "./TwitterTweetEmbed";
 import { UAParser } from "ua-parser-js";
 import Cable from "./Dropwire";
 import NetToGDP from "./net";
+import Establishments from "./establishments";
 //import "./style.css";
 export default class App extends React.Component {
   constructor(props) {
@@ -122,6 +123,7 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        <h4>"War Machine (n.): kill deserters"</h4>
         name your price elastic (
         <a href="https://theharrispoll.com/only-nine-percent-of-u-s-consumers-believe-pharmaceutical-and-biotechnology-companies-put-patients-over-profits-while-only-16-percent-believe-health-insurance-companies-do-according-to-a-harris-pol/">
           73% of 50+ are pro-AARP
@@ -148,7 +150,15 @@ export default class App extends React.Component {
         scopes of requirements that just are estimates in naming and material +
         variable-part labor, not low-level, actual, modular, scripts.
         <br />
-        <br />I have invented an alternative to counterfeit in contract, by
+        <br />
+        <Establishments
+          lastWidth={Math.min(600, this.state.lastWidth)}
+          style={{
+            paddingBottom: "15px",
+            backgroundColor: "rgb(190,150,180)"
+          }}
+        />
+        I have invented an alternative to counterfeit in contract, by
         collateral, so to speak, for ascertainable-torts, by 1/12 NAICS industry
         lines of business (name doesn’t matter, yet not payday general income
         for surrendered bid of third part donee labor-borne, currency, demand,
