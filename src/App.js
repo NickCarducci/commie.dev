@@ -122,6 +122,11 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        name your price elastic (
+        <a href="https://theharrispoll.com/only-nine-percent-of-u-s-consumers-believe-pharmaceutical-and-biotechnology-companies-put-patients-over-profits-while-only-16-percent-believe-health-insurance-companies-do-according-to-a-harris-pol/">
+          73% of 50+ are pro-AARP
+        </a>
+        )
         <h4>
           if there were no false/surrendered bid pools, implausible use leases,
           Putin wouldn't destroy his own peoples' apartment buildings.
