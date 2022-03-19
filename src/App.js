@@ -125,6 +125,10 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        Real GDP is inflation of expenses for growth in employer contribution
+        costs.
+        <br />
+        <br />
         Growth jobs and revenue is expenses and artifact of technological
         deprecation
         <h2
