@@ -5,6 +5,7 @@ import Cable from "./Dropwire";
 import NetToGDP from "./net";
 import Establishments from "./establishments";
 import Revenues from "./revenues";
+import Sales from "./sales";
 //import "./style.css";
 export default class App extends React.Component {
   constructor(props) {
@@ -124,7 +125,10 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
-        77WABC: "Lying to the public of danger is presidential and protective."
+        Rational maturity: 77WABC: "Lying to the public of danger is
+        presidential and protective." Success and achievement in rental-income,
+        slavery by proxy and choring for corporate tax equals self and
+        individual, why?
         <br />
         <br />
         I’m spending my life weening cops off bonds and closed source
@@ -638,6 +642,13 @@ export default class App extends React.Component {
         max-royalty, undisbursed.
         <br />
         <br />
+        <Sales
+          lastWidth={Math.min(600, this.state.lastWidth)}
+          style={{
+            paddingBottom: "15px",
+            backgroundColor: "rgb(190,150,180)"
+          }}
+        />
         What do you think about the Fed raising interest rates for the first
         time since 2018?
         <br />
