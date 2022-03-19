@@ -125,6 +125,17 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        <h4>
+          on hold: "no liberals called in and defend the Biden energy policy."
+        </h4>
+        Inventory ut nm wy nwp12 royalty per treasury inventory, vote saver
+        truncated production tax or transaction fee inventory currency Saver, no
+        standardized guarantee scheme general fund self dealing government bond
+        laundering gentrification, instead of leases to treasury, inventory as
+        UT NM WY royalty regressive flat flat or truncated production tax for
+        free rider immutable sewage gravity toilets police and lawsuits
+        <br />
+        <br />
         $500k/life false/surrendered labor-borne-demand bid policy necessarily
         costs more in{space}
         <a href="https://occupywallst.quora.com">hours and income over home</a>,
