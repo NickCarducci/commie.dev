@@ -125,9 +125,20 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        Slash is cut muscle as well as fat, scar is just extra skin
+        <br />
+        <br />
         Trade is World Intellectual Property Organization can only be a
         perpetual motion machine without operational cost of material nor
-        variable-part labors' leases, revenues and sales intake.
+        variable-part labors' leases, revenues and sales intake. "
+        <a href="https://2024nj.com/ssa">Social security</a>
+        {space}puts money in an pays for some of the name your price tooled
+        things, PCE employer benefits over CPI out-of-pockets." Prosperity is
+        income-expenses (revenue-espenses) currency account balance lest
+        uncollateralized or surrendered freedoms, instead of 1/12 vertical-lines
+        of sales and revenues. Republican plan to reform government and cut
+        spending. That's not a flat tax, but a regressive
+        non-trust-breaking-hypocrisy, tax on Grocers
         <br />
         <br />
         "China has a nothingheimer banking system." wreckless hysteria or
