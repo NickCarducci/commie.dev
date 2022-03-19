@@ -144,6 +144,21 @@ export default class App extends React.Component {
         <br />
         <br />
         bretton woods gold exchange, trancation fee inventory currency instead
+        <br />
+        <br />
+        Nick Carducci - policy-drafting software-developer & microeconomist14m
+        <br />
+        How has the increase of pricing for gasoline affected you personally?
+        <br />
+        I work from home, but the sales and revenue I bind my inventory and
+        hours to is dependent on material and labor getting near me. Good thing
+        for open borders, zero tariffs and the open source licensure for the
+        realization of the division of labor theory for technological
+        advancements, measurable in bunting 1/hour-GDP/p (economic welfare
+        a.k.a. efficiency)!
+        <br />
+        End leasing/rig-rates, for royalties, and allow NWP12 wastewater to be
+        relented upon by locals. We have the technology!
         <h4>
           Whistleblowers on jury: the price of money as the way to control the
           economy is absurd. "lend short to make sure the economy doesn't fall
