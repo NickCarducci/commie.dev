@@ -32869,7 +32869,7 @@ class Establishments extends React.Component {
     var lowDate = Math.min(...date);
     var highPPCS = Math.max(...allnation);
     var highDate = Math.max(...date);
-    console.log(highPPCS)
+    console.log(highPPCS);
     var state = {
       all,
       states,
@@ -33000,6 +33000,7 @@ class Establishments extends React.Component {
       >
         <a
           style={{
+            zIndex: "1",
             color: "white",
             fontWeight: "bolder",
             backgroundColor: "rgba(255,255,255,.3)",
@@ -33130,3 +33131,4 @@ class Establishments extends React.Component {
 }
 
 export default Establishments;
+
