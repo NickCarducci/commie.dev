@@ -125,6 +125,10 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        Put america first doesn't mean to lease science, ric grenell you
+        outright, non-concurrentable retard.
+        <br />
+        <br />
         Nick Carducci - BA in Political Science & Economics, Johns Hopkins
         University (Graduated 2015)
         <br />
