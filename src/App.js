@@ -125,6 +125,10 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        $500k/life false/surrendered labor-borne-demand bid policy necessarily
+        costs more in{space}
+        <a href="https://occupywallst.quora.com">hours and income over home</a>,
+        than it takes in, and incentivizes death.
         <h4>Medicine they need, involuntary commitment</h4>
         "They take the medical goods and put them in their hands, using
         inventory of currency holders. Medicine they need, is why we need the
