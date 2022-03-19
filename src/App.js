@@ -4,6 +4,7 @@ import { UAParser } from "ua-parser-js";
 import Cable from "./Dropwire";
 import NetToGDP from "./net";
 import Establishments from "./establishments";
+import Revenues from "./revenues";
 //import "./style.css";
 export default class App extends React.Component {
   constructor(props) {
@@ -221,6 +222,13 @@ export default class App extends React.Component {
         .
         <br />
         <br />
+        <Revenues
+          lastWidth={Math.min(600, this.state.lastWidth)}
+          style={{
+            paddingBottom: "15px",
+            backgroundColor: "rgb(190,150,180)"
+          }}
+        />
         <h4>
           Trading without collateralization nor{space}
           <a href="https://qr.ae/pGLl8V">standardized guarantee schemes</a>
