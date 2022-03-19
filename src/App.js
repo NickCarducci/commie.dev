@@ -125,6 +125,10 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        Grwoth jobs and revenue is expenses and artifact of technological
+        deprecation
+        <br />
+        <br />
         Slash is cut muscle as well as fat, scar is just extra skin
         <br />
         <br />
