@@ -125,9 +125,19 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        relenting money coupon doesn't take money out on net, they actually
+        raise rates by watching capacity of{space}
+        <a href="https://adailyimpeachment.quora.com">$TBT</a>. Boomers dying on
+        time caused non-currency checking (50m/yr+ expected)
+        <br />
+        <br />
+        bretton woods gold exchange, trancation fee inventory currency instead
         <h4>
           Whistleblowers on jury: the price of money as the way to control the
-          economy is absurd
+          economy is absurd. "lend short to make sure the economy doesn't fall
+          apart, hello????" Steve Forbes to Larry Kudlow, we would have had
+          50-60% bigger by people, expenses and hours per time period if we kept
+          historic growth rates of emergencies."
         </h4>
         Nick Carducci - Legal Writer & Software Engineer at Vaults.biz
         (2020–present)
