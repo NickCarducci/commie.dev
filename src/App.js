@@ -138,10 +138,13 @@ export default class App extends React.Component {
         <span role="img" aria-label="free">
           🆓
         </span>
-        naming licensure {/**not even the plus up */}
+        naming licensure{" "}
+        {/**not even the plus up, trump team and biden team (justices?, agencies) */}
         <br />
         <br />
-        Nick Carducci - Econometrist at Occupy Wall St (2008–present)
+        Nick Carducci - Econometrist at{space}
+        <a href="https://vaults.biz/party">Occupy Wall St</a>
+        {space}(2008–present)
         <br />
         How would competition policy undo the wrongs?
         <br />
