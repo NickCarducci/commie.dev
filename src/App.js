@@ -125,6 +125,23 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        <h4>
+          Whistleblowers on jury: the price of money as the way to control the
+          economy is absurd
+        </h4>
+        Nick Carducci - Legal Writer & Software Engineer at Vaults.biz
+        (2020–present)
+        <br />
+        I’m being sued for 1M dollars. 2 years ago I changed lanes without
+        checking which resulted in a driver breaking his leg. Geico will only
+        pay $25k. I’m 22, in school, no assets, and do Postmates for work. What
+        do I do?
+        <br />
+        Torts cannot put you into debt, at least. These Standardized Guarantee
+        Schemes by Geico (forced, to boot) is surrendered bids of
+        labor-borne-demand, for expiring premiums, just the same.
+        <br />
+        <br />
         Rational maturity: 77WABC: "Lying to the public of danger is
         presidential and protective." Success and achievement in rental-income,
         slavery by proxy and choring for corporate tax equals self and
