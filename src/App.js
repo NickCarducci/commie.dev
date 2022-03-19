@@ -125,6 +125,23 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        Nick Carducci - BA in Political Science & Economics, Johns Hopkins
+        University (Graduated 2015)
+        <br />
+        How do markets lead to improved efficiency?
+        <br />
+        The division of labor and propensities of indifference by skew of
+        markets produce an average price that negotiates by hours and inventory,
+        for revenue and sales.
+        <br />
+        <br />
+        Poverty threshold is not enough income until thrice expenses with
+        employer benefit, standardized guarantee schemes, owner-rents and
+        mortgages, imputed, if you don’t have them.
+        <br />
+        <br />
+        We need currency inventory by transaction fees, truncated.
+        Bankingisnot.biz.
         <h4>
           on hold: "no liberals called in and defend the Biden energy policy."
         </h4>
@@ -133,7 +150,10 @@ export default class App extends React.Component {
         standardized guarantee scheme general fund self dealing government bond
         laundering gentrification, instead of leases to treasury, inventory as
         UT NM WY royalty regressive flat flat or truncated production tax for
-        free rider immutable sewage gravity toilets police and lawsuits
+        free rider immutable sewage gravity toilets police and lawsuits.
+        consumers should not lead but hold producers to be subservient to them -
+        collateral by 1/12 NAICS and currency & local platform for royalty% and
+        drilling,
         <br />
         <br />
         $500k/life false/surrendered labor-borne-demand bid policy necessarily
