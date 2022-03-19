@@ -142,8 +142,8 @@ export default class App extends React.Component {
         <span role="img" aria-label="umbrella old-euro squirrel bottom-left">
           ☔️👨🏻‍🦳🐿↙️
         </span>
-        . leases to condos outright (no imputations of SGS, mortgage nor
-        owner-rents, please!)
+        . Implausible use leases to condos-/storefronts-outright (no imputations
+        of SGS, mortgage nor owner-rents, please!)
         <br />
         <br />
         "China has a nothingheimer banking system." wreckless hysteria or
