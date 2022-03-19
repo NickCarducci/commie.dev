@@ -125,6 +125,11 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        Trade is World Intellectual Property Organization can only be a
+        perpetual motion machine without operational cost of material nor
+        variable-part labors' leases, revenues and sales intake.
+        <br />
+        <br />
         "China has a nothingheimer banking system." wreckless hysteria or
         aggressive? all episodes are rationale!{space}
         <span role="img" aria-label="target">
