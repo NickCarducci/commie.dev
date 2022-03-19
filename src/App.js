@@ -338,12 +338,15 @@ export default class App extends React.Component {
         {posts.map((p) => {
           return <div>{p.message}</div>;
         })}
-        $150t non-concurrentable currency $2t,
+        <h4>Why doesn't Zelinski share-split?</h4>
+        Guaranteed Bond Income & Booming $150t non-concurrentable currency $2t
+        labor-borne-demand,
         <br />
-        $550b/yr+ dividends paid for laborless-demand is not good news. This is
-        a cause of inflation, with mortgages and guarantees. Stagflation is
-        expenses without government nor structural projected leases' material
-        and variable-part labor costs.
+        $550b/yr+ dividends paid for laborless-demand is not good news nor the
+        best thing for families nor the right way to invest for
+        scientific-trust-building. This is a cause of inflation, with mortgages
+        and guarantees. Stagflation is expenses without government nor
+        structural projected leases' material and variable-part labor costs.
         <br />
         <br />
         "Zelinski might say we need to stop this fight."
