@@ -125,6 +125,9 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        Esther and Phil: "Guaranteeing" a property by an estimate is not help,
+        only voluntary trade of inventory and hours helps...
+        <br />
         Put america first doesn't mean to lease science, ric grenell you
         outright, non-concurrentable retard.
         <br />
@@ -902,3 +905,4 @@ export default class App extends React.Component {
     );
   }
 }
+
