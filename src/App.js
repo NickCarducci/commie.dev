@@ -138,7 +138,12 @@ export default class App extends React.Component {
         uncollateralized or surrendered freedoms, instead of 1/12 vertical-lines
         of sales and revenues. Republican plan to reform government and cut
         spending. That's not a flat tax, but a regressive
-        non-trust-breaking-hypocrisy, tax on Grocers
+        non-trust-breaking-hypocrisy, tax on Grocers{space}
+        <span role="img" aria-label="umbrella old-euro squirrel bottom-left">
+          ☔️👨🏻‍🦳🐿↙️
+        </span>
+        . leases to condos outright (no imputations of SGS, mortgage nor
+        owner-rents, please!)
         <br />
         <br />
         "China has a nothingheimer banking system." wreckless hysteria or
