@@ -132,7 +132,8 @@ export default class App extends React.Component {
         <br />
         <br />
         I’m spending my life weening cops off bonds and closed source
-        licensures, nobody works for laborless-demand under my rule.
+        licensures, nobody works for laborless-demand under my rule. Taxes free
+        rider mutable is useless, too.
         <br />
         <br />
         50m/yr+ expected deaths worldwide, Dr. Peter Michalos calls pandemic a
@@ -161,6 +162,17 @@ export default class App extends React.Component {
         surrendered freedoms to bid, by labor-borne-demand (metric:
         1/hour-GDP/p). flat GDP/p amongst 3%/yr+ population growth proves that
         is not true.
+        <br />
+        <br />
+        Ultimately inflation is the debasement in the value of the dollar, and
+        there is a lot of ways to measure that (wouldn’t it be expenditures
+        growth, or per hour, instead of income?)
+        <br />
+        “Dollar declines because we aren’t paying attention.” Low inflation by
+        relenting on interest targeting of natural market is not going to end
+        borrowing outright.
+        <br />
+        GDP/p is inflation, all cause, as collateral in m2 basing, stands
         <br />
         <br />
         The Horseshoe Theory has been posited as the idea that the despondency
