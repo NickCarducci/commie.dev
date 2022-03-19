@@ -124,6 +124,13 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        77WABC: "Lying to the public of danger is presidential and protective."
+        <br />
+        <br />
+        I’m spending my life weening cops off bonds and closed source
+        licensures, nobody works for laborless-demand under my rule.
+        <br />
+        <br />
         50m/yr+ expected deaths worldwide, Dr. Peter Michalos calls pandemic a
         death sentance and is the reason for making checking non-fungible for
         currency.
