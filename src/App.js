@@ -125,6 +125,18 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        Nick Carducci - Econometrist at Occupy Wall St (2008–present)
+        <br />
+        How would competition policy undo the wrongs?
+        <br />
+        Only insofar as labor equates demand does the bid-met-ask become actual.
+        The micro-theory of indifferent Supply and Demand, for choice
+        market-skew, can be enumerated by price 1y/-1x 1/hour-GDP/population for
+        free rider
+        <br />
+        immutable (debt-spending) credit as income, or mutable tax receipts.
+        <br />
+        <br />
         relenting money coupon doesn't take money out on net, they actually
         raise rates by watching capacity of{space}
         <a href="https://adailyimpeachment.quora.com">$TBT</a>. Boomers dying on
