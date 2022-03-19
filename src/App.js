@@ -125,8 +125,10 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
-        Real GDP is inflation of expenses for growth in employer contribution
-        costs.
+        "They take the medical goods and put them in their hands, using
+        inventory of currency holders. Medicine they need, is why we need the
+        ascertainable costs of employer contributions, PCE-CPI" Real GDP is
+        inflation of expenses for growth in employer contribution costs.
         <br />
         <br />
         Growth jobs and revenue is expenses and artifact of technological
