@@ -125,6 +125,9 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        "China has a nothingheimer banking system."
+        <br />
+        <br />
         Nick Carducci - Econometrist at Occupy Wall St (2008–present)
         <br />
         How would competition policy undo the wrongs?
