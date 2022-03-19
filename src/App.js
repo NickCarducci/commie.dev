@@ -127,6 +127,14 @@ export default class App extends React.Component {
         />
         Growth jobs and revenue is expenses and artifact of technological
         deprecation
+        <h2
+          style={{
+            marginRight: "20px",
+            float: "right"
+          }}
+        >
+          world peace
+        </h2>
         <br />
         <br />
         Slash is cut muscle as well as fat, scar is just extra skin
@@ -141,8 +149,11 @@ export default class App extends React.Component {
         income-expenses (revenue-espenses) currency account balance lest
         uncollateralized or surrendered freedoms, instead of 1/12 vertical-lines
         of sales and revenues. Republican plan to reform government and cut
-        spending. That's not a flat tax, but a regressive
-        non-trust-breaking-hypocrisy, tax on Grocers{space}
+        spending. That's not a flat tax, but{space}
+        <span style={{ color: "purple" }}>
+          a regressive non-trust-breaking-hypocrisy, tax on Grocers
+        </span>
+        {space}
         <span role="img" aria-label="umbrella old-euro squirrel bottom-left">
           ☔️👨🏻‍🦳🐿↙️
         </span>
@@ -187,7 +198,14 @@ export default class App extends React.Component {
         time caused non-currency checking (50m/yr+ expected)
         <br />
         <br />
-        bretton woods gold exchange, trancation fee inventory currency instead
+        blanced budget would leave real GDP (GDP - GDP*inflation% of FCSU
+        benefits, owner-rents and mortgage imputed, expenses) at structures
+        <br />
+        bretton woods gold exchange,{space}
+        <span style={{ color: "purple" }}>
+          transaction fee inventory currency instead
+        </span>{" "}
+        end success by laborless-demand of rental-income
         <br />
         <br />
         Nick Carducci - policy-drafting software-developer & microeconomist14m
