@@ -13,7 +13,6 @@ export default class App extends React.Component {
     var parser = new UAParser();
     const name = parser.getBrowser().name;
     console.log(name);
-    document.cookie = "";
     this.state = {
       trigger: false,
       browser: name,
@@ -510,7 +509,7 @@ export default class App extends React.Component {
           src={
             this.state.noyout
               ? ""
-              : "https://www.dl.dropboxusercontent.com/s/410s2o75pnght03/marx.jpeg?dl=0"
+              : "https://www.dropbox.com/s/410s2o75pnght03/marx.jpeg?raw=1"
           }
           float={"right"}
           title="karl marx"
@@ -718,7 +717,7 @@ export default class App extends React.Component {
           src={
             this.state.noyout
               ? ""
-              : "https://www.dl.dropboxusercontent.com/s/sqf6c2uuuf4kjzg/Screen%20Shot%202022-03-17%20at%201.39.57%20PM.png?dl=0"
+              : "https://www.dropbox.com/s/sqf6c2uuuf4kjzg/Screen%20Shot%202022-03-17%20at%201.39.57%20PM.png?raw=1"
           }
           float={"left"}
           title="The Future of Medicine: Legislation to Encourage Innovation and Improve Oversight (Energy and Commerce Committee, Youtube) - https://youtu.be/Oiy0aFXyKzU"
@@ -906,4 +905,3 @@ export default class App extends React.Component {
     );
   }
 }
-
