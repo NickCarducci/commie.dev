@@ -112,7 +112,7 @@ export default class App extends React.Component {
           position: "relative"
         }}
       >
-        <div
+        {/*<div
           onClick={() => {
             window.scroll(0, 100);
             this.setState({ trigger: true });
@@ -124,7 +124,10 @@ export default class App extends React.Component {
             width: "100%",
             backgroundColor: "rgba(20,20,20,.5)"
           }}
-        />
+        />*/}
+        Realistic communism is marxism that prevents lessing inventory,
+        following engels' outright debentures for sell before default
+        <br />
         Esther and Phil: "Guaranteeing" a property by an estimate is not help,
         only voluntary trade of inventory and hours helps...
         <br />
