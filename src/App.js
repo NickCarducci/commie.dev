@@ -124,9 +124,32 @@ export default class App extends React.Component {
             width: "100%",
             backgroundColor: "rgba(20,20,20,.5)"
           }}
-        />*/}
-        Realistic communism is marxism that prevents lessing inventory,
-        following engels' outright debentures for sell before default
+        /> mimetic value negotiate complied: Silence versus heinous 
+        I talk to all sides with great respect
+        Subjective no
+        Unless it is paid complied*/}
+        inflation going up, growth going down means{space}
+        <a href="https://qr.ae/pvyL52">standardized guarantee schemes</a>.
+        <br />
+        save the animals dismantle FDA/USPTO/NIH
+        <br />
+        30-50% landlord didn't allow pets, they had too many animals, and they
+        couldn't afford the cost of food and veterinary care The rest are
+        puppymills, and hardly any stray born.
+        <br />
+        DON'T medicinally castrate pedo! Don't medicate the homeless! Everyone
+        {space}
+        <a href="https://teapharmacy.party/drugs">concentrate</a>!
+        <br />
+        <br />
+        "The world depends on{space}
+        <a href="https://saverparty.xyz/nato">NATO</a>"<br />
+        <br />
+        Realistic communism is{space}
+        <a href="https://qr.ae/pvyLop">
+          marxism that prevents lessing inventory
+        </a>
+        , following engels' outright debentures for sell before default
         <br />
         Esther and Phil: "Guaranteeing" a property by an estimate is not help,
         only voluntary trade of inventory and hours helps...
