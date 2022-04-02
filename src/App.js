@@ -133,7 +133,7 @@ export default class App extends React.Component {
         </a>
         <br />
         By people there is{space}
-        <a href="https://fred.stlouisfed.org/graph/?g=NNjj">$2.2t</a>
+        <a href="https://fred.stlouisfed.org/graph/?g=NNri">$2.2t</a>
         {space}but by household there is $4t
         <br />
         Corporates need to outlay their profits, they have $2t, $4t heads of
@@ -480,6 +480,8 @@ export default class App extends React.Component {
           .
         </div>
         <br />
+        Debt is duress{space}&bull;{space}
+        The bourgeoisie will never sell anything outright
         <Revenues
           lastWidth={Math.min(600, this.state.lastWidth)}
           style={{
