@@ -128,6 +128,10 @@ export default class App extends React.Component {
         I talk to all sides with great respect
         Subjective no
         Unless it is paid complied*/}
+        <h4>
+          Standardized guarantee schemes taxed and garnished for invoices of
+          government/aged owned enterprises
+        </h4>
         "The treatment, no one gets that treatment," by Stepfather says who
         loses money since inception of his charity-work design-building homes
         for rich people at a loss since 2003.
