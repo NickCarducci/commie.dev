@@ -103,6 +103,7 @@ export default class App extends React.Component {
     return (
       <div
         style={{
+          overflow: "hidden",
           //margin: "5px",
           fontFamily: "arial, sans serif",
           wordBreak: "break-word",
@@ -297,8 +298,16 @@ export default class App extends React.Component {
           Trump on his way out allowed $4t checking for mortgages
         </a>
         <br />
-        Corporates need to outlay their profits, they have $2t, $4t heads of
-        household
+        <span
+          style={{
+            color: "white",
+            backgroundColor: "black"
+          }}
+        >
+          Corporates need to outlay their profits, then (cash/debt)*income, then
+          max-royalty 1/12 vertical-industry-type
+        </span>
+        , they have $2t, $4t heads of household
         <br />
         $2t municipalities
         <br />
