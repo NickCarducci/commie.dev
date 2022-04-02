@@ -182,7 +182,7 @@ export default class App extends React.Component {
         need to get more people working for cash flow instead of inventory."
         <br />
         <br />
-        Everyone move back home! :D
+        Everyone,{space}<a href="https://fred.stlouisfed.org/graph/?g=NO8z">move back home</a>! :D
         <br />
         <br />
         "'Deportation' is not a word Republicans should use, because we can get
@@ -1224,3 +1224,4 @@ export default class App extends React.Component {
     );
   }
 }
+
