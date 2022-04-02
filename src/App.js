@@ -217,6 +217,9 @@ export default class App extends React.Component {
         <span style={{ color: "forestgreen" }}>growth</span>.”
         <br />
         <br />
+        “It hurts moving up and down,” “I bet.”
+        <br />
+        <br />
         Government needs to intervene for income equality and{space}
         <span style={{ color: "forestgreen" }}>government structures</span>
         <br />
