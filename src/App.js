@@ -130,7 +130,9 @@ export default class App extends React.Component {
         Unless it is paid complied*/}
         <h4>
           Standardized guarantee schemes taxed and garnished for invoices of
-          government/aged owned enterprises
+          government/aged owned enterprises; debenture or debit vault share
+          security depositary receipt by transaction fee{space}
+          <a href="https://vaults.biz/sdr">stooding up</a>?
         </h4>
         "The treatment, no one gets that treatment," by Stepfather says who
         loses money since inception of his charity-work design-building homes
