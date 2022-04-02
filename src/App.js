@@ -132,7 +132,9 @@ export default class App extends React.Component {
           The top 1% have $1t, 50-99% have $1t, bottom $.2t
         </a>
         <br />
-        By people there is $2.2t but by household there is $4t
+        By people there is{space}
+        <a href="https://fred.stlouisfed.org/graph/?g=NNjj">$2.2t</a>
+        {space}but by household there is $4t
         <br />
         Corporates need to outlay their profits, they have $2t, $4t heads of
         household
