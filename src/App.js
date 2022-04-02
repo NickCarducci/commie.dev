@@ -129,6 +129,13 @@ export default class App extends React.Component {
         I talk to all sides with great respect
         Subjective no
         Unless it is paid complied*/}
+        "They are Educated Ukrainians and they should work for corporates, we
+        need to get more people working for cash flow instead of inventory."
+        <br />
+        <br />
+        Everyone move back home! :D
+        <br />
+        <br />
         "'Deportation' is not a word Republicans should use, because we can get
         them on pocketbook issues." - Stephen Moore, accounts expendable
         <div
