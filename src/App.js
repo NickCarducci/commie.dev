@@ -128,6 +128,26 @@ export default class App extends React.Component {
         I talk to all sides with great respect
         Subjective no
         Unless it is paid complied*/}
+        covid calimny assumption, CT scan disability for medicate/
+        <a href="https://qr.ae/pvKyv6">castrate</a>
+        {space}
+        homeless
+        <div
+          style={{
+            backgroundColor: "cornflowerblue",
+            borderRadius: "10px",
+            margin: "10px",
+            padding: "10px"
+          }}
+        >
+          <h4>**Bo Snerdley clicks**</h4>
+          Checking tripled, and debenture already that isn't stood up by
+          transaction fees, has loose-inventory to sell, personal-income
+          default. $2t-6t $1t households, $1t corporates, and $2t non-profits,
+          which how can you be if you have checking or time deposits in account.
+          commie.dev that's a lotta gavagoul
+        </div>
+        <br />
         <a href="https://qr.ae/pvKt09">
           The top 1% have $1t, 50-99% have $1t, bottom $.2t
         </a>
