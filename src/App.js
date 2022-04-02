@@ -128,6 +128,26 @@ export default class App extends React.Component {
         I talk to all sides with great respect
         Subjective no
         Unless it is paid complied*/}
+        <a href="https://qr.ae/pvKt09">
+          The top 1% have $1t, 50-99% have $1t, bottom $.2t
+        </a>
+        <br />
+        By people there is $2.2t but by household there is $4t
+        <br />
+        Corporates need to outlay their profits, they have $2t, $4t heads of
+        household
+        <br />
+        debenture of treasury that can sell inventory then pay who they want
+        then default
+        <br />
+        Cdc significance by n=2019-20 sample size is meaningless gave cover for
+        trump and Biden to bailout $4t of $30t mortgages to make checking, which
+        used to be fungible for $2t currency, that is
+        <br />
+        Oh you don’t have to pay for anything, but Trump on his way out allowed
+        $4t checking for mortgages
+        <br />
+        <br />
         inflation going up, growth going down means{space}
         <a href="https://qr.ae/pvyL52">standardized guarantee schemes</a>.
         <br />
@@ -426,15 +446,28 @@ export default class App extends React.Component {
         cares?” I am a competing bid and I care, I don’t want to have to{space}
         <a href="https://qr.ae/pGLl8V">work more for price alone</a>
         <br />
-        <br />
-        Communism deprives no man of the power to appropriate the products of
-        society; all that it does is to{space}
-        <a href="https://qr.ae/pGLlHZ">
-          deprive him of the power to subjugate the labour of others by means of
-          such appropriations
-        </a>
-        .
-        <br />
+        <div
+          style={{
+            color: "white",
+            backgroundColor: "darkviolet",
+            borderRadius: "10px",
+            margin: "10px",
+            padding: "10px"
+          }}
+        >
+          Communism deprives no man of the power to appropriate the products of
+          society; all that it does is to{space}
+          <a
+            href="https://qr.ae/pGLlHZ"
+            style={{
+              color: "white"
+            }}
+          >
+            deprive him of the power to subjugate the labour of others by means
+            of such appropriations
+          </a>
+          .
+        </div>
         <br />
         <Revenues
           lastWidth={Math.min(600, this.state.lastWidth)}
