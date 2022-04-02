@@ -162,7 +162,8 @@ export default class App extends React.Component {
         Freedom opportunity and entrepreneurship, doesn’t want to saddle
         ranchers and small business (average age) $4t in time deposits second
         ten years, work requirement, stop prescriptions and FDA+USPTO for
-        naming, and open source. Welfare reform for trust breaking hypocrisy
+        naming, and open source. Welfare reform for trust breaking hypocrisy.
+        subsidies have their own compounding effect in way of spending, program
         <br />
         <br />
         Debenture corporate and treasury, loose-inventory
