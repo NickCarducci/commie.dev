@@ -150,6 +150,27 @@ export default class App extends React.Component {
           They still slaughter cows in Iran for sin sacrifice
         </a>
         ." I say. "You fucking nut. I’m not making that trade. It’s my money."
+        <br />
+        <br />
+        I have Microsoft in my name, you have a balance sheet to amortize to
+        less than zero
+        <br />
+        <br />
+        “Debt makes for no growth.”
+        <br />
+        <br />
+        Freedom opportunity and entrepreneurship, doesn’t want to saddle
+        ranchers and small business (average age) $4t in time deposits second
+        ten years, work requirement, stop prescriptions and FDA+USPTO for
+        naming, and open source. Welfare reform for trust breaking hypocrisy
+        <br />
+        <br />
+        Debenture corporate and treasury, loose-inventory
+        <br />
+        <br />
+        Support by surrendered freedom to bid of labor-borne, I’m going to
+        reverse all the debt, your bills are donee beneficiary collateral or
+        cash advance transaction non-durable chargeable
         <div
           style={{
             color: "white",
