@@ -128,6 +128,27 @@ export default class App extends React.Component {
         I talk to all sides with great respect
         Subjective no
         Unless it is paid complied*/}
+        "The treatment, no one gets that treatment," by Stepfather says who
+        loses money since inception of his charity-work design-building homes
+        for rich people at a loss since 2003.
+        <br />
+        "Jesus died for you," as my mom is taking my disability as payee for
+        35.4% slander but actually one of{space}
+        <a href="https://2024nj.com/disability">16% injured and</a>
+        {space}poisoned, ignored, citing 'messy hair' racism. I had just
+        completed{space}
+        <a href="https://fred.stlouisfed.org/graph/?g=NNGB">
+          oranizing the economy
+        </a>
+        {space}after organizing their accounts then studying East Asian Studies
+        and Economics, and then Politics, at Johns Hopkins University and Islam,
+        Politics and Computer Science at Monmouth University.
+        <br />
+        <br />"
+        <a href="https://qr.ae/pvKyv6">
+          They still slaughter cows in Iran for sin sacrifice
+        </a>
+        ." I say. "You fucking nut."
         <div
           style={{
             color: "white",
@@ -137,7 +158,7 @@ export default class App extends React.Component {
             padding: "10px"
           }}
         >
-          {/**atticka shubo */}
+          {/**atticka shubo, matt eaken */}
           “The rouble is jacking up interest rates to prop up the currency.” -
           CNN Rig-rates to China India and EU ex UK. Can’t force OPEC to add
           supply, then what is inventory? Selling outright?
