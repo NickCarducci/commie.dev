@@ -131,9 +131,10 @@ export default class App extends React.Component {
         "The treatment, no one gets that treatment," by Stepfather says who
         loses money since inception of his charity-work design-building homes
         for rich people at a loss since 2003.
-        <br />
-        "Jesus died for you," as my mom is taking my disability as payee for
-        35.4% slander but actually one of{space}
+        <br />"<a href="https://saverparty.xyz/jesus">Jesus</a>
+        {space}died for you," as my mom makes me a dish of chicken and avocado
+        is taking my disability as payee for 35.4% slander but actually one of
+        {space}
         <a href="https://2024nj.com/disability">16% injured and</a>
         {space}poisoned, ignored, citing 'messy hair' racism. I had just
         completed{space}
@@ -148,7 +149,7 @@ export default class App extends React.Component {
         <a href="https://qr.ae/pvKyv6">
           They still slaughter cows in Iran for sin sacrifice
         </a>
-        ." I say. "You fucking nut."
+        ." I say. "You fucking nut. I’m not making that trade. It’s my money."
         <div
           style={{
             color: "white",
