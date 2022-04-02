@@ -158,13 +158,22 @@ export default class App extends React.Component {
         <br />
         “Debt makes for no growth.”
         <br />
-        <br />
-        Freedom opportunity and entrepreneurship, doesn’t want to saddle
-        ranchers and small business (average age) $4t in time deposits second
-        ten years, work requirement, stop prescriptions and FDA+USPTO for
-        naming, and open source. Welfare reform for trust breaking hypocrisy.
-        subsidies have their own compounding effect in way of spending, program
-        <br />
+        <div
+          style={{
+            color: "white",
+            backgroundColor: "forestgreen",
+            borderRadius: "10px",
+            margin: "10px",
+            padding: "10px"
+          }}
+        >
+          Freedom opportunity and entrepreneurship, doesn’t want to saddle
+          ranchers and small business (average age) $4t in time deposits second
+          ten years, work requirement, stop prescriptions and FDA+USPTO for
+          naming, and open source. Welfare reform for trust breaking hypocrisy.
+          subsidies have their own compounding effect in way of spending,
+          program
+        </div>
         <br />
         Debenture corporate and treasury, loose-inventory
         <br />
