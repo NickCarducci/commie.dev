@@ -139,7 +139,8 @@ export default class App extends React.Component {
         >
           {/**atticka shubo */}
           “The rouble is jacking up interest rates to prop up the currency.” -
-          CNN Rig-rates to China India and EU ex UK
+          CNN Rig-rates to China India and EU ex UK. Can’t force OPEC to add
+          supply, then what is inventory? Selling outright?
         </div>
         <a href="https://2024nj.com/plandemic">covid</a>
         {space}calimny assumption, CT scan disability for medicate/
