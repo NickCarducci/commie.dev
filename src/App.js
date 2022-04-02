@@ -129,6 +129,24 @@ export default class App extends React.Component {
         I talk to all sides with great respect
         Subjective no
         Unless it is paid complied*/}
+        <Cable
+          style={{ width: "200px" }}
+          onError={handleScollImgError}
+          img={true}
+          src={
+            this.state.noyout
+              ? ""
+              : "https://www.dropbox.com/s/jepe71hu8iuo8ro/Screen%20Shot%202022-04-02%20at%205.33.17%20PM.png?raw=1"
+          }
+          float={"left"}
+          title="Trump propaganda"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “Stagflation is recession and inflation,” inflation is consumer goods,
+        recession is structural implausible use lease 5 condo store
         <h3>the need for rollover insurance</h3>
         “Meet needs in a timely manner, opinion network is outstanding.” -
         surrendered bid of another is non-compete contracts that are Consumer
