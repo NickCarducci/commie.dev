@@ -220,7 +220,8 @@ export default class App extends React.Component {
         </a>
         {space}after organizing their accounts then studying East Asian Studies
         and Economics, and then Politics, at Johns Hopkins University and Islam,
-        Politics and Computer Science at Monmouth University.
+        Politics and Computer Science at Monmouth University (begrudgement be
+        upon Iblis).
         <br />
         <br />
         I couldn't believe people would do this intentionally to eachother, as i
