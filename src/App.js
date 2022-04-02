@@ -145,9 +145,16 @@ export default class App extends React.Component {
         used to be fungible for $2t currency, that is
         <br />
         Oh you don’t have to pay for anything, but{space}
-        <a href="https://fred.stlouisfed.org/graph/?g=NNdr">
+        <a href="https://fred.stlouisfed.org/graph/?g=NNfM">
           Trump on his way out allowed $4t checking for mortgages
         </a>
+        <br />
+        Corporates need to outlay their profits, they have $2t, $4t heads of
+        household
+        <br />
+        $2t municipalities
+        <br />
+        Self $.5t
         <br />
         <br />
         inflation going up, growth going down means{space}
