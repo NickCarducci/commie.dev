@@ -129,6 +129,9 @@ export default class App extends React.Component {
         I talk to all sides with great respect
         Subjective no
         Unless it is paid complied*/}
+        We need to starve healthcare, housing and education, the basis for
+        negotiation; taxes for invoices by nam-your-price false bid pool?
+        <h4>People hate hypocrisy, 1/hour-GDP/p</h4>
         <Cable
           style={{ width: "200px" }}
           onError={handleScollImgError}
