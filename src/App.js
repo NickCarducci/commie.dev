@@ -149,10 +149,15 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
-        "I never understood the lefts' argument against wastewater for prissy
-        refining shipments dilution & natural gas fracking/binding Fracking
-        fluid (or frac fluid) is a chemical mixture used in drilling operations
-        to increase the quantity of hydrocarbons that can be extracted."
+        "I never understood the lefts'{space}
+        <a href="https://fred.stlouisfed.org/graph/?g=NO9n">
+          argument against waste
+        </a>
+        water for prissy refining shipments dilution & natural gas
+        fracking/binding Fracking fluid (or frac fluid) is a chemical mixture
+        used in drilling operations to increase the quantity of hydrocarbons
+        that can be{space}
+        <a href="https://magnate.company">extracted</a>."
         <br />
         <div
           style={{
@@ -182,7 +187,9 @@ export default class App extends React.Component {
         need to get more people working for cash flow instead of inventory."
         <br />
         <br />
-        Everyone,{space}<a href="https://fred.stlouisfed.org/graph/?g=NO8z">move back home</a>! :D
+        Everyone,{space}
+        <a href="https://fred.stlouisfed.org/graph/?g=NO8z">move back home</a>!
+        :D
         <br />
         <br />
         "'Deportation' is not a word Republicans should use, because we can get
@@ -1224,4 +1231,3 @@ export default class App extends React.Component {
     );
   }
 }
-
