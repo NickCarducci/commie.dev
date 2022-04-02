@@ -129,6 +129,23 @@ export default class App extends React.Component {
         I talk to all sides with great respect
         Subjective no
         Unless it is paid complied*/}
+        <Cable
+          style={{ width: "200px" }}
+          onError={handleScollImgError}
+          img={true}
+          src={
+            this.state.noyout
+              ? ""
+              : "https://www.dropbox.com/s/olnis4fw859xb5f/Screen%20Shot%202022-04-02%20at%205.01.52%20PM.png?raw=1"
+          }
+          float={"left"}
+          title="Trump propaganda"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        Working and saving money, investing in bonds and spending hours
         <h1>
           <a href="https://2024nj.com/nypd">public</a>
           {space}
