@@ -129,6 +129,47 @@ export default class App extends React.Component {
         I talk to all sides with great respect
         Subjective no
         Unless it is paid complied*/}
+        <h1>
+          <a href="https://2024nj.com/nypd">public</a>
+          {space}
+          <a href="https://2024nj.com/disability">interventions</a>
+        </h1>
+        <h4>
+          "​'We Sell Drugs: The Alchemy Of U.S. Empire' By Suzanna{space}
+          <a href="https://teapharmacy.party/drugs">Reiss</a>" - Gary S. Seth
+        </h4>
+        <Cable
+          style={{ width: "200px" }}
+          onError={handleScollImgError}
+          img={true}
+          src={
+            this.state.noyout
+              ? ""
+              : "https://www.dropbox.com/s/i0tzmrvshsuwzrz/Screen%20Shot%202022-04-02%20at%202.59.56%20PM.png?raw=1"
+          }
+          float={"right"}
+          title="Kilmany Dewhart and Dr. McCormick - public interventions"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        Psychiatric overdose of{space}
+        <a href="https://2024nj.com/bachelors">fentanyl</a>. All-cause{space}
+        <a href="https://youtu.be/Weqb9KrQ-TU?t=21">(?)</a>
+        {space}
+        hysterics (torts and claims).
+        <br />
+        <br />
+        Stop conflating homelessness and voluntary or involuntary drugs. just
+        house them, don't chemically castrate them with Risperidone.
+        <br />
+        Timeclock unlock sprints, not property just a spot in price if margins
+        are non-negative... ​5 condo store.
+        <br />
+        ​Everyone here for pharma castrating pedo.
+        <br />
+        <br />
         We need to starve healthcare, housing and education, the basis for
         negotiation; taxes for invoices by nam-your-price false bid pool?
         <h4>People hate hypocrisy, 1/hour-GDP/p</h4>
