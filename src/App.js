@@ -128,6 +128,19 @@ export default class App extends React.Component {
         I talk to all sides with great respect
         Subjective no
         Unless it is paid complied*/}
+        <div
+          style={{
+            color: "white",
+            backgroundColor: "firebrick",
+            borderRadius: "10px",
+            margin: "10px",
+            padding: "10px"
+          }}
+        >
+          {/**atticka shubo */}
+          “The rouble is jacking up interest rates to prop up the currency.” -
+          CNN Rig-rates to China India and EU ex UK
+        </div>
         covid calimny assumption, CT scan disability for medicate/
         <a href="https://qr.ae/pvKyv6">castrate</a>
         {space}
