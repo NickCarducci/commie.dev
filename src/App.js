@@ -144,7 +144,8 @@ export default class App extends React.Component {
         covid calimny assumption, CT scan disability for medicate/
         <a href="https://qr.ae/pvKyv6">castrate</a>
         {space}
-        homeless
+        homeless - hysterical name your price torts for closed source
+        unilaterally known hazard vig instead of NAMING
         <div
           style={{
             backgroundColor: "cornflowerblue",
