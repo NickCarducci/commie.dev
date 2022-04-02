@@ -1189,6 +1189,10 @@ export default class App extends React.Component {
         max-royalty, undisbursed.
         <br />
         <br />
+        <h4>
+          <a href="https://saverparty.xyz/global">global</a>; jail don't reward
+          non-negligence
+        </h4>
         <Sales
           lastWidth={Math.min(600, this.state.lastWidth)}
           style={{
