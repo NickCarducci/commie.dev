@@ -313,6 +313,12 @@ export default class App extends React.Component {
         debenture of treasury that can sell inventory then pay who they want
         then default
         <br />
+        Never outright for labor costs by hours and most measured by
+        1/hour-GDP/p that would make for a nominal positive but{space}
+        <a href="https://qr.ae/pvKyC4">actual negative</a>, Savings
+        notwithstanding
+        <br />
+        <br />
         Cdc significance by n=2019-20 sample size is meaningless gave cover for
         trump and Biden to bailout $4t of $30t mortgages to make checking, which
         used to be fungible for $2t currency, that is
