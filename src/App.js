@@ -129,6 +129,30 @@ export default class App extends React.Component {
         I talk to all sides with great respect
         Subjective no
         Unless it is paid complied*/}
+        <div
+          style={{
+            color: "white",
+            backgroundColor: "black",
+            borderRadius: "10px",
+            margin: "10px",
+            padding: "10px"
+          }}
+        >
+          Homes trail rents by 12 months
+          <br />
+          Wages and rents are sticky, in terms of cpi, out of pocket, I doubt
+          it, pce on the other hand, is growth, employer benefit contributions
+          to standardized guaranteed name your loss guap. (
+          <a
+            href="https://fred.stlouisfed.org/graph/?g=NNUB"
+            style={{ color: "white" }}
+          >
+            science-rents-non-durable cash advances
+          </a>
+          )
+          <br />
+          Nancy Tengler
+        </div>
         <h4>
           Standardized guarantee schemes taxed and garnished for invoices of
           government/aged owned enterprises; debenture or debit vault share
