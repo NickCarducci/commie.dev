@@ -129,6 +129,8 @@ export default class App extends React.Component {
         I talk to all sides with great respect
         Subjective no
         Unless it is paid complied*/}
+        "'Deportation' is not a word Republicans should use, because we can get
+        them on pocketbook issues." - Stephen Moore, accounts expendable
         <div
           style={{
             color: "white",
