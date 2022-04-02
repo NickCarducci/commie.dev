@@ -152,12 +152,20 @@ export default class App extends React.Component {
         ." I say. "You fucking nut. I’m not making that trade. It’s my money."
         <br />
         <br />
-        I have Microsoft in my name, you have a balance sheet to amortize to
+        I have a Microsoft in my name, you have a balance sheet to amortize to
         less than zero
         <br />
+        <br />“<a href="https://qr.ae/pvKy9Z">Debt</a>
+        {space}makes for no{space}
+        <span style={{ color: "forestgreen" }}>growth</span>.”
         <br />
-        “Debt makes for no growth.”
         <br />
+        Government needs to intervene for income equality and{space}
+        <span style={{ color: "forestgreen" }}>government structures</span>
+        <br />
+        “Circumcision is a religious right, but abortion is a matter of life and
+        death.” Guarantee scheme free rider mutable is always 1y/-1x elastic for
+        1/hour-GDP/p
         <div
           style={{
             color: "white",
