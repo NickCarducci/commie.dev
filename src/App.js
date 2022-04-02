@@ -136,6 +136,26 @@ export default class App extends React.Component {
           src={
             this.state.noyout
               ? ""
+              : "https://www.dropbox.com/s/mn1ecgo6epfh06c/Screen%20Shot%202022-04-02%20at%205.23.15%20PM.png?raw=1"
+          }
+          float={"right"}
+          title="Trump propaganda"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        Exports are going to cause inflation, actually the dollar will gain
+        strength
+        <br />
+        <br />
+        <Cable
+          style={{ width: "200px" }}
+          onError={handleScollImgError}
+          img={true}
+          src={
+            this.state.noyout
+              ? ""
               : "https://www.dropbox.com/s/olnis4fw859xb5f/Screen%20Shot%202022-04-02%20at%205.01.52%20PM.png?raw=1"
           }
           float={"left"}
