@@ -135,7 +135,20 @@ export default class App extends React.Component {
           <a href="https://vaults.biz/sdr">stooding up</a>?
         </h4>
         "The treatment, no one gets that treatment," by Stepfather says who
-        loses money since inception of his charity-work design-building homes
+        loses money since{space}
+        <span
+          style={{
+            color: "white",
+            backgroundColor: "black"
+          }}
+        >
+          inception of his charity-work design-building homes (Consumer Fraud
+          Act, estimates as{space}
+          <a href="https://qr.ae/pvKyV7" style={{ color: "white" }}>
+            options
+          </a>
+          )
+        </span>
         for rich people at a loss since 2003.
         <br />"<a href="https://saverparty.xyz/jesus">Jesus</a>
         {space}died for you," as my mom makes me a dish of chicken and avocado
@@ -163,9 +176,16 @@ export default class App extends React.Component {
         </a>
         ." I say. "You fucking nut. I’m not making that trade. It’s my money."
         <br />
-        <br />
-        I have a Microsoft in my name, you have a balance sheet to amortize to
-        less than zero
+        <br />I have a Microsoft in my name, you have a{space}
+        <span
+          style={{
+            color: "white",
+            backgroundColor: "black"
+          }}
+        >
+          balance sheet to amortize to less than zero, concurrentable for
+          checking
+        </span>
         <br />
         <br />“<a href="https://qr.ae/pvKy9Z">Debt</a>
         {space}makes for no{space}
@@ -195,7 +215,14 @@ export default class App extends React.Component {
           program
         </div>
         <br />
-        Debenture corporate and treasury, loose-inventory
+        <span
+          style={{
+            color: "white",
+            backgroundColor: "black"
+          }}
+        >
+          Debenture corporate and treasury, loose-inventory
+        </span>
         <br />
         <br />
         Support by surrendered freedom to bid of labor-borne, I’m going to
@@ -231,9 +258,17 @@ export default class App extends React.Component {
         >
           <h4>**Bo Snerdley clicks**</h4>
           Checking tripled, and debenture already that isn't stood up by
-          transaction fees, has loose-inventory to sell, personal-income
-          default. $2t-6t $1t households, $1t corporates, and $2t non-profits,
-          which how can you be if you have checking or time deposits in account.
+          transaction fees, has{space}
+          <span
+            style={{
+              color: "white",
+              backgroundColor: "black"
+            }}
+          >
+            loose-inventory to sell, personal-income default
+          </span>
+          . $2t-6t $1t households, $1t corporates, and $2t non-profits, which
+          how can you be if you have checking or time deposits in account.
           commie.dev that's a lotta gavagoul
         </div>
         <br />
@@ -245,8 +280,10 @@ export default class App extends React.Component {
         <a href="https://fred.stlouisfed.org/graph/?g=NNzv">$2.2t</a>
         {space}but by household there is $4t
         <br />
-        Corporates need to outlay their profits, they have $2t, $4t heads of
-        household
+        <span style={{ color: "white", backgroundColor: "black" }}>
+          Corporates need to outlay their profits
+        </span>
+        , they have $2t, $4t heads of household
         <br />
         debenture of treasury that can sell inventory then pay who they want
         then default
