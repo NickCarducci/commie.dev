@@ -129,6 +129,12 @@ export default class App extends React.Component {
         I talk to all sides with great respect
         Subjective no
         Unless it is paid complied*/}
+        <h3>the need for rollover insurance</h3>
+        “Meet needs in a timely manner, opinion network is outstanding.” -
+        surrendered bid of another is non-compete contracts that are Consumer
+        Fraud, at that
+        <br />
+        <br />
         <Cable
           style={{ width: "200px" }}
           onError={handleScollImgError}
