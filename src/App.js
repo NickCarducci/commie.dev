@@ -139,7 +139,7 @@ export default class App extends React.Component {
         {space}poisoned, ignored, citing 'messy hair' racism. I had just
         completed{space}
         <a href="https://fred.stlouisfed.org/graph/?g=NNGB">
-          oranizing the economy
+          organizing the economy
         </a>
         {space}after organizing their accounts then studying East Asian Studies
         and Economics, and then Politics, at Johns Hopkins University and Islam,
