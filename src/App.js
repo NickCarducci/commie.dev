@@ -149,6 +149,12 @@ export default class App extends React.Component {
         and Economics, and then Politics, at Johns Hopkins University and Islam,
         Politics and Computer Science at Monmouth University.
         <br />
+        <br />
+        I couldn't believe people would do this intentionally to eachother, as i
+        would receive a D for saying you cannot get interest from principal in
+        my Financial Markets and Institution course, and how idiotic GDP =
+        E+S+G+nominalTrade+P is (can't find source but GDP/p USED to be taught)
+        <br />
         <br />"
         <a href="https://qr.ae/pvKyv6">
           They still slaughter cows in Iran for sin sacrifice
