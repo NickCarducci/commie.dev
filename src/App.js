@@ -129,6 +129,30 @@ export default class App extends React.Component {
         I talk to all sides with great respect
         Subjective no
         Unless it is paid complied*/}
+        <div
+          style={{
+            color: "white",
+            backgroundColor: "darkviolet",
+            borderRadius: "10px",
+            margin: "10px",
+            padding: "10px"
+          }}
+        >
+          I don't care about the profits, I care about 1/hour-GDP/p economic
+          welfare; fuck the{space}
+          <span style={{ backgroundColor: "black", color: "white" }}>
+            pensions, corporate and treasury loose inventory, pay, but not
+            amortize{space}
+            <a
+              href="https://fred.stlouisfed.org/graph/?g=NLre"
+              style={{ color: "white" }}
+            >
+              outlays to shares and dollar owners
+            </a>
+            ?
+          </span>
+        </div>
+        <br />
         "They are Educated Ukrainians and they should work for corporates, we
         need to get more people working for cash flow instead of inventory."
         <br />
