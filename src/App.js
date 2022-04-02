@@ -141,7 +141,8 @@ export default class App extends React.Component {
           “The rouble is jacking up interest rates to prop up the currency.” -
           CNN Rig-rates to China India and EU ex UK
         </div>
-        covid calimny assumption, CT scan disability for medicate/
+        <a href="https://2024nj.com/plandemic">covid</a>
+        {space}calimny assumption, CT scan disability for medicate/
         <a href="https://qr.ae/pvKyv6">castrate</a>
         {space}
         homeless - hysterical name your price torts for closed source
