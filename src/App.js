@@ -129,6 +129,31 @@ export default class App extends React.Component {
         I talk to all sides with great respect
         Subjective no
         Unless it is paid complied*/}
+        <Cable
+          style={{ width: "200px" }}
+          onError={handleScollImgError}
+          img={true}
+          src={
+            this.state.noyout
+              ? ""
+              : "https://www.dropbox.com/s/el9a21mxfrho4u9/Screen%20Shot%202022-04-02%20at%2012.58.35%20PM.png?raw=1"
+          }
+          float={"left"}
+          title={
+            "Tax for invoices or just say surrendered freedom of labor-borne contractor liable in Consumer Fraud too." +
+            "Rollover is rational, outright and starve doctors, the foundations of negotiating" +
+            " - https://youtu.be/vqLaVdBS31g"
+          }
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        "I never understood the lefts' argument against wastewater for prissy
+        refining shipments dilution & natural gas fracking/binding Fracking
+        fluid (or frac fluid) is a chemical mixture used in drilling operations
+        to increase the quantity of hydrocarbons that can be extracted."
+        <br />
         <div
           style={{
             color: "white",
