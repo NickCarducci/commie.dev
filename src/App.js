@@ -129,6 +129,10 @@ export default class App extends React.Component {
         I talk to all sides with great respect
         Subjective no
         Unless it is paid complied*/}
+        <a href="https://realecon.quora.com/Can-a-value-added-share-of-GDP-and-policy-timeline-be-a-recoverable-or-prosecutable-ascertainable-loss">
+          Value-added is an ascertainable loss
+        </a>
+        ?<br />
         <Cable
           style={{ width: "200px" }}
           onError={handleScollImgError}
