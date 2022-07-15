@@ -129,6 +129,17 @@ export default class App extends React.Component {
         I talk to all sides with great respect
         Subjective no
         Unless it is paid complied*/}
+        <h4>
+          Communism{space}
+          <a href="https://truncatedwholesaletax.com">deprives no man</a>
+          {space}of the power to appropriate the products of society; all that
+          it does is to deprive him of the{space}
+          <a href="https://marx.quora.com">power to subjugate</a>
+          {space}the labour of others by means of such appropriations. Vulgar
+          socialism (and from it in turn a section of the democrats) has taken
+          over distribution as production[, not productive-ward]. After the real
+          relation has long been made clear, why retrogress again?
+        </h4>
         <a href="https://realecon.quora.com/Can-a-value-added-share-of-GDP-and-policy-timeline-be-a-recoverable-or-prosecutable-ascertainable-loss">
           Value-added is an ascertainable loss
         </a>
