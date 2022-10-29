@@ -297,6 +297,22 @@ export default class Basic extends React.Component {
           relation, the distribution of the members of the society among the
           different kinds of production. (Subsumption of the individuals under
           specific relations of production.)
+          <br />
+          <br />
+          Production creates the objects which correspond to the given needs;
+          distribution divides them up according to social laws; exchange
+          further parcels out the already divided shares in accord with
+          individual needs; and finally, in consumption, the product steps
+          outside this social movement and becomes a direct object and servant
+          of individual need, and satisfies it in being consumed. Thus
+          production appears as the point of departure, consumption as the
+          conclusion, distribution and exchange as the middle, which is however
+          itself twofold, since distribution is determined by society and
+          exchange by individuals. The person objectifies himself in production,
+          the thing subjectifies itself in the person; [9] in distribution,
+          society mediates between production and consumption in the form of
+          general, dominant determinants; in exchange the two are mediated by
+          the chance characteristics of the individual.
         </div>
         <h1>
           <a href="https://marginalism.uk">Marginalism.uk</a>
