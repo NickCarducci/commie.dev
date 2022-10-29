@@ -1775,8 +1775,11 @@ export default class Basic extends React.Component {
           </a>
           <br />
           <br />
-          Perhaps you do not understand how prices are made by social supply
-          (variable capital) but for budget constraints (constant capital).
+          Perhaps you do not understand how prices are made by{space}
+          <a href="https://theanarchistlibrary.org/library/kevin-carson-studies-in-mutualist-political-economy">
+            social supply (variable capital)
+          </a>
+          {space}but for budget constraints (constant capital).
           {space}
           <span style={{ color: "lightskyblue" }}>
             Isn’t the fact of 65% mortgage and 35% rent proof of coercion to use
@@ -2807,6 +2810,23 @@ export default class Basic extends React.Component {
               backgroundColor: "darkslategrey"
             }}
           >
+            <h3 style={{ margin: "4px 0px" }}>
+              <a
+                style={{ color: "lightskyblue" }}
+                href="https://www.academia.edu/40237388/The_Role_of_Contract_in_Anarchist_Ideology"
+              >
+                The Role of the Contract
+              </a>
+            </h3>
+            <div style={{ borderLeft: "1px dotted", paddingLeft: "10px" }}>
+              As with Proudhon, Bakunin defended the absolute right of each
+              group to secede from the federation, but unlike Proudhon[,] he did
+              not vitiate this right by allowing for majority rule over a
+              recalcitrant minority. For Bakunin, ‘no obligation in perpetuity
+              is acceptable to human justice.’ The sole penalty reserved for the
+              allegedly disobedient group is expulsion from the federation [to
+              Proudhon].
+            </div>
             <h3>
               Question is: Why don't{space}
               <a style={{ color: "white" }} href="https://commie.dev/anarchy">
@@ -2842,13 +2862,23 @@ export default class Basic extends React.Component {
             <br />
             <div style={{ borderLeft: "1px dotted", paddingLeft: "10px" }}>
               At present it is enough to have a distinct conception, that,
-              without it, industry could produce nothing. Capital{space}
-              <a style={{ color: "white" }} href="https://marginalism.uk">
-                must work
-              </a>
-              , as it were, in concert with industry; and this concurrence is
-              what I call the productive agency of capital. Yet, sacred as the
-              property in the{space}
+              without it, industry could produce nothing.{space}
+              <i
+                style={{
+                  color: "lightskyblue"
+                }}
+              >
+                Capital{space}
+                <a
+                  style={{ color: "lightskyblue" }}
+                  href="https://marginalism.uk"
+                >
+                  must work
+                </a>
+                , as it were, in concert with industry
+              </i>
+              ; and this concurrence is what I call the productive agency of
+              capital. Yet, sacred as the property in the{space}
               <a
                 style={{ color: "white" }}
                 href="https://www.quora.com/Are-insurance-companies-profits-illegal/answer/Nick-Carducci"
@@ -2904,7 +2934,16 @@ export default class Basic extends React.Component {
               </a>
               .
             </div>
-            <h3>So (then), mudpies?</h3>
+            <h3>
+              So (then),{space}
+              <a
+                style={{ color: "white" }}
+                href="https://ordinary-times.com/2010/10/13/studies-in-mutualist-political-economy-part-i-labor-theories-of-value/"
+              >
+                mudpies
+              </a>
+              ?
+            </h3>
             <div style={{ borderLeft: "1px dotted", paddingLeft: "10px" }}>
               u/
               <a
@@ -2923,8 +2962,15 @@ export default class Basic extends React.Component {
             <br />
             You shouldn’t think of the bad in terms of problems solved but
             leisure utilization. If your problem is non-deflationary, aren’t you
-            creating problems? One man’s non-deflationary
-            “dynameically-efficient” job is another’s real inflation.
+            creating problems?{space}
+            <i
+              style={{
+                color: "lightskyblue"
+              }}
+            >
+              One man’s non-deflationary “dynameically-efficient” job is
+              another’s real inflation.
+            </i>
             <br />
             <br />
             <a
@@ -2936,6 +2982,20 @@ export default class Basic extends React.Component {
               </b>
             </a>
             .
+            <br />
+            <br />A non-deflationary job (if the person likes what they do)
+            without a just return by inflation (as one works more under a
+            pseudonym to account for their hours and how they spent themselves)
+            is what (else) but a luxury at best and throwing money away at
+            first, but variable capital is always this way, until it deflates as
+            so promised by the economist PhDs.{space}
+            <i
+              style={{
+                color: "lightskyblue"
+              }}
+            >
+              One man’s luxury is another’s real inflation.
+            </i>
           </div>
           <b>
             <a href="https://www.imdb.com/video/vi791460889/?playlistId=tt0050022">
@@ -4241,6 +4301,33 @@ export default class Basic extends React.Component {
           </div>
           <div
             style={{
+              backgroundColor: "cornflowerblue",
+              color: "white",
+              padding: "10px",
+              margin: "10px",
+              width: "calc(100% - 40px)",
+              border: "1px solid"
+            }}
+          >
+            His whole stock, therefore, is distinguished into two parts. That
+            part which,{space}
+            <a
+              style={{ color: "white" }}
+              href="https://www.marxists.org/reference/archive/smith-adam/works/wealth-of-nations/book02/ch01.htm"
+            >
+              he expects
+            </a>
+            , is to afford him this revenue, is called his capital. The other is
+            that which supplies his immediate consumption; and which consists
+            either, first, in that portion of his whole stock which was
+            originally reserved for this purpose; or, secondly, in his revenue,
+            from whatever source derived, as it gradually comes in; or, thirdly,
+            in such things as had been purchased by either of these in former
+            years, and which are not yet entirely consumed; such as a stock of
+            clothes, household furniture, and the like.
+          </div>
+          <div
+            style={{
               backgroundColor: "white",
               color: "black",
               padding: "10px",
@@ -4250,7 +4337,46 @@ export default class Basic extends React.Component {
             }}
           >
             Ordinary is not competitive from time to time.
+            <br />
+            <br />
+            When machinery is added, verily is it non-deflationary growth (of
+            employment) until proven otherwise. Variable capital is of the
+            sustenance of (commodity/machine-capital making) labor in Marxiety,
+            the short-term employment that is long term in dynamic efficiency in
+            modern econ (I will only attest video games as such non-inflationary
+            long term employment growth account/in terms of living overall).
+            Fixed capital is what you made of it. This idea is that of the
+            commodity versus the manager and service worker, only useful in
+            their circulative ability to obtain countenance.
+            <br />
+            <br />
+            “Capital” is not structures, equipment, personal durable goods, nor
+            intellectual property, but rather constant capital by raw material
+            of account cardinally in seriatim (normal-assumed constant capital,
+            a natural rate of productivity, expenses to hour from the last
+            period of observation). This is in line with Adam Smith,{space}
+            <a href="https://marginalism.uk">J.B.Say</a>, and probably not
+            Alfred Marshall.
           </div>
+          The quantity of actual material, in which the value of the constant
+          capital is incorporated, is altogether irrelevant to the formation of
+          value and the rate of profit, which varies inversely to this value no
+          matter what the ratio of the increase or decrease of the value of
+          constant capital to the mass of material use-value which it
+          represents. It is different with{space}
+          <a
+            style={{ color: "white" }}
+            href="https://www.marxists.org/archive/marx/works/1894-c3/ch03.htm"
+          >
+            variable capital
+          </a>
+          . It is not the value it has, not the labour incorporated in it, that
+          matter at this point, but this value as a mere index of the total
+          labour that it sets in motion and which is not expressed in it — the
+          total labour, whose difference from the labour expressed in that
+          value, hence the paid labour, i.e., that portion of the total labour
+          which produces surplus-value, is all the greater, the less labour is
+          contained in that value itself.
           <div
             style={{
               transition: ".3s ease-in",
@@ -5871,6 +5997,55 @@ export default class Basic extends React.Component {
             messiah
           </a>
           .
+          <h3>
+            O believers! Do not enter any house other than your own until you
+            have asked for permission and greeted its occupants. This is best
+            for you, so perhaps you will be mindful. (An-Nur 24:27)
+            <br />
+            <br />
+            Give full measure, and cause no loss ˹to others˺. Weigh with an even
+            balance, and do not defraud people of their property. Nor go about
+            spreading corruption in the land. And fear the One Who created you
+            and ˹all˺ earlier peoples. (Ash-Shu’ara 26:181–4)
+            <br />
+            <br />
+            This is certainly a revelation from the Lord of all worlds, which
+            the trustworthy spirit ˹Gabriel˺ brought down into your heart ˹O
+            Prophet˺—so that you may be one of the warners— in a clear Arabic
+            tongue. And it has indeed been ˹foretold˺ in the Scriptures of those
+            before. (Ash-Shu’ara 26:192–6)
+          </h3>
+          <h2>
+            And the people of Moses made in his absence, out of their ornaments,
+            the image of a calf (for worship). It had a sound (as if it was
+            mooing). Did they not see that it could neither speak to them nor
+            guide them to the way? They took it for worship and they were
+            Dthalimun (wrong-doers). [Noble Quran 7:148] In the absence of
+            Moses, his people made from their ˹golden˺ jewellery an idol of a
+            calf that made a lowing sound. Did they not see that it could
+            neither speak to them nor ˹even˺ guide them to the ˹Right˺ Path?
+            Still they took it as a god and were wrongdoers. (7:148)
+          </h2>
+          <h3>
+            ˹Remember˺{space}
+            <span style={{ color: "grey" }}>
+              when he questioned his father and his people
+            </span>
+            , “<i>What are these statues to which you are so devoted?</i>”
+            (21:52)
+            <br />
+            They replied, “
+            <span style={{ color: "grey" }}>
+              We found our forefathers worshipping them.
+            </span>
+            ” (21:53)
+            <br />
+            He responded, “
+            <span style={{ color: "cornflowerblue" }}>
+              Indeed, you and your forefathers have been clearly astray.
+            </span>
+            ” (21:54)
+          </h3>
           {/**
           "only to see something to improve"
           bind the fraudulent neck
@@ -5899,8 +6074,6 @@ export default class Basic extends React.Component {
 
           necks==slave/conscript? https://www.quora.com/unanswered/Are-conscripts-nor-even-the-military-not-slaves-for-their-duress-neer-do-well
           */}
-          <br />
-          <br />
           "If some of you do believe in what I have been sent with while others
           do not, then be patient until Allah judges between us. He is the Best
           of Judges." (7:87)
