@@ -265,8 +265,38 @@ export default class Basic extends React.Component {
           <br />
           <br />
           Moreover by its need for repetition consumption leads to the
-          perfection of abilities evolved during the first process of production
-          and converts them into skills.
+          {space}
+          <a href="https://www.marxists.org/archive/marx/works/1857/grundrisse/ch01.htm">
+            perfection of abilities
+          </a>
+          {space}evolved during the first process of production and converts
+          them into skills.
+          <br />
+          <br />
+          As regards whole societies, distribution seems to precede production
+          and to determine it in yet another respect, almost as if it were a
+          pre-economic fact. A conquering people divides the land among the
+          conquerors, thus imposes a certain distribution and form of property
+          in land, and thus determines production. Or it enslaves the conquered
+          and so makes slave labour the foundation of production. Or a people
+          rises in revolution and smashes the great landed estates into small
+          parcels, and hence, by this new distribution, gives production a new
+          character. Or a system of laws assigns property in land to certain
+          families in perpetuity, or distributes labour [as] a hereditary
+          privilege and thus confines it within certain castes. In all these
+          cases, and they are all historical, it seems that distribution is not
+          structured and determined by production, but rather the opposite,
+          production by distribution.
+          <br />
+          <br />
+          In the shallowest conception, distribution appears as the distribution
+          of products, and hence as further removed from and quasi-independent
+          of production. But before distribution can be the distribution of
+          products, it is: (1) the distribution of the instruments of
+          production, and (2), which is a further specification of the same
+          relation, the distribution of the members of the society among the
+          different kinds of production. (Subsumption of the individuals under
+          specific relations of production.)
         </div>
         <h1>
           <a href="https://marginalism.uk">Marginalism.uk</a>
