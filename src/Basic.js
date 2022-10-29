@@ -268,6 +268,80 @@ export default class Basic extends React.Component {
             border: "1px solid"
           }}
         >
+          <h3
+            style={{
+              margin: "4px 0px"
+            }}
+          >
+            Only labor produces value because everything else is{space}
+            <i>found</i>
+          </h3>
+          Laws may perpetuate a particular means of production, e.g., land, in
+          certain families. These laws acquire economic significance only if
+          large-scale landed property is in keeping with the social mode of
+          production, as for instance in Britain. Agriculture was carried on in
+          France on a small scale, despite the existence of large estates, which
+          were therefore parcelled out by the Revolution. But is it possible,
+          e.g., by law, to{space}
+          <a href="https://markethistory.quora.com/What-is-the-evidence-that-ancient-Greeks-practiced-communism-as-described-by-Karl-Marx-and-Friedrich-Engels-in-The-Comm-1">
+            perpetuate the division of land into small lots
+          </a>
+          ? Landed property tends to become concentrated again despite these
+          laws. The influence exercised by laws on the preservation of existing
+          conditions of distribution, and the effect they thereby exert on
+          production has to be examined separately.
+          <br />
+          <br />
+          The Germanic barbarians, whose traditional mode of production was
+          agriculture with the aid of serfs and who lived scattered over the
+          countryside, could the more easily adapt the Roman provinces to their
+          requirements because the concentration of landed property carried out
+          there had already uprooted the older agricultural relations.
+          <br />
+          <br />
+          An adult cannot become a child again, or he becomes childish. But does
+          the naivete of the child not give him pleasure, and does not he
+          himself endeavour to reproduce the child's veracity on a higher level?
+          There are rude children and precocious children. Many of the ancient
+          peoples belong to this category.
+          <br />
+          <br />
+          The Greeks were normal children. The charm their art has for us does
+          not conflict with the immature stage of the society in which it
+          originated. On the contrary its charm is a consequence of this and is
+          inseparably linked with the fact that the immature social conditions
+          which gave rise, and which alone could give rise, to this art cannot
+          recur.
+          <br />
+          <br />
+          … wine, metal work developing almost into a fine art … among the
+          Greeks and Romans, the full development of money, which is presupposed
+          in modern bourgeois society, appears only in the period of their
+          dissolution.
+          <br />
+          <br />
+          The amount of money required as means of payment thus depends not on
+          the aggregate amount of payments which are due to be made
+          simultaneously, but on the degree of their concentration and on the
+          size of the balance left over after the negative and positive amounts
+          have been offset against one another. Special devices for this type of
+          balancing arise even if no credit system has been evolved, as was the
+          case in ancient Rome.
+          <br />
+          <br />
+          Where chains of payments and an artificial system for adjusting them
+          have been developed, any upheaval that forcibly interrupts the flow of
+          payments and upsets the mechanism for balancing them against one
+          another suddenly turns money from the nebulous chimerical form it
+          assumed as measure of value into hard cash or means of payment.
+          <br />
+          <br />
+          This sudden transformation of the credit system into a monetary system
+          adds theoretical dismay to the actually existing panic, and the agents
+          of the circulation process are overawed by the impenetrable mystery
+          surrounding their own relations.
+          <br />
+          <br />
           No production['s] possible without an instrument of production, even
           if this instrument is only the hand. No production without stored-up,
           past labour, even if it is only the facility gathered together and
