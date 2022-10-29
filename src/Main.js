@@ -2413,6 +2413,23 @@ class App extends React.Component {
             border: "1px solid"
           }}
         >
+          <h4 style={{ margin: "4px 0px" }}>
+            Social capital is our issue, and ground rent is the cost of
+            circulation, being storage and transport.
+          </h4>
+          He is then asked whether merchants' bills of exchange represent
+          commodities which have been sold or shipped. He denies that these
+          bills{space}
+          <a
+            style={{ color: "white" }}
+            href="https://www.marxists.org/archive/marx/works/1894-c3/ch26.htm"
+          >
+            represent the value of commodities in the same way that a bank-note
+            represents gold
+          </a>
+          .
+          <br />
+          <br />
           Aside from the stock-company business, which represents the abolition
           of capitalist private industry on the basis of the capitalist system
           itself and destroys private industry as it expands and invades new
@@ -2424,7 +2441,10 @@ class App extends React.Component {
           <br />
           <i>
             '
-            <a href="https://www.marxists.org/archive/marx/works/1894-c3/ch26.htm">
+            <a
+              style={{ color: "white" }}
+              href="https://www.marxists.org/archive/marx/works/1894-c3/ch26.htm"
+            >
               Merchants
             </a>
             , manufacturers, etc., carry on operations much beyond those which
@@ -4136,3 +4156,4 @@ export default React.forwardRef((props, ref) => {
     />
   );
 });
+
