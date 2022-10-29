@@ -239,6 +239,54 @@ export default class Basic extends React.Component {
            */
         }}
       >
+        <div
+          style={{
+            transition: ".3s ease-in",
+            width: "max-content",
+            maxWidth: "calc(100% - 22px)",
+            padding: "10px",
+            border: "1px solid"
+          }}
+        >
+          Monetary theory has no ideological content. It deals with a scientific
+          question—how a particular social contrivance works. It may surprise
+          most readers to learn that, in today’s terminology, Karl Marx could be
+          labeled a “monetarist”—a term that is currently, if incorrectly,
+          regarded as almost synonymous with “conservative” or “pro free
+          market.” (Milton Friedman,{space}
+          <a href="https://miltonfriedman.hoover.org/internal/media/dispatcher/214245/full">
+            Marx and Money
+          </a>
+          , 27 October 1980. p. The Newsweek/Daily Beast Company, p. 95; Hoover
+          Inst.)
+          <br />
+          <br />
+          As money develops into international money, so the commodity-owner
+          becomes a cosmopolitan. The cosmopolitan relations of men to one
+          another originally comprise only their relations as commodity-owners.
+          Commodities as such are indifferent to all religious, political,
+          national and linguistic barriers. (Marx,{space}
+          <a href="https://www.marxists.org/archive/marx/works/1859/critique-pol-economy/appx1.htm">
+            Critique
+          </a>
+          {space}of Political Economy)
+          <br />
+          <br />
+          Marx made a fundamental distinction, in this regard, between the
+          classical political economists and the “vulgar economists” who came
+          after them. Smith, James Mill and Ricardo had developed their
+          scientific political economy without fear of its revolutionary
+          implications, because industrial capital was still the progressive
+          underdog in a revolutionary struggle against the unearned income of
+          feudal landlords and chartered monopolists. But that situation came to
+          an end with the capitalists’ acquisition of political power. (Kevin
+          Carson, Studies in Mutualist Political Economy)
+          <br />
+          <br />
+          Capital must work, as it were, in concert with industry; and this
+          concurrence is what I call the productive agency of capital. (Say,
+          Political Economy)
+        </div>
         <h2>
           But capital obtains this ability only by constantly sucking in living
           labour as its soul, vampire-like.
