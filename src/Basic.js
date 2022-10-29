@@ -281,7 +281,16 @@ export default class Basic extends React.Component {
             perfection of abilities
           </a>
           {space}evolved during the first process of production and converts
-          them into skills.
+          them into skills.{space}
+          <i>
+            Consumption accomplishes the act of production only in completing
+            the product as product by dissolving it, by consuming its
+            independently material form, by raising the inclination developed in
+            the first act of production, through the need for repetition, to its
+            finished form; it is thus not only the concluding act in which the
+            product becomes product, but also that in which the producer becomes
+            producer.
+          </i>
           <br />
           <br />
           As regards whole societies, distribution seems to precede production
