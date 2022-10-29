@@ -258,6 +258,17 @@ export default class Basic extends React.Component {
             border: "1px solid"
           }}
         >
+          No production['s] possible without an instrument of production, even
+          if this instrument is only the hand. No production without stored-up,
+          past labour, even if it is only the facility gathered together and
+          concentrated in the hand of the savage by repeated practice. Capital
+          is, among other things, also an instrument of production, also
+          objectified, past labour. Therefore capital is a general, eternal
+          relation of nature; that is, if I leave out just the specific quality
+          which alone makes ‘instrument of production’ and ‘stored-up labour’
+          into capital.
+          <br />
+          <br />
           These deductions from the "undiminished" proceeds of labor are an
           economic necessity, and their magnitude is to be determined according
           to available means and forces, and partly by computation of
