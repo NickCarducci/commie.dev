@@ -4443,8 +4443,31 @@ export default class Basic extends React.Component {
             Fixed capital is what you made of it. This idea is that of the
             commodity versus the manager and service worker, only useful in
             their circulative ability to obtain countenance.
-            <br />
-            <br />
+            <div
+              style={{
+                backgroundColor: "grey",
+                color: "white",
+                padding: "10px",
+                margin: "4px 0px",
+                width: "calc(100% - 40px)",
+                border: "1px solid"
+              }}
+            >
+              Fixed capital, as we saw, circulates as value only to the degree
+              that it is used up or consumed as use value in the production
+              process. But the time in which it is consumed and in which it must
+              be reproduced in its form as use value depends on its relative
+              durability. Hence its durability, or its greater or lesser
+              perishability – the greater or smaller amount of time during which
+              it can continue to perform its function within the repeated
+              production processes of capital – this aspect of its use value
+              here becomes a form-determining moment, i.e. a determinant for
+              capital as regards its form, not as regards its matter. The
+              necessary reproduction time of fixed capital, together with the
+              proportion of the total capital consisting of it, here modify,
+              therefore, the turnover time of the total capital, and thereby its
+              realization.
+            </div>
             “Capital” is not structures, equipment, personal durable goods, nor
             intellectual property, but rather constant capital by raw material
             of account cardinally in seriatim (normal-assumed constant capital,
