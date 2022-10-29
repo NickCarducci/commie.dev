@@ -249,6 +249,25 @@ export default class Basic extends React.Component {
           Why wouldn't https://api.congress.gov/bill be able to sort by last
           instead of latest action already? This is what Thumbprint will need.
         </span>
+        <div
+          style={{
+            transition: ".3s ease-in",
+            width: "max-content",
+            maxWidth: "calc(100% - 22px)",
+            padding: "10px",
+            border: "1px solid"
+          }}
+        >
+          These deductions from the "undiminished" proceeds of labor are an
+          economic necessity, and their magnitude is to be determined according
+          to available means and forces, and partly by computation of
+          probabilities, but they are in no way calculable by equity.
+          <br />
+          <br />
+          Moreover by its need for repetition consumption leads to the
+          perfection of abilities evolved during the first process of production
+          and converts them into skills.
+        </div>
         <h1>
           <a href="https://marginalism.uk">Marginalism.uk</a>
         </h1>
