@@ -320,10 +320,10 @@ export default class Basic extends React.Component {
           conclusion, distribution and exchange as the middle, which is however
           itself twofold, since distribution is determined by society and
           exchange by individuals. The person objectifies himself in production,
-          the thing subjectifies itself in the person; [9] in distribution,
-          society mediates between production and consumption in the form of
-          general, dominant determinants; in exchange the two are mediated by
-          the chance characteristics of the individual.
+          the thing subjectifies itself in the person; in distribution, society
+          mediates between production and consumption in the form of general,
+          dominant determinants; in exchange the two are mediated by the chance
+          characteristics of the individual.
         </div>
         <h1>
           <a href="https://marginalism.uk">Marginalism.uk</a>
@@ -6960,7 +6960,11 @@ export default class Basic extends React.Component {
           </a>
           {space}Can a political science bachelor with a minor in economics be
           charged with insider trading without the comment box in their
-          brokerage platforms?
+          brokerage platforms?{space}
+          <i>
+            How can foreclosure restore the damages of loitering, interest, and
+            principal over collateral?
+          </i>
         </span>
         {space}
         <i>
