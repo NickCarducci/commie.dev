@@ -235,7 +235,7 @@ export default class Basic extends React.Component {
 
         broke at a higher level expenses and not working (lazy/soft)
 
-        How is deviance delineated from incompetence to stand trial?
+        How is deviance delineated from incompetence to stand trial? (last meal was a speech)
            */
         }}
       >
@@ -280,7 +280,11 @@ export default class Basic extends React.Component {
           underdog in a revolutionary struggle against the unearned income of
           feudal landlords and chartered monopolists. But that situation came to
           an end with the capitalists’ acquisition of political power. (Kevin
-          Carson, Studies in Mutualist Political Economy)
+          Carson, Studies in{space}
+          <a href="https://theanarchistlibrary.org/library/kevin-carson-studies-in-mutualist-political-economy">
+            Mutualist
+          </a>
+          {space}Political Economy)
           <br />
           <br />
           Capital must work, as it were, in concert with industry; and this
@@ -6882,9 +6886,21 @@ export default class Basic extends React.Component {
           </i>
           {space}Isn't it true that while Adam Smith attacked landlords, Karl
           Marx attacked lenders?{space}
-          <i>
-            <b>Aren't insurers next?</b>
-          </i>
+          <h2 style={{ lineHeight: "10px" }}>
+            Aren't insurers next?{space}
+            <i
+              style={{
+                fontSize: "12px"
+              }}
+            >
+              ‘Without coercion, without the need to have a ‘job’ to get what
+              one needs and wants, many employments would{space}
+              <a href="https://theanarchistlibrary.org/library/anarqxista-goldman-a-handbook-for-anarchist-insurrection">
+                disappear—the whole bureaucracy of insurance companies
+              </a>
+              , for instance.’
+            </i>
+          </h2>
           <div
             style={{
               color: "white",
@@ -7297,3 +7313,4 @@ export default class Basic extends React.Component {
     );
   }
 }
+
