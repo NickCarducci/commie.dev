@@ -240,7 +240,7 @@ export default class Basic extends React.Component {
         }}
       >
         Student loan bailout is treasury bond bailout. revenuedata.doi.gov BLM -
-        QE {space}
+        QE{space}
         <span
           style={{
             color: "cadetblue"
@@ -249,6 +249,12 @@ export default class Basic extends React.Component {
           Why wouldn't https://api.congress.gov/bill be able to sort by last
           instead of latest action already? This is what Thumbprint will need.
         </span>
+        {space}
+        <b>
+          Why does the right wing say a majority of people want to decrease
+          immigration when 52% Republicans, 67% Independents/non-voters, and 83%
+          Democrats don’t?
+        </b>
         <div
           style={{
             transition: ".3s ease-in",
