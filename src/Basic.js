@@ -5641,6 +5641,31 @@ export default class Basic extends React.Component {
             tax
           </a>
           .
+          {/**Somali Shilling "regime change, genocide" "populist, activist" advocate
+        
+            perishable economy Ukraine Israel
+
+
+        */}
+          Consequence tort is limited international court{space}
+          <a href="https://thumbprint.quora.com">tech.. I cannot</a>
+          {space}abide to chastity{space}
+          <a href="https://courttechnology.quora.com">court</a>
+          <i>go for leisure. one man hobby job another real inflation</i>
+          <h2>
+            Wouldn’t silver take circulation value made price upon
+            commoditization of capital? Would this require tax free barter from
+            electronic funds transfers?{space}
+            <i
+              style={{
+                color: "navy"
+              }}
+            >
+              Wouldn't a durable goods tax miss barter of durable goods with a
+              premium not deposited? Wouldn’t gold then circulate more
+              proportionally to the rest?
+            </i>
+          </h2>
           <div
             ref={this.banking}
             style={{
