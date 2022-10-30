@@ -6709,6 +6709,19 @@ export default class Basic extends React.Component {
             </span>
             ” (21:54)
           </h3>
+          Those who take full measure ˹when they buy˺ from people, but give less
+          when they measure or weigh for buyers. (83:2) Do such people not think
+          that they will be resurrected for a tremendous Day— the Day ˹all˺
+          people will stand before the Lord of all worlds? But no! The wicked
+          are certainly bound for Sijjîn1 ˹in the depths of Hell˺— and what will
+          make you realize what Sijjîn is?—a fate ˹already˺ sealed.
+          <br />
+          <br />
+          Give those you have consummated marriage with their due dowries.
+          (4:24) As for female and male fornicators, give each of them one
+          hundred lashes, and do not let pity for them make you lenient in
+          ˹enforcing˺ the law of Allah, if you ˹truly˺ believe in Allah and the
+          Last Day. (24:2)
           {/**
           "only to see something to improve"
           bind the fraudulent neck
@@ -6737,6 +6750,8 @@ export default class Basic extends React.Component {
 
           necks==slave/conscript? https://www.quora.com/unanswered/Are-conscripts-nor-even-the-military-not-slaves-for-their-duress-neer-do-well
           */}
+          <br />
+          <br />
           "If some of you do believe in what I have been sent with while others
           do not, then be patient until Allah judges between us. He is the Best
           of Judges." (7:87)
@@ -6746,7 +6761,7 @@ export default class Basic extends React.Component {
           have done -a deterrent from Allah. And Allah is Almighty, All- Wise.
           But whoever repents after their wrongdoing and mends their ways, Allah
           will surely turn to them in forgiveness. Indeed, Allah is
-          All-Forgiving, Most Merciful." (5:38-39)
+          All-Forgiving, Most Merciful." (5:38)
         </div>
         <h1>
           Isn’t the birth rate dependent on living labor?
