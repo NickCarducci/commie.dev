@@ -337,7 +337,47 @@ export default class Basic extends React.Component {
           <h3 style={{ margin: "4px 0px" }}>
             Why do you think humans evolved to dispel virus? Rather than
             supposing a proposition, perhaps we should deduce the induction.
+            u/populartire_92: Where do "dormant" viruses hide in the body? A
+            virus that causes no symptoms but that is indeed in the body and
+            could "activate" at any time. Where in the body do these viruses
+            hide? Is the immune system aware of them? Are antibodies produced
+            around the clock just because its inside of you and your body knows
+            about it (if it does). Surly the virus roots "hides" somewhere as it
+            would not survive just floating around the bloodstream.{space}
+            <i>
+              What about something like HPV/Herpes that always outbreak in the
+              same region? Is there a infected cell in that region the body
+              never destroys or a virus connected to a nerve in the region?
+            </i>
           </h3>
+          u/Dr_Orgueil: This question is broad and there is still a lot that we
+          don’t know about this topic, but I’ll do my best.
+          <br />
+          <br />
+          The basic answer though is that Herpes viruses and retroviruses (like
+          HIV) integrate into your genome. They go through periods of time where
+          they are replicating and producing lots of viruses that go on to
+          infect other cells. They also have “dorment” periods where they are
+          still part of your genome but aren’t producing much virus.
+          <br />
+          <br />
+          Antibodies are generally for the surface portions of a virus. When
+          dormant it is just the coding sequence, not an actual virus that is
+          hiding out.
+          <br />
+          <br />
+          Different viruses infect different cell types. Herpes infects neural
+          cells. HIV infects immune cells. After integration, the viral genome
+          is part of the cells genome.{space}
+          <i>
+            Every time a cell replicates the viral genome replicates with it.
+          </i>
+          {space}Rather or not it is transcribing to produce actual viruses or
+          an active infection/outbreak varies.
+          <br />
+          <br />
+          This is a very generalized answer for a very broad question. I hope
+          that it helps!
         </div>
         <br />
         So after finished Brave New World, something in my mind. I believed all
@@ -348,7 +388,8 @@ export default class Basic extends React.Component {
         Isn't science the worst form of despotism? You can always justify
         opression and greed in scientific despotism. You can always exploit
         people if it is scientificly beneficial. You can always put barriers in
-        people's mind if it's not realistic.
+        people's mind if it's not{space}
+        <i>realistic</i>.
         <br />
         <br />
         I think this way about technology (guild) and rollover insurance
@@ -381,16 +422,31 @@ export default class Basic extends React.Component {
         should be for deductive reasoning by throws of contention.
         <br />
         <br />
-        The enquiry into the essential destiny of Reason — as far as it is
-        considered in reference to the World — is identical with the question,
-        what is the ultimate design of the World? And the expression implies
-        that that design is destined to be realised. Two points of consideration
-        suggest themselves: first, the import of this design — its abstract
-        definition; and secondly, its realisation.
-        <br />
+        <div
+          style={{
+            transition: ".3s ease-in",
+            width: "max-content",
+            maxWidth: "calc(100% - 22px)",
+            padding: "10px",
+            border: "1px solid"
+          }}
+        >
+          The enquiry into the essential destiny of Reason — as far as it is
+          considered in reference to the World — is identical with the question,
+          what is the ultimate design of the World? And the expression implies
+          that that design is destined to be realised. Two points of
+          consideration suggest themselves: first, the import of this design —
+          its abstract definition; and secondly, its realisation.
+        </div>
         <br />
         Hegel is assertive to the scientific method. In statistics we call this
-        null confirming rather than artifactual bias “confirming” fallacy.
+        {space}
+        <i>null confirming</i>
+        {space}rather than{space}
+        <a href="https://humanharvest.info">
+          artifactual bias “confirming” fallacy
+        </a>
+        .
         <br />
         u/onedayitwillbedaisy: [deleted]
         <br />
