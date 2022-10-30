@@ -287,7 +287,10 @@ export default class Basic extends React.Component {
           homeless without patients? Wouldn't a doctor be homeless without
           patients? Wouldn't a cop and/or judge be homeless without crime?
           Aren’t classical liberals anti-finance?
-          <h3>state contractors</h3>
+          <h3>
+            state contractors: A jester’s nightmare is an anti synthesis (you
+            should have put more in escrow then you right loon)
+          </h3>
           <div
             style={{
               transition: ".3s ease-in",
