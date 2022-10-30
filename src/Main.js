@@ -2667,6 +2667,10 @@ class App extends React.Component {
           Yeah well be patient until Allah judges alright but deduction also
           says polytheism is polyphyletic && kinetic expansion is instigated
           potential. So, I’m sold.
+          <h4 style={{ margin: "4px 0px" }}>
+            Inductive reasoning has (spirit energy confirms a null with a
+            question asked). Deductive reasoning 600 years later be
+          </h4>
           <h3 style={{ margin: "4px 0px" }}>
             Shouldn't the next mudpie always be a non-nuclear magnetic fusion
             reactor?
