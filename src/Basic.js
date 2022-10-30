@@ -287,8 +287,7 @@ export default class Basic extends React.Component {
           homeless without patients? Wouldn't a doctor be homeless without
           patients? Wouldn't a cop and/or judge be homeless without crime?
           Aren’t classical liberals anti-finance?
-          <br />
-          <br />
+          <h3>state contractors</h3>
           <div
             style={{
               transition: ".3s ease-in",
@@ -466,7 +465,12 @@ export default class Basic extends React.Component {
         Should courts continue to use testimony as evidence? Do the homeless
         need Kendra's law?
         <h4>Would technologists be homeless without problems?</h4>
-        No. After the technologist’s job is done we do not seek more.
+        No. After the technologist’s job is done we do not seek more.{space}
+        <i>
+          How many stories can be told by omission? I’ll do anything for apple
+          pie. The question is not how many mudpies you have, but what you can
+          do with them.
+        </i>
         <br />
         <div
           style={{
