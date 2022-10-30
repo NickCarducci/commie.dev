@@ -391,7 +391,7 @@ export default class Basic extends React.Component {
         opression and greed in scientific despotism. You can always exploit
         people if it is scientificly beneficial. You can always put barriers in
         people's mind if it's not{space}
-        <i>realistic</i>.
+        <i style={{ color: "cornflowerblue" }}>realistic</i>.
         <br />
         <br />
         I think this way about technology (guild) and rollover insurance
@@ -480,7 +480,11 @@ export default class Basic extends React.Component {
         Should courts continue to use testimony as evidence? Do the homeless
         need Kendra's law?
         <h4>Would technologists be homeless without problems?</h4>
-        No. After the technologist’s job is done we do not seek more.{space}
+        No.{space}
+        <span style={{ color: "cornflowerblue" }}>
+          After the technologist’s job is done we do not seek more.
+        </span>
+        {space}
         <i>
           How many stories can be told by omission? I’ll do anything for apple
           pie. The question is not how many mudpies you have, but what you can
@@ -1581,9 +1585,12 @@ export default class Basic extends React.Component {
           >
             government and like the cops/advocates
           </a>
-          {space}protecting those who cannot afford civil business lawyers. This
-          realistic coalition is amongst mostly non-voters, the far-right, and
-          far-left is on the r/antifinance line.
+          {space}protecting those who{space}
+          <span style={{ color: "cornflowerblue" }}>
+            cannot afford civil business lawyers. This realistic coalition is
+            amongst mostly non-voters
+          </span>
+          , the far-right, and far-left is on the r/antifinance line.
         </h4>
         {space}
         <i>
