@@ -436,7 +436,19 @@ export default class Basic extends React.Component {
           consideration suggest themselves: first, the import of this design —
           its abstract definition; and secondly, its realisation.
         </div>
-        <br />
+        <h1>Doesn't deductive reasoning follow inductive logic?</h1>
+        Sociology is the study of roles with duties/competence. Isn't deranged
+        being incapable to reconcile artifacts? Doesn't the right wing think
+        there is a lag to government spending? Wasn't inflation correlated with
+        corporate profits and labor productivity? Doesn't Kayleigh McEnany think
+        real employment is real inflation? Will Trump claim credit for
+        industry-specific payday loans? Did Trump tell people to go home before
+        January 6th, 2021?
+        <h2>
+          <a href="https://thumbprint.quora.com/Free-good-will-https-www-quora-com-Arent-paying-publishers-alone-allowed-to-prohibit-certain-ideas-answer-Franklin-V">
+            Free Good Will
+          </a>
+        </h2>
         Hegel is assertive to the scientific method. In statistics we call this
         {space}
         <i>null confirming</i>
