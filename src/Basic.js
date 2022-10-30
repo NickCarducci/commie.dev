@@ -239,6 +239,14 @@ export default class Basic extends React.Component {
            */
         }}
       >
+        Wouldn't a cop and/or judge be homeless without crime? Wouldn't a farmer
+        and/or chef be homeless without hunger? Wouldn't firepeople be homeless
+        without house fires? Wouldn't a doctor be homeless without patients?
+        Should courts continue to use testimony as evidence? Do the homeless
+        need Kendra's law?
+        <h4>Would technologists be homeless without problems?</h4>
+        No. After the technologist’s job is done we do not seek more.
+        <br />
         <div
           style={{
             transition: ".3s ease-in",
