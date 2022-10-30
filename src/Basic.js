@@ -439,6 +439,16 @@ export default class Basic extends React.Component {
           consideration suggest themselves: first, the import of this design —
           its abstract definition; and secondly, its realisation.
         </div>
+        {/**woke malarkey;  */}
+        <i
+          style={{
+            color: "grey"
+          }}
+        >
+          Can one short their industry? (Negation: deduction by null
+          confirmation). Change teams; to short oneself is to induce deduction
+          by null confirmation (science).
+        </i>
         <h1>Doesn't deductive reasoning follow inductive logic?</h1>
         Sociology is the study of roles with duties/competence. Isn't deranged
         being incapable to reconcile artifacts? Doesn't the right wing think
@@ -7744,3 +7754,4 @@ export default class Basic extends React.Component {
     );
   }
 }
+
