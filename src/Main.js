@@ -2593,6 +2593,7 @@ class App extends React.Component {
             employee benefits from essential institutions, and (3)
             non-deflationary employment.
           </h4>
+          {/**Maybe the next mudpie will be a non-nuclear magnetic fusion reactor */}
           <h3>1/6 consequences (an)enigma</h3>
           Accounting (lawyers) are split on the issue of tax evasion. I say
           treat billable hours (and 1099-w2 essential institutions) the same.
@@ -2615,6 +2616,61 @@ class App extends React.Component {
               ✨
             </span>
           </span>
+          <br />
+          <br />
+          <div
+            style={{
+              color: "white",
+              transition: ".3s ease-in",
+              width: "max-content",
+              maxWidth: "calc(100% - 20px)",
+              padding: "10px",
+              border: "1px solid",
+              backgroundColor: "tan"
+            }}
+          >
+            Transformative Justice instead works with{space}
+            <a href="https://theanarchistlibrary.org/library/pranav-jeevan-p-re-imagining-justice-from-punitive-to-transformative">
+              consequences rather than punishment
+            </a>
+            . Consequences are always things that you have to think about within
+            the context of the harm that occurs. Difference between consequences
+            and punishment is that it doesn’t deprive the person of their basic
+            needs for living like food, water, shelter and liberty. Consequences
+            focusses on identifying the position of power that person holds and
+            removing them from that so that they can’t repeat the horrible
+            action they committed. It reminds people that they can no longer
+            have the privilege of power if they abuse it.
+          </div>
+          The punitive law as with the right to own and malarkey (cash flow
+          normalcy; Isn’t inflation exclusive of short-term employment in
+          national accounting parts alone?) is to be objective, probably best
+          encountered as separate charges and WITH dental records upon arrest.
+          <br />
+          <br />
+          <div
+            style={{
+              color: "black",
+              transition: ".3s ease-in",
+              width: "max-content",
+              maxWidth: "calc(100% - 20px)",
+              padding: "10px",
+              border: "1px solid",
+              backgroundColor: "white"
+            }}
+          >
+            I have been unwilling to leave out of sight the connection between
+            our thesis - that Reason governs and has governed the World — and
+            the question of the possibility of a Knowledge of God,
+          </div>
+          <br />
+          Yeah well be patient until Allah judges alright but deduction also
+          says polytheism is polyphyletic && kinetic expansion is instigated
+          potential. So, I’m sold.
+          <h3 style={{ margin: "4px 0px" }}>
+            Shouldn't the next mudpie always be a non-nuclear magnetic fusion
+            reactor?
+          </h3>
         </div>
         But the perfecting of machinery is making human labor superfluous
         <br />
