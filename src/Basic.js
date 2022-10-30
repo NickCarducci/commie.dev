@@ -334,6 +334,10 @@ export default class Basic extends React.Component {
           </div>
           Would technologists be homeless without problems?{space}
           <i>No. After the technologist’s job is done we do not seek more.</i>
+          <h3 style={{ margin: "4px 0px" }}>
+            Why do you think humans evolved to dispel virus? Rather than
+            supposing a proposition, perhaps we should deduce the induction.
+          </h3>
         </div>
         <br />
         So after finished Brave New World, something in my mind. I believed all
