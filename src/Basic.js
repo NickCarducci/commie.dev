@@ -7721,6 +7721,7 @@ export default class Basic extends React.Component {
         {space}off{space}
         <a href="https://2024nj.com/ssa">SSDI</a>).{space}
         <i>Don't vote</i>.
+        <br />
         <a href="https://virtualid.quora.com">
           <Cable
             style={{ width: "100%" }}
@@ -7731,7 +7732,7 @@ export default class Basic extends React.Component {
                 ? ""
                 : "https://www.dropbox.com/s/sacnanoy31ttx2a/finra%20neuralink.png?raw=1"
             }
-            float={"left"}
+            float={null}
             title="finra neuralink" //7Jy9JyrukCY"
             scrolling={this.state.scrolling}
             fwd={this["scrollImg" + scrollnum()]}
@@ -7739,6 +7740,69 @@ export default class Basic extends React.Component {
             scrollTop={this.state.scrollTop}
           />
         </a>
+        <div
+          style={{
+            padding: "10px",
+            color: "white",
+            transition: ".3s ease-in",
+            width: "max-content",
+            maxWidth: "calc(100% - 20px)",
+            border: "1px solid",
+            backgroundColor: "cadetblue"
+          }}
+        >
+          <div
+            style={{
+              borderLeft: "2px solid",
+              padding: "10px",
+              color: "white",
+              transition: ".3s ease-in",
+              width: "max-content",
+              maxWidth: "calc(100% - 22px)",
+              border: "1px solid",
+              backgroundColor: "cadetblue"
+            }}
+          >
+            u/slapdash78: Classical liberalsm does not prescribe how rights
+            agencies are funded.
+          </div>
+          <br />
+          That would imply a non-neoliberalism classical liberalism. Why not
+          just own the difference and move on? You can't have a big tent. It's
+          deranged.
+          <br />
+          <br />
+          The tax payers who do so under no compulsion are interested in the
+          market fervors (e.g. FDI and imports). Absolute anarchy must suspend
+          the general state, relative anarchy might suppose predilective modicum
+          synthesis, I like. We induce every deduction. r/moralanarchism.
+          <br />
+          <br />
+          <div
+            style={{
+              borderLeft: "2px solid",
+              padding: "10px",
+              color: "white",
+              transition: ".3s ease-in",
+              width: "max-content",
+              maxWidth: "calc(100% - 22px)",
+              border: "1px solid",
+              backgroundColor: "cadetblue"
+            }}
+          >
+            Very few men out of the whole number of us are strictly honest and
+            truthful, but the politician has far greater hindrances in these
+            respects than other men. He is bound to think as his party thinks ;
+            he is bound to think in such a way that he shall get a sufficient
+            number of votes to give him the seat or the influence that he
+            desires. He has mortgaged his own judgment and his own sense of what
+            is right to the oppressive necessity that he shall be in agreement
+            with others.
+          </div>
+          <br />
+          Yeuh. Science is not an inductive artifactual standard method, rather
+          it deduces from trial and error. Always. Imo.
+        </div>
         <div
           style={{
             position: "fixed", //salt bank vaults royalty stewardship
@@ -7754,4 +7818,3 @@ export default class Basic extends React.Component {
     );
   }
 }
-
