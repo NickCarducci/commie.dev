@@ -250,6 +250,92 @@ export default class Basic extends React.Component {
           it's a big circus! (the anti anti synthesis: corpus linguistics)
           jester.com.co Brave New World and Anti- Intellectualism? u/38incihesap
         </h2>
+        <div
+          style={{
+            transition: ".3s ease-in",
+            width: "max-content",
+            maxWidth: "calc(100% - 22px)",
+            padding: "10px",
+            border: "1px solid"
+          }}
+        >
+          <Cable
+            style={{ height: "300px" }}
+            onError={handleScollImgError}
+            //img={true}
+            src={
+              this.state.noyout
+                ? ""
+                : "https://www.youtube.com/embed/7Jy9JyrukCY?start=142"
+            }
+            float={"right"}
+            title="Capitalist https://youtu.be/7Jy9JyrukCY?t=142"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + scrollnum()]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop} //"kicked out, too strong, helped other people with their work. 1'31" Hans Niemann (Lex F.)
+          />
+          (we need less healthcare)
+          <br />
+          Is the desire to commit a crime legal? If so, isn’t motive only
+          punitive thereafter? Isn’t a better mental health service paid for?
+          Doesn’t the capitalization of healthcare cause worse outcomes?
+          Shouldn’t John Catsimitidis be involuntarily committed for buying a
+          radio station to call for a fatwa against socialists? Is real
+          non-deflationary employment the proper outcome of education? Is the
+          government alone allowed to make threats? Wouldn't a doctor be
+          homeless without patients? Wouldn't a doctor be homeless without
+          patients? Wouldn't a cop and/or judge be homeless without crime?
+          Aren’t classical liberals anti-finance?
+          <br />
+          <br />
+          <div
+            style={{
+              transition: ".3s ease-in",
+              width: "max-content",
+              maxWidth: "calc(100% - 22px)",
+              padding: "10px",
+              border: "1px solid"
+            }}
+          >
+            <i>
+              The compulsory powers of municipalities have made it easy to carry
+              out any great work for a town without difficulty or loss of time
+            </i>
+            {space}but
+            {space}
+            <b>great works</b>
+            {space}are a poor compensation for other serious evils.{space}
+            <b>Great debts</b>
+            {space}
+            have been{space}
+            <b>accumulated</b>;{space}
+            <i>the burden of rates has become grievous to be borne</i>;
+            possession of power has become{space}
+            <i>
+              a matter of{space}
+              <b>political</b>
+            </i>
+            {space}party,{space}
+            <i>with all its innumerable evils</i>; great monopolies are
+            beginning to occupy the ground, -- and let it be remembered that all
+            systems, once authoritatively adopted, standing the way of new
+            discoveries and improvements, -- jobbery is said to exist; the
+            divine right of some to direct the manner in which the resources of
+            others shall be used has more and more become a fixed national idea;
+            and we have all, poor and rich alike been prevented from learning
+            the fruitful lesson of voluntarily combining to supply our own
+            special wants in our own special fashions. (Auberon Molyneux
+            Herbert,{space}
+            <a href="https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/906/0486_Bk.pdf">
+              The Right and Wrong of Compulsion by the State
+            </a>
+            )
+          </div>
+          Would technologists be homeless without problems?{space}
+          <i>No. After the technologist’s job is done we do not seek more.</i>
+        </div>
+        <br />
         So after finished Brave New World, something in my mind. I believed all
         of the evil, state, hierarchy, bourgeois, exploitation, is came from
         money. Money was the source of evil. Then I realised something.
