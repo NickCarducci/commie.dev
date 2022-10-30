@@ -239,6 +239,71 @@ export default class Basic extends React.Component {
            */
         }}
       >
+        <h2>
+          it's a big circus! (the anti anti synthesis: corpus linguistics)
+          jester.com.co Brave New World and Anti- Intellectualism? u/38incihesap
+        </h2>
+        So after finished Brave New World, something in my mind. I believed all
+        of the evil, state, hierarchy, bourgeois, exploitation, is came from
+        money. Money was the source of evil. Then I realised something.
+        <br />
+        <br />
+        Isn't science the worst form of despotism? You can always justify
+        opression and greed in scientific despotism. You can always exploit
+        people if it is scientificly beneficial. You can always put barriers in
+        people's mind if it's not realistic.
+        <br />
+        <br />
+        I think this way about technology (guild) and rollover insurance
+        (future). As science is gud. Bamf is the anti-Intellectual!
+        <br />
+        <br />
+        u/onedayitwillbedaisy: [deleted]
+        {/**
+        You bring up Brave New World, anti-intellectualism, despotism, exploitation, 
+        money, science, greed and oppression. But I don't see an actual question. */}
+        <br />
+        <br />
+        u/38incihesap: Isn't science is a despotic system?
+        {/**it's a big circus! */}
+        <br />
+        <br />
+        Probably people who vie from Hegel. Antisynthesis is anti-science.
+        <br />
+        u/onedayitwillbedaisy: [deleted]
+        {/**
+        I don't think so. Who do you think is holding science's absolute power? */}
+        <br />
+        <br />
+        If “Roger Bacon (1214 - 1284) is credited as the first scholar to
+        promote inductive reasoning as part of the scientific method,” Hegel
+        should be for deductive reasoning by throws of contention.
+        <br />
+        <br />
+        The enquiry into the essential destiny of Reason — as far as it is
+        considered in reference to the World — is identical with the question,
+        what is the ultimate design of the World? And the expression implies
+        that that design is destined to be realised. Two points of consideration
+        suggest themselves: first, the import of this design — its abstract
+        definition; and secondly, its realisation.
+        <br />
+        <br />
+        Hegel is assertive to the scientific method. In statistics we call this
+        null confirming rather than artifactual bias “confirming” fallacy.
+        <br />
+        u/onedayitwillbedaisy: [deleted]
+        <br />
+        <br />
+        Nobody. Are you talking to yourself or are you no one right now? I’m
+        setting the corpus linguistics straight. your comments end up being
+        noise when I am done with them
+        <br />
+        u/onedayitwillbedaisy: [deleted]
+        <br />
+        <br />
+        I feel you the plagiarist.
+        <br />
+        <br />
         Wouldn't a cop and/or judge be homeless without crime? Wouldn't a farmer
         and/or chef be homeless without hunger? Wouldn't firepeople be homeless
         without house fires? Wouldn't a doctor be homeless without patients?
