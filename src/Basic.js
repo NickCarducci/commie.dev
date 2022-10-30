@@ -239,6 +239,13 @@ export default class Basic extends React.Component {
            */
         }}
       >
+        65 average donor, they work so hard for the{space}
+        <a href="https://www.reddit.com/r/Anarchy101/comments/yh9sh8/comment/iuedq4t">
+          jobbery
+        </a>
+        <br />
+        <br />
+        Would you like another job or mudpie?
         <h2>
           it's a big circus! (the anti anti synthesis: corpus linguistics)
           jester.com.co Brave New World and Anti- Intellectualism? u/38incihesap
@@ -265,7 +272,11 @@ export default class Basic extends React.Component {
         <br />
         <br />
         u/38incihesap: Isn't science is a despotic system?
-        {/**it's a big circus! */}
+        {/**it's a big circus! 
+      
+      I'll do anything for an apple pie
+      
+      rationality dissurrendered depreciation against deprecation*/}
         <br />
         <br />
         Probably people who vie from Hegel. Antisynthesis is anti-science.
