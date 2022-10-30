@@ -470,8 +470,169 @@ export default class Basic extends React.Component {
           dominant determinants; in exchange the two are mediated by the chance
           characteristics of the individual.
         </div>
-        <h1>
+        <h1 style={{ lineHeight: "12px" }}>
           <a href="https://marginalism.uk">Marginalism.uk</a>
+          {space}
+          <span
+            style={{
+              fontSize: "12px"
+            }}
+          >
+            This real inflation is called the technology guild in our lexicon.
+            The merchant and manufacturers are the most malleable in this
+            variable capital.
+            <br />
+            <br />
+            <div
+              style={{
+                transition: ".3s ease-in",
+                width: "max-content",
+                maxWidth: "calc(100% - 22px)",
+                padding: "10px",
+                border: "1px solid"
+              }}
+            >
+              The contests about wages in Manufacture, pre-suppose manufacture,
+              and are in no sense directed against its existence. The opposition
+              against the establishment of new manufactures, proceeds from the
+              guilds and privileged towns, not from the workpeople. …Its last
+              words are: corporate guilds for manufacture; patriarchal relations
+              in agriculture. …The money capital formed by means of usury and
+              commerce was prevented from turning into industrial capital, in
+              the country by the feudal constitution, in the towns by the guild
+              organisation.
+              <br />
+              <br />
+              For one thing, by keeping secrets in trade if the market is at a
+              great distance from those who supply it, that is, by concealing a
+              price change, its rise above the natural level [of fixed/constant
+              no-more deflationary tech].
+            </div>
+            <br />
+            Service work is how the aristocracy becomes the bourgeoisie, albeit
+            perhaps begrudgingly, however you’d not know it in the initial
+            throws of opulence until globalization deludes our conditioning of
+            growth to leisure.
+            <br />
+            <br />
+            <div
+              style={{
+                transition: ".3s ease-in",
+                width: "max-content",
+                maxWidth: "calc(100% - 22px)",
+                padding: "10px",
+                border: "1px solid"
+              }}
+            >
+              Just as industrial capital realises only such profits as already
+              exist in the value of commodities as surplus-value, so merchant's
+              capital realises profits only because the entire surplus-value, or
+              profit, has not as yet been fully realised in the price charged
+              for the commodities by the industrial capitalist.
+              …Merchant’scapital, therefore, participates in levelling
+              surplus-value to average profit, although it does not take part in
+              its production.
+            </div>
+            <br />
+            Traders aid in globalized efficiency. The expansion of capital into
+            the future is capitalist, with socialized capital.
+            <br />
+            <br />
+            <b>
+              Do commercial property owners hold the key to poverty ? If not,
+              what would happen if they cut leases by 50% on commercial spaces
+              that have been vacant for more than a year ?
+            </b>
+            <br />
+            $800b/yr of $23t/yr commercial structures are built for these
+            purposes, and again that amount for residential structures. $2.7t/yr
+            is then spent on residential leases, and $1.2t/yr is on the
+            commercial-kind.
+            <br />
+            <br />
+            This of course would grant cheaper mudpies without leasing, the
+            surrender of future demand. A more efficient rather than productive
+            society, even really productive society, would increase poverty
+            surely, because the skewed rate of income below a third national
+            expense strata (or 3x average food) would widen from the income
+            equality/competition.
+            <br />
+            <br />
+            The only way to emancipate (the mass of) people from poverty, an
+            average of operating rates, is to allow for capitalism, which pays
+            soft labor. If living labor is paid their circulative ground rent
+            costs and constant reproductive capital (without expiry), poverty
+            will increase generally, and lessen per capita/centile.
+            <br />
+            <br />
+            <div
+              style={{
+                transition: ".3s ease-in",
+                width: "max-content",
+                maxWidth: "calc(100% - 22px)",
+                padding: "10px",
+                border: "1px solid"
+              }}
+            >
+              The quantity of actual material, in which the value of the
+              constant capital is incorporated, is altogether irrelevant to the
+              formation of value and the rate of profit, which varies inversely
+              to this value no matter what the ratio of the increase or decrease
+              of the value of constant capital to the mass of material use-value
+              which it represents. It is different with variable capital. It is
+              not the value it has, not the labour incorporated in it, that
+              matter at this point, but this value as a mere index of the total
+              labour that it sets in motion and which is not expressed in it —
+              the total labour, whose difference from the labour expressed in
+              that value, hence the paid labour, i.e., that portion of the total
+              labour which produces surplus-value, is all the greater, the less
+              labour is contained in that value itself. (Marx, Capital III.1
+              Profit [to] Surplus)
+            </div>
+            <br />
+            Social ground rent is fine. No expiration, nor future demand
+            surrendered. For instance, industry-specific max-royalty payday
+            loans will replace interest and principal over collateral, as
+            consumer protection (overtime implied change orders) will falter to
+            contracting technology r/scopebook.
+            <br />
+            <br />
+            Social capital is our issue, and ground rent is the cost of
+            circulation, being storage and transport.
+            <br />
+            <br />
+            <div
+              style={{
+                transition: ".3s ease-in",
+                width: "max-content",
+                maxWidth: "calc(100% - 22px)",
+                padding: "10px",
+                border: "1px solid"
+              }}
+            >
+              He is then asked whether merchants' bills of exchange represent
+              commodities which have been sold or shipped. He denies that these
+              bills represent the value of commodities in the same way that a
+              bank-note represents gold.
+              <br />
+              <br />
+              Aside from the stock-company business, which represents the
+              abolition of capitalist private industry on the basis of the
+              capitalist system itself and destroys private industry as it
+              expands and invades new spheres of production, credit offers to
+              the individual capitalist; or to one who is regarded a capitalist,
+              absolute control within certain limits over the capital and
+              property of others, and thereby over the labour of others.
+              <i>
+                ’Merchants, manufacturers, etc., carry on operations much beyond
+                those which the use of their own capital alone would enable them
+                to do. …Capital is rather the foundation upon which a good
+                credit is built than the limit of the transactions of any
+                commercial establishment.'
+              </i>
+              {space}(Economist, 1847, p. 333.)
+            </div>
+          </span>
         </h1>
         <h4 style={{ margin: "0px", marginTop: "8px" }}>
           Would there be QE if the treasury owned no land?
@@ -7313,4 +7474,3 @@ export default class Basic extends React.Component {
     );
   }
 }
-
