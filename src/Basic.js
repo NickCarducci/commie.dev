@@ -379,7 +379,7 @@ export default class Basic extends React.Component {
           This is a very generalized answer for a very broad question. I hope
           that it helps!
         </div>
-        <br />
+        <h2>observational vs assertive science</h2>
         So after finished Brave New World, something in my mind. I believed all
         of the evil, state, hierarchy, bourgeois, exploitation, is came from
         money. Money was the source of evil. Then I realised something.
@@ -394,7 +394,6 @@ export default class Basic extends React.Component {
         <br />
         I think this way about technology (guild) and rollover insurance
         (future). As science is gud. Bamf is the anti-Intellectual!
-        <br />
         <br />
         u/onedayitwillbedaisy: [deleted]
         {/**
