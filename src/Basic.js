@@ -266,6 +266,7 @@ export default class Basic extends React.Component {
           <span style={{ color: "white", WebkitTextStroke: ".5px black" }}>
             Isn't a death wish only harmless by the existing powerless?
           </span>
+          {space}Is there a stakeholder duty for private business?
         </h1>
         association with gangs,{space}
         <a href="https://generalmaintenanceunit.quora.com">known to be</a>
