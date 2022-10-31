@@ -24,6 +24,7 @@ export default class Basic extends React.Component {
     this.voting = React.createRef();
     this.banking = React.createRef();
     this.property = React.createRef();
+    this.domain = React.createRef();
   }
   componentDidMount = () => {
     window.addEventListener("resize", this.refresh);
@@ -56,6 +57,8 @@ export default class Basic extends React.Component {
       ["/prop", "/props", "/property", "/capital"].includes(pathname)
     ) {
       window.scroll(0, this.property.current.offsetTop);
+    } else if (pathname === "/domain") {
+      window.scroll(0, this.domain.current.offsetTop);
     }
   };
   componentDidUpdate = (prevProps) => {
@@ -263,7 +266,10 @@ export default class Basic extends React.Component {
             {/**"gang association", "named riot", "known to be violent" */}
           </span>
           {space}
-          <span style={{ color: "white", WebkitTextStroke: ".5px black" }}>
+          <span
+            ref={this.domain}
+            style={{ color: "white", WebkitTextStroke: ".5px black" }}
+          >
             Isn't a death wish only harmless by the existing powerless?
           </span>
           {space}Is there a stakeholder duty for private business? (Public
