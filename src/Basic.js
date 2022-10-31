@@ -260,8 +260,17 @@ export default class Basic extends React.Component {
           <span style={{ color: "linen" }}>
             Should a business owner be able to express dissatisfaction with the
             ability for people to live?
+            {/**"gang association", "named riot", "known to be violent" */}
+          </span>
+          {space}
+          <span style={{ color: "white", WebkitTextStroke: ".5px black" }}>
+            Isn't a death wish only harmless by the existing powerless?
           </span>
         </h1>
+        association with gangs,{space}
+        <a href="https://generalmaintenanceunit.quora.com">known to be</a>
+        {space}violent (proactive{space}
+        <a href="https://regcops.quora.com">policing</a>)
         <div
           style={{
             transition: ".3s ease-in",
