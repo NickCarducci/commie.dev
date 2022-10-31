@@ -34,7 +34,8 @@ export default class App extends React.Component {
         "/prop",
         "/props",
         "/property",
-        "/capital"
+        "/capital",
+        "/domain"
       ].includes(this.state.p)
     ) {
       this.setState({ basic: false });
@@ -81,3 +82,4 @@ export default class App extends React.Component {
       );
   }
 }
+
