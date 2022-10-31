@@ -468,12 +468,29 @@ export default class Basic extends React.Component {
             border: "1px solid"
           }}
         >
-          The enquiry into the essential destiny of Reason — as far as it is
-          considered in reference to the World — is identical with the question,
-          what is the ultimate design of the World? And the expression implies
-          that that design is destined to be realised. Two points of
-          consideration suggest themselves: first, the import of this design —
-          its abstract definition; and secondly, its realisation.
+          The enquiry into the essential destiny of Reason{space}
+          <i>
+            [logic induces, but when it doesn't the dialectic deduces, i.e.
+            "Election induction is just talk. The failure to deduce (a) null
+            confirmation is not exculpatory that “we didn’t lose” or "we won"
+            without{space}
+            <b>distributed data systems</b>. Induction of{space}
+            <a href="https://actuaries.quora.com">reproducible</a>
+            {space}facts aren't{space}
+            <a href="https://epiology.quora.com">artifacts</a>, and artifacts
+            are{space}
+            <a href="https://sewageisamatterofdomesticviolence.quora.com">
+              irreproducible
+            </a>
+            {space}by{space}
+            <a href="https://phyletic.quora.com">deduction</a>.]
+          </i>
+          {space}— as far as it is considered in reference to the World — is
+          identical with the question, what is the ultimate design of the World?
+          And the expression implies that that design is destined to be
+          realised. Two points of consideration suggest themselves: first, the
+          import of this design — its abstract definition; and secondly, its
+          realisation.
         </div>
         {/**woke malarkey;  */}
         <i
@@ -7860,3 +7877,4 @@ export default class Basic extends React.Component {
     );
   }
 }
+
