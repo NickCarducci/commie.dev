@@ -250,6 +250,10 @@ export default class Basic extends React.Component {
           it's a big circus! (the anti anti synthesis: corpus linguistics)
           jester.com.co Brave New World and Anti- Intellectualism? u/38incihesap
         </h2>
+        <h1>
+          Why does the U.S. involuntarily commit people who want to kill
+          themselves but not others?
+        </h1>
         <div
           style={{
             transition: ".3s ease-in",
@@ -275,6 +279,13 @@ export default class Basic extends React.Component {
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
             scrollTop={this.state.scrollTop} //"kicked out, too strong, helped other people with their work. 1'31" Hans Niemann (Lex F.)
           />
+          {/**
+          I don’t want to pick a source in case it’s a baddie but you can see many. 
+          >Reasons for Short-Term Commitment or Involuntary Hospitalization. Suicidal thoughts and feelings; Risk of immediate danger in hurting ...
+          https://www.google.com/search?q=is+self+ideation+of+suicide+cause+for+involuntary+commitmentI was involuntarily committed for 
+          stalking my ex (for a several months, she never said to stop or no) and making a move on another girl, but not touching her. When I was at the 
+          Hackensack Meridian NJ psych ward, another kid told a cop about being so depressed that he wanted to die after making a drink for a girl and 
+          her reporting that he tried to intoxicate her against her will. Mixed signals will be the death of us. */}
           (we need less healthcare)
           <br />
           Is the desire to commit a crime legal? If so, isn’t motive only
@@ -286,7 +297,32 @@ export default class Basic extends React.Component {
           government alone allowed to make threats? Wouldn't a doctor be
           homeless without patients? Wouldn't a doctor be homeless without
           patients? Wouldn't a cop and/or judge be homeless without crime?
-          Aren’t classical liberals anti-finance?
+          {space}
+          <span style={{ color: "navy" }}>
+            Aren’t classical liberals anti-finance?
+          </span>
+          {space}Why is wishing your own life away a reason for involuntary
+          commitment but not others? Is it legal to wish for the death of
+          yourself if you are a socialist?
+          <br />
+          <br />
+          Would I rather imprison the ideation of others’ death with (1) a
+          timestamp by a convict intranet made by the{space}
+          <a href="https://quora.com/topic/U-S-General-Services-Administration">
+            U.S. General Services Administration
+          </a>
+          {space}(
+          <i>
+            so non-convicts might be able to{space}
+            <a href="https://virtualid.quora.com">
+              <b>plan an attack</b>
+            </a>
+          </i>
+          ), or otherwise (2) on radio/tv/one party audio recording with the
+          words “going to” instead of “drop dead”
+          {space}
+          <i>cyber bullying</i>? Yes, but only after my psych ward brethren are
+          free to ideate suicide and behave illicitly.
           <h3>
             state contractors: A jester’s nightmare is an anti synthesis (you
             should have put more in escrow then you right loon)
@@ -1043,7 +1079,9 @@ export default class Basic extends React.Component {
         . Isn't the national poverty rate a measure of equality? Can’t an
         individual have a higher propensity to socially mobilize when poverty is
         common and all unemployment is inflationary? Aren’t homeowners loitering
-        without restitution to savers by foreclosure?
+        without restitution to savers by foreclosure? Isn’t the housing shortage
+        caused by principal and interest above collateral? Hasn't capitalism
+        caused the labor shortage?
         <br />
         <span style={{ backgroundColor: "navy", color: "skyblue" }}>
           <span style={{ backgroundColor: "salmon", color: "black" }}>
@@ -1063,6 +1101,10 @@ export default class Basic extends React.Component {
           crazy
         </a>
         ?
+        <br />
+        Is deflationary principal and interest above collateral real deflation?
+        Doesn’t collateral take budget constraints without principal nor
+        interest?
         <h2 style={{ margin: "4px 0px" }}>
           Non-
           <a href="https://adailyimpeachment.quora.com/Will-stimulus-help-business-and-the-cost-of-living">
