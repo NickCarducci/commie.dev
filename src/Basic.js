@@ -1338,7 +1338,7 @@ export default class Basic extends React.Component {
         {space}
         <i>
           Does the right want lower corporate taxes for higher employee benefit
-          incentives?
+          incentives?&nbsp;
         </i>
         {space}
         <span
