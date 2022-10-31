@@ -266,7 +266,8 @@ export default class Basic extends React.Component {
           <span style={{ color: "white", WebkitTextStroke: ".5px black" }}>
             Isn't a death wish only harmless by the existing powerless?
           </span>
-          {space}Is there a stakeholder duty for private business?
+          {space}Is there a stakeholder duty for private business? (Public
+          Domain)
         </h1>
         association with gangs,{space}
         <a href="https://generalmaintenanceunit.quora.com">known to be</a>
@@ -7903,18 +7904,20 @@ export default class Basic extends React.Component {
               backgroundColor: "cadetblue"
             }}
           >
-            Very few men out of the whole number of us are strictly honest and
-            truthful, but the politician has far greater hindrances in these
-            respects than other men. He is bound to think as his party thinks ;
-            he is bound to think in such a way that he shall get a sufficient
-            number of votes to give him the seat or the influence that he
-            desires. He has mortgaged his own judgment and his own sense of what
-            is right to the oppressive necessity that he shall be in agreement
-            with others.
+            Very few men out of the whole number of us are{space}
+            <a href="https://2024nj.com/carducci">strictly</a>
+            {space}honest and truthful, but the politician has far greater
+            hindrances in these respects than other men. He is bound to think as
+            his party thinks; he is bound to think in such a way that he shall
+            get a sufficient number of votes to give him the seat or the
+            influence that he desires. He has mortgaged his own judgment and his
+            own sense of what is right to the oppressive necessity that he shall
+            be in agreement with others.
           </div>
           <br />
           Yeuh. Science is not an inductive artifactual standard method, rather
-          it deduces from trial and error. Always. Imo.
+          it deduces from trial and error. Always. Imo.{space}
+          <i>(1/6 opulent modicum)</i>
         </div>
         <div
           style={{
