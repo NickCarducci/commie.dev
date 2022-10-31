@@ -642,7 +642,9 @@ export default class Basic extends React.Component {
         {space}
         <b>
           Why does the right wing say a majority of people want to decrease
-          immigration when 52% Republicans, 67% Independents/non-voters, and 83%
+          {space}
+          <a href="https://medicatethehomeless.quora.com">immigration</a>
+          {space}when 52% Republicans, 67% Independents/non-voters, and 83%
           Democrats don’t?
         </b>
         <div
@@ -660,7 +662,13 @@ export default class Basic extends React.Component {
             }}
           >
             Only labor produces value because everything else is{space}
-            <i>found</i>
+            <i>found</i>.{space}
+            <i>
+              Can we not take in immigrants because of real non-deflationary
+              principal and interest over collateral?
+            </i>
+            {space}What is sovereign independence worth? Isn't a contract legal
+            until proven otherwise?
           </h3>
           Laws may perpetuate a particular means of production, e.g., land, in
           certain families. These laws acquire economic significance only if
