@@ -668,7 +668,8 @@ export default class Basic extends React.Component {
               principal and interest over collateral?
             </i>
             {space}What is sovereign independence worth? Isn't a contract legal
-            until proven otherwise?
+            until proven otherwise? Does political asylum span the same standing
+            as self-defense?
           </h3>
           Laws may perpetuate a particular means of production, e.g., land, in
           certain families. These laws acquire economic significance only if
