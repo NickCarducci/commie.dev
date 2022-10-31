@@ -627,7 +627,13 @@ export default class Basic extends React.Component {
         </div>
         <h2>
           But capital obtains this ability only by constantly sucking in living
-          labour as its soul, vampire-like. ​So it is induced.
+          labour as its soul, vampire-like. {space}
+          <i style={{ color: "cadetblue" }}>
+            So it is induced. A non-extractible ponzi scheme - When testing
+            inductions{space}
+            <b>for reproducible-artifacts</b>, use the same extractible
+            endogenous controls, et voila intractable-induction.
+          </i>
         </h2>
         Student loan bailout is treasury bond bailout. revenuedata.doi.gov BLM -
         QE{space}
