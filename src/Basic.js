@@ -4807,8 +4807,25 @@ export default class Basic extends React.Component {
           agriculture. …The money capital formed by means of usury and commerce
           was prevented from turning into industrial capital, in the country by
           the feudal constitution, in the towns by the guild organisation.
-          <br />
-          <br />
+          <div
+            style={{
+              backgroundColor: "white",
+              color: "black",
+              padding: "10px",
+              margin: "10px",
+              width: "calc(100% - 40px)",
+              border: "1px solid"
+            }}
+          >
+            <h4 style={{ margin: "4px 0px" }}>The Anti-Mod</h4>
+            Abide. Hate - Non-developmentally nor injuriously disabled innuendo.
+            <br />
+            One Time Commercial Ads. Repetitive & Commercial Ad - A recurring
+            commercial advertisement.
+            <br />
+            Inblock. Harassment - Threat with a timestamp (or without, until
+            psych wards and prisons are separated).
+          </div>
           <i>
             For one thing, by keeping{space}
             <a href="https://www.marxists.org/archive/marx/works/1869/letters/69_11_29-abs.htm">
