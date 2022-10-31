@@ -256,6 +256,11 @@ export default class Basic extends React.Component {
           <i style={{ color: "grey" }}>
             What does wishing for someone's death mean for the trolley problem?
           </i>
+          {space}
+          <span style={{ color: "linen" }}>
+            Should a business owner be able to express dissatisfaction with the
+            ability for people to live?
+          </span>
         </h1>
         <div
           style={{
