@@ -627,7 +627,7 @@ export default class Basic extends React.Component {
         </div>
         <h2>
           But capital obtains this ability only by constantly sucking in living
-          labour as its soul, vampire-like.
+          labour as its soul, vampire-like. ​So it is induced.
         </h2>
         Student loan bailout is treasury bond bailout. revenuedata.doi.gov BLM -
         QE{space}
