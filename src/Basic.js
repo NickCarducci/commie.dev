@@ -531,6 +531,8 @@ export default class Basic extends React.Component {
           <a href="https://thumbprint.quora.com/Free-good-will-https-www-quora-com-Arent-paying-publishers-alone-allowed-to-prohibit-certain-ideas-answer-Franklin-V">
             Free Good Will
           </a>
+          {space}Doesn't capitalism use induction? Doesn't capitalism induce
+          fixed costs? Doesn't capitalism refrain from deduction?
         </h2>
         Hegel is assertive to the scientific method. In statistics we call this
         {space}
@@ -1360,7 +1362,9 @@ export default class Basic extends React.Component {
           </i>
         </h1>
         <h4 style={{ margin: "4px 0px" }}>
-          Occupy Republicans · How does greed play a part in inflation?
+          Occupy Republicans · (
+          <a href="https://asyluminportugal.quora.com">claims</a>) How does
+          greed play a part in inflation?
         </h4>
         <h4 style={{ margin: "4px 0px" }}>
           15% GOP, 39% non voters, 52% universal{space}
