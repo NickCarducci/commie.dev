@@ -252,7 +252,10 @@ export default class Basic extends React.Component {
         </h2>
         <h1>
           Why does the U.S. involuntarily commit people who want to kill
-          themselves but not others?
+          themselves but not others?{space}
+          <i style={{ color: "grey" }}>
+            What does wishing for someone's death mean for the trolley problem?
+          </i>
         </h1>
         <div
           style={{
@@ -7877,4 +7880,3 @@ export default class Basic extends React.Component {
     );
   }
 }
-
