@@ -656,14 +656,29 @@ class App extends React.Component {
               </a>
               {space}is not capitalism.
             </div>
-            It is furthermore appropriate to mention at this point the extensive
-            introduction of female and child labor, in so far as the whole
-            family must produce a larger quantity of surplus-value for{space}
-            <a href="https://phyletic.quora.com/What-does-it-mean-if-the-demand-curve-has-an-inelastic-slope-1">
-              a certain capital than before
+            <span style={{ textDecoration: "line-through", color: "silver" }}>
+              It is furthermore appropriate to mention at this point the
+              extensive introduction of female and child labor, in so far as the
+              whole family must produce a larger quantity of surplus-value for
+              {space}
+              <a href="https://phyletic.quora.com/What-does-it-mean-if-the-demand-curve-has-an-inelastic-slope-1">
+                a certain capital than before
+              </a>
+              {space}[,] even in case the total amount of their wages should
+              increase, which is by no means general.
+            </span>
+            {space}These are the counteracting tendencies, which, while
+            effecting a rise in the rate of surplus-value, also tend to decrease
+            the mass of surplus-value, and hence the rate of profit produced by
+            a certain capital. Mention should also be made here of the
+            widespread introduction of female and child labour, in so far as
+            {space}
+            <a href="https://www.marxists.org/archive/marx/works/1894-c3/ch14.htm">
+              the whole family must now perform more surplus-labour for capital
+              than before
             </a>
-            {space}[,] even in case the total amount of their wages should
-            increase, which is by no means general.
+            , even when the total amount of their wages increases, which is by
+            no means always the case.
             <div
               ref={this.economics}
               style={{
