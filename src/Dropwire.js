@@ -147,7 +147,7 @@ class Cable extends React.Component {
             framewidth: continuee.offsetWidth
           });
         } else if (!between) {
-          return this.setState({ mount: false });
+          return null; //this.setState({ mount: false });
           /*if (continuee) {
             while (continuee.children.length > 0) {
               continuee.remove(
