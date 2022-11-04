@@ -10,20 +10,37 @@ class Cable extends React.Component {
       return s.substring(s.length - 2, s.length) === "px";
     };
     const apply = (s) => (S[s] = s.substring(0, s.length - 2));
+    const isPerc = (s, what) => {
+      if (what) return s.substring(s.length - 1, s.length);
+      return s && s.substring(s.length - 1, s.length) === "%";
+    };
+    const applyPerc = (s) => (S[s] = s.substring(0, s.length - 1));
     if (style) {
       if (style.height && isPixels(style.height)) {
         apply(style.height);
       } else S.height = style.height;
+      if (style.width && isPerc(style.width)) {
+        applyPerc(style.width);
+      } else S.width = style.width;
+
       if (style.width && isPixels(style.width)) {
         apply(style.width);
+      } else S.width = style.width;
+      if (style.width && isPerc(style.width)) {
+        applyPerc(style.width);
       } else S.width = style.width;
       //auto,min-content
       //style && style.width && console.log(isPixels(style.width, true)); //S["width"]); //isPixels(style.width, true));
     }
+
+    //console.log(initwidth);
     var initheight =
-        (!S || !isNaN(S.width)) && isNaN(S.height) ? "auto" : S.height,
+        !S || !this.props.img //|| (!isNaN(S.width) /* && !isPerc(S.width)*/ && isNaN(S.height))
+          ? "auto"
+          : S.height,
       initwidth =
         !S || !isNaN(S.height) ? "auto" : !isNaN(S.width) ? 200 : S.width;
+    //console.log(initheight);
     this.state = {
       mount: null,
       optionalheight: initheight,
@@ -41,42 +58,49 @@ class Cable extends React.Component {
   componentDidUpdate = (prevProps) => {
     if (this.state.mount !== this.state.lastmount)
       this.setState({ lastmount: this.state.mount }, () => {
-        if (this.state.mount) {
-          if (!this.props.fwd || !this.props.fwd.current)
-            return this.setState({ mount: false });
+        if (this.state.mount)
+          this.setState(
+            { mount: this.props.fwd && this.props.fwd.current },
+            () => {
+              console.log("mounted drop[wire]");
+              var initheight = this.state.optionalheight,
+                initwidth = this.state.optionalwidth;
+              clearTimeout(this.dyntime3);
+              this.dyntime3 = setTimeout(() => {
+                this.setState(
+                  {
+                    optionalheight: 0,
+                    optionalwidth: 0,
+                    firstheight:
+                      this.props.fwd &&
+                      this.props.fwd.current &&
+                      this.props.fwd.current.offsetHeight,
+                    firstwidth:
+                      this.props.fwd &&
+                      this.props.fwd.current &&
+                      this.props.fwd.current.offsetWidth
+                  },
+                  () => {
+                    if (![200, "auto"].includes(initwidth)) {
+                      var targetheight = this.state.firstheight;
 
-          console.log("mounted drop[wire]");
-          var initheight = this.state.optionalheight,
-            initwidth = this.state.optionalwidth;
-          clearTimeout(this.dyntime3);
-          this.dyntime3 = setTimeout(() => {
-            this.setState(
-              {
-                optionalheight: 0,
-                optionalwidth: 0,
-                firstheight: this.props.fwd.current.offsetHeight,
-                firstwidth: this.props.fwd.current.offsetWidth
-              },
-              () => {
-                if (![200, "auto"].includes(initwidth)) {
-                  var targetheight = this.state.firstheight;
+                      this.setState({
+                        optionalheight: targetheight
+                      });
+                    } else this.setState({ optionalheight: initheight });
 
-                  this.setState({
-                    optionalheight: targetheight
-                  });
-                } else this.setState({ optionalheight: initheight });
-
-                var targetwidth = this.state.firstwidth;
-                if (!["auto"].includes(initheight)) {
-                  this.setState({
-                    optionalwidth: targetwidth
-                  });
-                } else this.setState({ optionalwidth: initwidth });
-                this.setState({ resizing: true });
-              }
-            );
-          }, 2000);
-        }
+                    var targetwidth = this.state.firstwidth;
+                    if (!["auto"].includes(initheight)) {
+                      this.setState({
+                        optionalwidth: targetwidth
+                      });
+                    } else this.setState({ optionalwidth: initwidth });
+                    this.setState({ resizing: true });
+                  }
+                );
+              }, 2000);
+            }
+          );
       });
     if (
       (this.state.go && this.props.scrolling !== prevProps.scrolling) ||
@@ -112,7 +136,10 @@ class Cable extends React.Component {
         );
       } else {
         var continuee = this.props.fwd && this.props.fwd.current;
-        if (!continuee && !cache) return;
+        if (!continuee && !cache)
+          return this.setState({ mount: false }, () =>
+            console.log(continuee.offsetWidth)
+          );
         if (!cache && this.props.img) {
           this.setState({
             cache: continuee.outerHTML,
@@ -120,13 +147,14 @@ class Cable extends React.Component {
             framewidth: continuee.offsetWidth
           });
         } else if (!between) {
-          if (continuee) {
+          return this.setState({ mount: false });
+          /*if (continuee) {
             while (continuee.children.length > 0) {
               continuee.remove(
                 continuee.children[continuee.children.length - 1]
               );
             }
-          }
+          }*/
         } else {
           const children = [...page.children];
           if (
@@ -206,7 +234,12 @@ class Cable extends React.Component {
             src={src}
           />
         ) : (
-          <span style={{ border: "2px gray solid" }}>{title}</span>
+          <span
+            onClick={() => this.setState({ mount: true })}
+            style={{ border: "2px gray solid" }}
+          >
+            {title}
+          </span>
         )}
       </div>
     );
