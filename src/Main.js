@@ -945,6 +945,10 @@ class App extends React.Component {
           anarchists don’t want everyone who has built these institutions dead
           after their fields are burned?
         </div>
+        “The same job”{space}
+        <a href="https://www.reddit.com/r/Wallstreetsilver/comments/yltw6e/are_you_a_conservative_or_do_you_like_donald_trump/">
+          inequality with real growth
+        </a>
         <div
           style={{
             right: "70px",
@@ -1076,7 +1080,7 @@ class App extends React.Component {
             <br />
             <br />
             <Cable
-              style={{ width: "100%", height: "300px" }}
+              style={{ width: "100%", height: "500px" }}
               onError={handleScollImgError}
               //img={true}
               src={this.state.noyout ? "" : "https://leisuretoprefer.com"}
@@ -4360,3 +4364,4 @@ export default React.forwardRef((props, ref) => {
     />
   );
 });
+
