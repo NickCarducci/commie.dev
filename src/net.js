@@ -2878,27 +2878,39 @@ class NetToGDP extends React.Component {
               ))}
             </select>
             &nbsp;
-            {bizandcheck
-              ? `$${shortNumber(this.state.lowAccount * 1000000)}-${shortNumber(
-                  this.state.highAccount * 1000000
-                )}`
-              : [
-                  "federal reserve",
-                  "spending (m2)",
-                  "borrowings of monetary-debits",
-                  "household accounts",
-                  "financial accounts"
-                ].includes(this.state.chartType)
-              ? `$${shortNumber(
-                  this.state.lowNetRatio * 1000000
-                )}-${shortNumber(this.state.highNetRatio * 1000000)}`
-              : `${StringDecimal(
-                  this.state.lowNetRatio *
-                    (this.state.chartType === "new debt" ? 1 : 100)
-                )}-${StringDecimal(
-                  this.state.highNetRatio *
-                    (this.state.chartType === "new debt" ? 1 : 100)
-                )}%`}
+            <a
+              style={{ color: "White" }}
+              href="https://www.federalreserve.gov/regreform/discount-window.htm"
+            >
+              {bizandcheck
+                ? `$${shortNumber(
+                    this.state.lowAccount * 1000000
+                  )}-${shortNumber(this.state.highAccount * 1000000)}`
+                : [
+                    "federal reserve",
+                    "spending (m2)",
+                    "borrowings of monetary-debits",
+                    "household accounts",
+                    "financial accounts"
+                  ].includes(this.state.chartType)
+                ? `$${shortNumber(
+                    this.state.lowNetRatio * 1000000
+                  )}-${shortNumber(this.state.highNetRatio * 1000000)}`
+                : `${StringDecimal(
+                    this.state.lowNetRatio *
+                      (this.state.chartType === "new debt" ? 1 : 100)
+                  )}-${StringDecimal(
+                    this.state.highNetRatio *
+                      (this.state.chartType === "new debt" ? 1 : 100)
+                  )}%`}
+            </a>
+            &nbsp;
+            <a
+              style={{ color: "White" }}
+              href="https://www.newyorkfed.org/markets/OMO_transaction_data.html#securities-lending"
+            >
+              secop
+            </a>
           </span>
           <div
             style={{
