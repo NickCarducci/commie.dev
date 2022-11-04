@@ -26,16 +26,16 @@ class Cable extends React.Component {
       if (style.width && isPixels(style.width)) {
         apply(style.width);
       } else S.width = style.width;
-      if (style.width && isPerc(style.width)) {
-        applyPerc(style.width);
-      } else S.width = style.width;
+      if (style.height && isPerc(style.height)) {
+        applyPerc(style.height);
+      } else S.height = style.height;
       //auto,min-content
       //style && style.width && console.log(isPixels(style.width, true)); //S["width"]); //isPixels(style.width, true));
     }
 
     //console.log(initwidth);
     var initheight =
-        !S || !this.props.img //|| (!isNaN(S.width) /* && !isPerc(S.width)*/ && isNaN(S.height))
+        !S && !this.props.img //|| (!isNaN(S.width) /* && !isPerc(S.width)*/ && isNaN(S.height))
           ? "auto"
           : S.height,
       initwidth =
@@ -61,45 +61,7 @@ class Cable extends React.Component {
         if (this.state.mount)
           this.setState(
             { mount: this.props.fwd && this.props.fwd.current },
-            () => {
-              console.log("mounted drop[wire]");
-              var initheight = this.state.optionalheight,
-                initwidth = this.state.optionalwidth;
-              clearTimeout(this.dyntime3);
-              this.dyntime3 = setTimeout(() => {
-                this.setState(
-                  {
-                    optionalheight: 0,
-                    optionalwidth: 0,
-                    firstheight:
-                      this.props.fwd &&
-                      this.props.fwd.current &&
-                      this.props.fwd.current.offsetHeight,
-                    firstwidth:
-                      this.props.fwd &&
-                      this.props.fwd.current &&
-                      this.props.fwd.current.offsetWidth
-                  },
-                  () => {
-                    if (![200, "auto"].includes(initwidth)) {
-                      var targetheight = this.state.firstheight;
-
-                      this.setState({
-                        optionalheight: targetheight
-                      });
-                    } else this.setState({ optionalheight: initheight });
-
-                    var targetwidth = this.state.firstwidth;
-                    if (!["auto"].includes(initheight)) {
-                      this.setState({
-                        optionalwidth: targetwidth
-                      });
-                    } else this.setState({ optionalwidth: initwidth });
-                    this.setState({ resizing: true });
-                  }
-                );
-              }, 2000);
-            }
+            () => {}
           );
       });
     if (
@@ -140,7 +102,8 @@ class Cable extends React.Component {
           return this.setState({ mount: false }, () =>
             console.log(continuee.offsetWidth)
           );
-        if (!cache && this.props.img) {
+        if (!cache) {
+          // && this.props.img) {
           this.setState({
             cache: continuee.outerHTML,
             frameheight: continuee.offsetHeight,
@@ -183,8 +146,8 @@ class Cable extends React.Component {
     };
     const style = {
       border: "0px gray solid",
-      width: this.state.resizing ? this.state.optionalwidth : null,
-      height: this.state.resizing ? this.state.optionalheight : 20
+      width: this.state.resizing ? this.state.framewidth : null
+      //height: this.state.resizing ? this.state.frameheight : 20
     };
     return (
       <div
@@ -203,7 +166,7 @@ class Cable extends React.Component {
       >
         {src === "" ? (
           <span style={style}>{title}</span>
-        ) : !img && mount ? (
+        ) : !img ? (
           <iframe
             onLoad={onLoad}
             onError={onError}
@@ -211,10 +174,10 @@ class Cable extends React.Component {
             style={{
               ...style,
               border: 0,
-              width:
-                this.state.optionalwidth !== 200
+              width: this.state.initwidth,
+              /*eidth:                this.state.optionalwidth !== 200
                   ? this.state.initwidth
-                  : "100%",
+                  : "100%"*/
               height: this.state.initheight
             }}
             ref={this.props.fwd}
@@ -234,12 +197,7 @@ class Cable extends React.Component {
             src={src}
           />
         ) : (
-          <span
-            onClick={() => this.setState({ mount: true })}
-            style={{ border: "2px gray solid" }}
-          >
-            {title}
-          </span>
+          <span style={{ border: "2px gray solid" }}>{title}</span>
         )}
       </div>
     );
