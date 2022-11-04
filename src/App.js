@@ -30,12 +30,16 @@ export default class App extends React.Component {
         "/capitalism",
         "/police",
         "/voting",
+        "/bank",
+        "/banks",
+        "/banksy",
         "/banking",
         "/prop",
         "/props",
         "/property",
         "/capital",
-        "/domain"
+        "/domain",
+        "/cukl"
       ].includes(this.state.p)
     ) {
       this.setState({ basic: false });
@@ -82,4 +86,5 @@ export default class App extends React.Component {
       );
   }
 }
+//$NZDJPY
 
