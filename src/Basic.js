@@ -2,7 +2,6 @@ import React from "react";
 import Cable from "./Dropwire";
 import { UAParser } from "ua-parser-js";
 
-/* global Snipcart:false */
 export default class Basic extends React.Component {
   constructor(props) {
     super(props);
@@ -10,6 +9,7 @@ export default class Basic extends React.Component {
     const name = parser.getBrowser().name;
     console.log(name);
     this.state = {
+      donor: true,
       trigger: false,
       browser: name,
       scrollTop: 0,
@@ -298,6 +298,27 @@ export default class Basic extends React.Component {
             </a>
             . The other is that which supplies his immediate consumption;
           </i>
+          <h3>Landed property and the disutility dialectic</h3>
+          The property in them is of higher pretensions than that of the land,
+          which may generally be traced up to an act of spoliation; for it is
+          hardly possible to show an instance, in which its ownership has been
+          legitimately transmitted from the first occupancy. It ranks higher
+          than the right of the capitalist also; for even taking it for granted,
+          that this latter has been acquired without any spoliation whatever,
+          and by the gradual accumulations of ages, yet the succession to it
+          could not have been established without the aid of legislation, which
+          aid may have been granted on conditions. Yet, sacred as the property
+          in the faculties of industry is, it is constantly infringed upon, not
+          only in the flagrant abuse of personal slavery, but in many other
+          points of more frequent occurrence.
+          <h2>
+            After capital, landed property would be dealt with. After that, wage
+            labour.{space}
+            <a href="https://www.marxists.org/archive/marx/works/1857/grundrisse/ch05.htm">
+              All three presupposed, the movement of prices
+            </a>
+            , as circulation now defined in its inner totality.
+          </h2>
         </div>
       );
     } else
