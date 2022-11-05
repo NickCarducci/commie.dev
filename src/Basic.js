@@ -49,31 +49,39 @@ export default class Basic extends React.Component {
     };*/
   };
   check = (pathname) => {
-    if (pathname === "/plaintiff") {
-      window.scroll(0, this.plaintiff.current.offsetTop);
-    } else if (pathname === "/recession") {
-      window.scroll(0, this.recession.current.offsetTop);
-    } else if (
-      ["/socialcapital", "/capitalist", "/capitalists", "/capitalism"].includes(
-        pathname
-      )
-    ) {
-      window.scroll(0, this.socialcapital.current.offsetTop);
-    } else if (pathname === "/police") {
-      window.scroll(0, this.police.current.offsetTop);
-    } else if (pathname === "/voting") {
-      window.scroll(0, this.voting.current.offsetTop);
-    } else if (["/banking", "/banks", "/bank", "/banksy"].includes(pathname)) {
-      window.scroll(0, this.banking.current.offsetTop);
-    } else if (
-      ["/prop", "/props", "/property", "/capital"].includes(pathname)
-    ) {
-      window.scroll(0, this.property.current.offsetTop);
-    } else if (pathname === "/domain") {
-      window.scroll(0, this.domain.current.offsetTop);
-    } else if (pathname === "/cukl") {
-      window.scroll(0, this.cukl.current.offsetTop);
-    }
+    if (pathname !== "/")
+      this.setState({ donor: false }, () => {
+        if (pathname === "/plaintiff") {
+          window.scroll(0, this.plaintiff.current.offsetTop);
+        } else if (pathname === "/recession") {
+          window.scroll(0, this.recession.current.offsetTop);
+        } else if (
+          [
+            "/socialcapital",
+            "/capitalist",
+            "/capitalists",
+            "/capitalism"
+          ].includes(pathname)
+        ) {
+          window.scroll(0, this.socialcapital.current.offsetTop);
+        } else if (pathname === "/police") {
+          window.scroll(0, this.police.current.offsetTop);
+        } else if (pathname === "/voting") {
+          window.scroll(0, this.voting.current.offsetTop);
+        } else if (
+          ["/banking", "/banks", "/bank", "/banksy"].includes(pathname)
+        ) {
+          window.scroll(0, this.banking.current.offsetTop);
+        } else if (
+          ["/prop", "/props", "/property", "/capital"].includes(pathname)
+        ) {
+          window.scroll(0, this.property.current.offsetTop);
+        } else if (pathname === "/domain") {
+          window.scroll(0, this.domain.current.offsetTop);
+        } else if (pathname === "/cukl") {
+          window.scroll(0, this.cukl.current.offsetTop);
+        }
+      });
   };
   componentDidUpdate = (prevProps) => {
     const { pathname, basic } = this.props;
