@@ -991,6 +991,39 @@ class App extends React.Component {
             ...globalpower
           }}
         >
+          <i>
+            Property indicates a function or allocation; community, reciprocity
+            of action:{space}
+            <a href="https://theanarchistlibrary.org/library/pierre-joseph-proudhon-what-is-government-what-is-god">
+              usury
+            </a>
+            , always decreasing, identity of labor and capital.
+            <br />
+            We affirm, then, and as yet we are alone in affirming, that with the
+            economic Revolution, no longer in dispute, the State must entirely
+            disappear; that this disappearance of the State is the necessary
+            consequence of the organization of credit and the reform of
+            taxation; that, as an effect of this double innovation government
+            becomes first useless and then impossible; that in this respect it
+            is in the same category with feudal property, lending at interest,
+            absolute and constitutional monarchy, judicial institutions, etc.,
+            all of which have served in the education of liberty, but{space}
+            <a href="https://theanarchistlibrary.org/library/pierre-joseph-proudhon-the-state-its-nature-object-and-destination">
+              which fall
+            </a>
+            {space}
+            and vanish when liberty has arrived at its fullness.
+            <br />
+            We do not want the State, because we would like to purge society of
+            all those called bankrupts, usurers, loups-cerviers, speculators,
+            robbers, swindlers, stellionataires, bribe-takers, forgers,
+            counterfeiters, jugglers, parasites, hypocrites and men of State;
+            <a href="https://theanarchistlibrary.org/library/pierre-joseph-proudhon-the-present-utility-and-future-possibility-of-the-state">
+              because in our eyes all the men of State look alike
+            </a>
+            , and they are all, to varying degrees, enemies of justice and
+            liberty, eaters, as Cato said, of human flesh.
+          </i>
           <h2>
             Isn’t non-deflationary growth only good if it causes commensurate
             equality by general poverty?
@@ -1003,8 +1036,11 @@ class App extends React.Component {
               margin: this.state.measure === "closedanarchymorals" && "10px"
             }}
           >
-            I’m an anarchist so I think your ideations are reasonable in this
-            economy.
+            <span style={{ backgroundColor: "salmon" }}>
+              I’m an anarchist so I think your{space}
+              <i>ideations</i>
+              {space}are reasonable in this economy.
+            </span>
             <br />
             AdFabulous9451{space}
             <span role="img" aria-label="squirrel">
@@ -4364,4 +4400,5 @@ export default React.forwardRef((props, ref) => {
     />
   );
 });
+
 
