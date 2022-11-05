@@ -260,7 +260,7 @@ export default class Basic extends React.Component {
                 });
               }}
             >
-              donate
+              <a href="https://venmo.com/nickcarducci">donate</a>
             </div>
           </div>
           Why did Friederik Engels, a capitalist factory owner with a nice
