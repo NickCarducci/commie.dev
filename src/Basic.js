@@ -276,7 +276,9 @@ export default class Basic extends React.Component {
           economic analysis that led to the foundation of Communism, under which
           his factory would be confiscated by the state?
           <br />
-          Monopolies aren’t efficient for his cost basis.
+          Monopolies aren’t efficient for his cost basis.{space}diminishing
+          disutility return and utility{space}
+          <a href="https://marginalism.uk/utilty">marginalism.uk</a>
           <br />
           <i>
             The apprentices are, as we shall see, quite as badly off under the
@@ -8275,3 +8277,4 @@ export default class Basic extends React.Component {
       );
   }
 }
+
