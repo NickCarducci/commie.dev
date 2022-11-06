@@ -190,7 +190,7 @@ export default class Basic extends React.Component {
                 //return console.log(window.Snipcart.api);
                 //window.Snipcart.api.cart.start().then((cart) => {
                 //const { cart, customer } = window.Snipcart.api;
-                return null;
+                //return null;
                 return await fetch(
                   "https://snipcart.backbank.workers.dev/", //"https://vault-co.in" /*{"Content-Type": "application/json"}*/
                   {
@@ -210,7 +210,8 @@ export default class Basic extends React.Component {
                   .then(async (r) => await r.json())
                   .then(async (r) => {
                     return console.log(r.data);
-                  });
+                  })
+                  .catch((err) => console.log(err.message));
 
                 if (!window.Snipcart) return console.log(window.Snipcart);
                 const { cart } = window.Snipcart.api;
@@ -268,7 +269,7 @@ export default class Basic extends React.Component {
                 });
               }}
             >
-              <a href="https://venmo.com/nickcarducci">donate</a>
+              {/*<a href="https://venmo.com/nickcarducci">donate</a>*/}d
             </div>
           </div>
           Why did Friederik Engels, a capitalist factory owner with a nice
@@ -8261,7 +8262,16 @@ export default class Basic extends React.Component {
             Yeuh. Science is not an inductive artifactual standard method,
             rather it deduces from trial and error. Always. Imo.{space}
             <i>(1/6 opulent modicum)</i>
+            {/* */}
+            <br />
           </div>
+          People are walking around, going food shopping,{space}
+          <a href="https://beingstable.quora.com/Are-vigilantes-non-institutional-advocates">
+            with mental illness
+          </a>
+          <h3 style={{ margin: "4px 0px" }}>
+            <a href="https://marginalism.uk/class">Marginalism.uk</a>
+          </h3>
           <div
             style={{
               position: "fixed", //salt bank vaults royalty stewardship
@@ -8277,4 +8287,3 @@ export default class Basic extends React.Component {
       );
   }
 }
-
