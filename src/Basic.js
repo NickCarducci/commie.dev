@@ -191,20 +191,21 @@ export default class Basic extends React.Component {
                 //window.Snipcart.api.cart.start().then((cart) => {
                 //const { cart, customer } = window.Snipcart.api;
                 //return null;
+                return null;
                 return await fetch(
                   "https://snipcart.backbank.workers.dev/", //"https://vault-co.in" /*{"Content-Type": "application/json"}*/
                   {
                     headers: {
                       "Content-Type": "application/json",
                       "Access-Control-Request-Headers": [
-                        "Allow",
                         "Origin",
                         "Content-Type",
                         "Referer"
                       ],
                       "Access-Control-Request-Method": "POST"
                     },
-                    method: "POST"
+                    method: "POST",
+                    body: `{}`
                   }
                 )
                   .then(async (r) => await r.json())
@@ -269,7 +270,7 @@ export default class Basic extends React.Component {
                 });
               }}
             >
-              {/*<a href="https://venmo.com/nickcarducci">donate</a>*/}d
+              <a href="https://venmo.com/nickcarducci">donate</a>
             </div>
           </div>
           Why did Friederik Engels, a capitalist factory owner with a nice
