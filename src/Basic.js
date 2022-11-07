@@ -3821,6 +3821,15 @@ export default class Basic extends React.Component {
                 backgroundColor: "darkslategrey"
               }}
             >
+              <i>
+                It’s like Proudhon took Rousseau's social contract literally, to
+                which the contracts and letters of intent were synonymous
+                instead of a warning to beckon{space}
+                <span style={{ color: "grey" }}>
+                  (in their binding differentiation)
+                </span>
+                .
+              </i>
               <h3 style={{ margin: "4px 0px" }}>
                 <a
                   style={{ color: "lightskyblue" }}
@@ -3829,7 +3838,7 @@ export default class Basic extends React.Component {
                   The Role of the Contract
                 </a>
               </h3>
-              <div style={{ borderLeft: "1px dotted", paddingLeft: "10px" }}>
+              <div style={{ borderLeft: "1px dotted", padding: "10px" }}>
                 As with Proudhon, Bakunin defended the absolute right of each
                 group to secede from the federation, but unlike Proudhon[,] he
                 did not vitiate this right by allowing for majority rule over a
@@ -3837,6 +3846,66 @@ export default class Basic extends React.Component {
                 is acceptable to human justice.’ The sole penalty reserved for
                 the allegedly disobedient group is expulsion from the federation
                 [to Proudhon].
+              </div>
+              <div
+                style={{
+                  color: "white",
+                  transition: ".3s ease-in",
+                  width: "max-content",
+                  maxWidth: "calc(100% - 20px)",
+                  padding: "10px",
+                  border: "1px solid",
+                  backgroundColor: "darkslategrey"
+                }}
+              >
+                SINCE no man has a natural authority over his fellow, and force
+                creates no right, we must conclude that conventions form the
+                basis of all legitimate authority among men.
+                <br />
+                <br />
+                Suppose for a moment that this so-called "right" exists. I
+                maintain that the sole result is a mass of inexplicable
+                nonsense. For, if force creates right, the effect changes with
+                the cause: every force that is greater than the first succeeds
+                to its right. As soon as it is possible to disobey with
+                impunity, disobedience is legitimate; and, the strongest being
+                always in the right, the only thing that matters is to act so as
+                to become the strongest.{space}
+                <a
+                  style={{ color: "lightskyblue" }}
+                  href="https://www.marxists.org/reference/subject/economics/rousseau/social-contract/ch01.htm#009"
+                >
+                  But what kind of right is that which perishes when force
+                  fails?
+                </a>
+                {space}If we must obey perforce, there is no need to obey
+                because we ought; and if we are not forced to obey, we are under
+                no obligation to do so. Clearly, the word "right" adds nothing
+                to force: in this connection, it means absolutely nothing.
+                <br />
+                <br />
+                War is constituted by a relation between things, and not between
+                persons; and, as the state of war cannot arise out of simple
+                personal relations, but only out of real relations, private war,
+                or war of man with man, can exist neither in the state of
+                nature, where there is no constant property, nor in the social
+                state, where everything is under the authority of the laws.
+                <br />
+                <br />
+                Indeed, if there were no prior convention, where, unless the
+                election were unanimous, would be the obligation on the minority
+                to submit to the choice of the majority? How have a hundred men
+                who wish for a master the right to vote on behalf of ten who do
+                not? The law of majority voting is itself something established
+                by convention, and presupposes unanimity, on one occasion at
+                least.
+                <br />
+                <br />
+                Finally, each man, in giving himself to all, gives himself to
+                nobody; and as there is no associate over whom he does not
+                acquire the same right as he yields others over himself, he
+                gains an equivalent for everything he loses, and an increase of
+                force for the preservation of what he has.
               </div>
               <h3>
                 Question is: Why don't{space}
