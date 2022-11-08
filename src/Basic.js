@@ -9,7 +9,7 @@ export default class Basic extends React.Component {
     const name = parser.getBrowser().name;
     console.log(name);
     this.state = {
-      donor: true,
+      //donor: true,
       trigger: false,
       browser: name,
       scrollTop: 0,
@@ -6671,7 +6671,10 @@ export default class Basic extends React.Component {
               it is.
             </div>
             The{space}
-            <a href="https://www.quora.com/Marx-said-property-is-theft-Is-this-true-of-private-property/answer/Nick-Carducci">
+            <a
+              style={{ color: "white" }}
+              href="https://www.quora.com/Marx-said-property-is-theft-Is-this-true-of-private-property/answer/Nick-Carducci"
+            >
               (<i>dis</i>)help
             </a>
             {space}only does in the aggregate, for the plunderer maintains the
@@ -6718,7 +6721,38 @@ export default class Basic extends React.Component {
               backgroundColor: "rgb(22, 93, 49)"
             }}
           >
-            What would you do for an apple pie?
+            What would{space}
+            <a
+              style={{ color: "white" }}
+              href="https://phyletic.quora.com/Are-social-sciences-just-stupid-fake-sciences-1"
+            >
+              you
+            </a>
+            {space}do for an{space}
+            <a style={{ color: "white" }} href="https://2024nj.com/bachelors">
+              apple pie
+            </a>
+            ?
+            <h2>
+              <a
+                style={{ color: "white" }}
+                href="https://www.law.cornell.edu/cfr/text/12/5.20"
+              >
+                Discount Window Sponsorship for the Office of the Comptroller of
+                the Currency (How to get a Bank Identification Number in the
+                {space}
+                <i>United States of America</i>)
+              </a>
+              {space}
+              <a
+                style={{ color: "white" }}
+                href="https://regcops.quora.com/If-witnesses-plead-the-fifth-can-they-still-be-forced-to-testify-if-they-are-granted-immunity-1"
+              >
+                uhm
+              </a>
+              {space}
+              <a href="https://reddit.com/r/courttechnology">democracy</a>
+            </h2>
             <div
               style={{
                 color: "black",
