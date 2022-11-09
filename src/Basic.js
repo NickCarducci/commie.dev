@@ -27,6 +27,7 @@ export default class Basic extends React.Component {
     this.property = React.createRef();
     this.domain = React.createRef();
     this.cukl = React.createRef();
+    this.utopia = React.createRef();
   }
   componentDidMount = () => {
     window.addEventListener("resize", this.refresh);
@@ -80,6 +81,8 @@ export default class Basic extends React.Component {
           window.scroll(0, this.domain.current.offsetTop);
         } else if (pathname === "/cukl") {
           window.scroll(0, this.cukl.current.offsetTop);
+        } else if (["/utopia", "/utopian"].includes(pathname)) {
+          window.scroll(0, this.utopia.current.offsetTop);
         }
       });
   };
@@ -5884,7 +5887,38 @@ export default class Basic extends React.Component {
           <hr />
           Was Karl Marx not sarcastic over the mess of socialist factions
           without a scientifically sociological by role nor mediative answer?
+          <div
+            ref={this.utopia}
+            style={{
+              backgroundColor: "white",
+              color: "black",
+              padding: "10px",
+              margin: "10px",
+              width: "calc(100% - 40px)",
+              border: "1px solid"
+            }}
+          >
+            The press has already frequently mentioned Marx's intention to sum
+            up the results of his many years' studies in a critique of the whole
+            of political economy to date and thereby to provide the scientific
+            basis for socialist aspirations which neither Fourier nor Proudhon
+            nor even Lassalle had been able to do.
+          </div>
           <hr />
+          <Cable
+            style={{ width: "100%", height: "600px" }}
+            onError={handleScollImgError}
+            //img={true}
+            src={this.state.noyout ? "" : "https://vaults.biz/gdp"}
+            float={null}
+            title="https://vaults.biz/gdp"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + scrollnum()]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          <br />
+          <br />
           The remaking ground
           <h3 style={{ wordWrap: "normal", margin: "10px 0px" }}>
             <a href="https://www.quora.com/Isn-t-socialism-defined-by-welfare-for-the-injured-and-developmentally-disabled-alone">
@@ -5915,20 +5949,6 @@ export default class Basic extends React.Component {
               commodity must, above all things, be a use-value to the owner of
               the money.
             </span>
-            <br />
-            <br />
-            <Cable
-              style={{ width: "100%", height: "600px" }}
-              onError={handleScollImgError}
-              //img={true}
-              src={this.state.noyout ? "" : "https://vaults.biz/gdp"}
-              float={null}
-              title="https://vaults.biz/gdp"
-              scrolling={this.state.scrolling}
-              fwd={this["scrollImg" + scrollnum()]}
-              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
-              scrollTop={this.state.scrollTop}
-            />
             <br />
             <br />
             <b
