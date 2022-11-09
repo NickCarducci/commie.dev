@@ -39,7 +39,9 @@ export default class App extends React.Component {
         "/property",
         "/capital",
         "/domain",
-        "/cukl"
+        "/cukl",
+        "/utopia",
+        "/utopian"
       ].includes(this.state.p)
     ) {
       this.setState({ basic: false });
@@ -87,4 +89,3 @@ export default class App extends React.Component {
   }
 }
 //$NZDJPY
-
