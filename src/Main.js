@@ -1069,7 +1069,11 @@ class App extends React.Component {
             <a href="https://marginalism.uk">Human greedy</a>
             {space}is “
             <i>
-              the only retard are{space}
+              the only{space}
+              <a href="https://www.reddit.com/r/2020haters/comments/ysw8cu/is_being_retarded_the_same_as_having/">
+                retard
+              </a>
+              {space}are{space}
               <b>(developmentally)</b>
               {space}disabled and/or injured
             </i>
@@ -4400,5 +4404,4 @@ export default React.forwardRef((props, ref) => {
     />
   );
 });
-
 
