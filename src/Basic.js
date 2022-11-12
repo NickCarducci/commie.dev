@@ -27,6 +27,7 @@ export default class Basic extends React.Component {
     this.property = React.createRef();
     this.domain = React.createRef();
     this.cukl = React.createRef();
+    this.jobbery = React.createRef();
     this.utopia = React.createRef();
     this.job = React.createRef();
     this.guild = React.createRef();
@@ -86,7 +87,7 @@ export default class Basic extends React.Component {
         } else if (["/utopia", "/utopian"].includes(pathname)) {
           window.scroll(0, this.utopia.current.offsetTop);
         } else if (["/job", "/jobs", "/jobbery"].includes(pathname)) {
-          window.scroll(0, this.utopia.current.offsetTop);
+          window.scroll(0, this.jobbery.current.offsetTop);
         } else if (["/guild", "/guilds"].includes(pathname)) {
           window.scroll(0, this.utopia.current.offsetTop);
         }
@@ -502,6 +503,33 @@ export default class Basic extends React.Component {
             <a href="https://micro-theory.com">substitutes</a>’ collateral
             barter by a truncated duty tax.
           </h2>
+          <div
+            style={{
+              transition: ".3s ease-in",
+              width: "max-content",
+              maxWidth: "calc(100% - 22px)",
+              padding: "10px",
+              border: "1px solid"
+            }}
+          >
+            <h3>anything state (away from average)</h3>
+            Because his target Duhring is focused on physical coercion — from
+            which he views economic dynamics as secondary — Engels must of
+            course sneer that this isn’t new and in turn evangelize for the
+            totally amazing, totally new Marxist theory which is framed as
+            saying the exact reverse. Structures of social power — and
+            specifically force — must flow from and be shaped by the economic.
+            The tail wags the dog. But isn’t power just about material
+            interests? This is another Engels claim:
+            <br />
+            <br />
+            ’Subjugation has always been — to use Herr Dühring’s elegant
+            expression — a “stomach-filling agency” (taking stomach-filling in a
+            very wide sense), but never and nowhere a political grouping
+            established “for its own sake”.’ [William Gillis, Anti-Engels (or
+            Anti-Anti-Duhring Aktion), 2021]
+          </div>
+          <br />
           Would you like another job or mudpie?
           <h2>
             it's a big circus! (the anti anti synthesis: corpus linguistics)
@@ -610,7 +638,7 @@ export default class Basic extends React.Component {
               should have put more in escrow then you right loon)
             </h3>
             <div
-              ref={this.job}
+              ref={this.jobbery}
               style={{
                 transition: ".3s ease-in",
                 width: "max-content",
