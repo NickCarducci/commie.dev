@@ -483,10 +483,21 @@ export default class Basic extends React.Component {
             nor equality “United we bargain, divided we fall.”
           </span>
           <br />
-          <br />
-          I want deflation or equality for Keynes
-          <br />
-          <br />
+          <br />I want deflation or equality for Keynes
+          <h2>
+            <a href="https://saverparty.xyz">The Monetarist Treatise</a>: Gross
+            durable and non-perishable domestic and foreign investment labor
+            purchases{space}
+            <a href="https://www.reddit.com/r/sayists/comments/yqtfb2/would_jeanbaptiste_say_be_silent_about_the_united/">
+              diminishing use propensity
+            </a>
+            {space}yet for rationality making revenue benefit and/or{space}
+            <a href="https://marginalism.uk">utility</a>
+            {space}
+            through exclusion of strong, workable, hard working{space}
+            <a href="https://micro-theory.com">substitutes</a>’ collateral
+            barter by a truncated duty tax.
+          </h2>
           Would you like another job or mudpie?
           <h2>
             it's a big circus! (the anti anti synthesis: corpus linguistics)
