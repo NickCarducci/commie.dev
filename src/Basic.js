@@ -476,10 +476,14 @@ export default class Basic extends React.Component {
           and $5,000 political action committee personal donation limit?
           <br />
           <br />
-          Good will tensions is a fountain that pays down. Why is government
-          envisaged on the bottom?{space}
+          Good will{space}
+          <a href="https://vau.money">tensions</a>
+          {space}is a fountain that pays down. Why is government envisaged on
+          the bottom?{space}
           <span style={{ color: "grey" }}>
-            (Keynesian 2% made product tensions of disutility without leisure
+            (Keynesian 2% made product tensions of disutility without{space}
+            <a href="https://leisuretoprefer.com">leisure</a>
+            {space}
             nor equality “United we bargain, divided we fall.”
           </span>
           <br />
@@ -506,7 +510,8 @@ export default class Basic extends React.Component {
           </h2>
           <h1>
             Why does the U.S. involuntarily commit people who want to kill
-            themselves but not others?{space}
+            themselves but not{space}
+            <a href="https://bankingisnot.biz">others</a>?{space}
             <i style={{ color: "grey" }}>
               What does wishing for someone's death mean for the trolley
               problem?
