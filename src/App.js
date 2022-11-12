@@ -41,7 +41,12 @@ export default class App extends React.Component {
         "/domain",
         "/cukl",
         "/utopia",
-        "/utopian"
+        "/utopian",
+        "/jobbery",
+        "/job",
+        "/jobs",
+        "/guilds",
+        "/guild"
       ].includes(this.state.p)
     ) {
       this.setState({ basic: false });
