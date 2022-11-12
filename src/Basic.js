@@ -28,6 +28,8 @@ export default class Basic extends React.Component {
     this.domain = React.createRef();
     this.cukl = React.createRef();
     this.utopia = React.createRef();
+    this.job = React.createRef();
+    this.guild = React.createRef();
   }
   componentDidMount = () => {
     window.addEventListener("resize", this.refresh);
@@ -82,6 +84,10 @@ export default class Basic extends React.Component {
         } else if (pathname === "/cukl") {
           window.scroll(0, this.cukl.current.offsetTop);
         } else if (["/utopia", "/utopian"].includes(pathname)) {
+          window.scroll(0, this.utopia.current.offsetTop);
+        } else if (["/job", "/jobs", "/jobbery"].includes(pathname)) {
+          window.scroll(0, this.utopia.current.offsetTop);
+        } else if (["/guild", "/guilds"].includes(pathname)) {
           window.scroll(0, this.utopia.current.offsetTop);
         }
       });
@@ -195,8 +201,8 @@ export default class Basic extends React.Component {
                 //const { cart, customer } = window.Snipcart.api;
                 //return null;
                 return null;
-                return await fetch(
-                  "https://snipcart.backbank.workers.dev/", //"https://vault-co.in" /*{"Content-Type": "application/json"}*/
+                /*return await fetch(
+                  "https://snipcart.backbank.workers.dev/", //"https://vault-co.in" /*{"Content-Type": "application/json"}* /
                   {
                     headers: {
                       "Content-Type": "application/json",
@@ -219,10 +225,9 @@ export default class Basic extends React.Component {
 
                 if (!window.Snipcart) return console.log(window.Snipcart);
                 const { cart } = window.Snipcart.api;
-                /*const user = customer.signin();
-          console.log("user: ", user);*/
+                //const user = customer.signin(); console.log("user: ", user);
                 console.log("cart: ", cart); //window.Snipcart.api.items.add({}).then(() => window.Snipcart.api.cart.get());
-                this.setState({ cart /*, currency: cart.currency()*/ }, () => {
+                this.setState({ cart /*, currency: cart.currency()* / }, () => {
                   cart.items
                     .add({
                       id: "DONATION",
@@ -256,7 +261,7 @@ export default class Basic extends React.Component {
                     .then(async () => {
                       //window.Snipcart.api.modal.show();
                       await fetch(
-                        "https://snipcart.backbank.workers.dev/", //"https://vault-co.in" /*{"Content-Type": "application/json"}*/
+                        "https://snipcart.backbank.workers.dev/", //"https://vault-co.in" /*{"Content-Type": "application/json"}* /
                         { "Content-Type": "application/json" }
                       )
                         .then(async (r) => await r.json())
@@ -270,7 +275,7 @@ export default class Basic extends React.Component {
                           });
                         });
                     });
-                });
+                });*/
               }}
             >
               <a href="https://venmo.com/nickcarducci">donate</a>
@@ -465,6 +470,23 @@ export default class Basic extends React.Component {
           </a>
           <br />
           <br />
+          Why is there a $2,900 individual/multi-candidate, $2,000
+          {space}
+          <a href="https://truncatedwholesaletax.com">candidate-committee</a>,
+          and $5,000 political action committee personal donation limit?
+          <br />
+          <br />
+          Good will tensions is a fountain that pays down. Why is government
+          envisaged on the bottom?{space}
+          <span style={{ color: "grey" }}>
+            (Keynesian 2% made product tensions of disutility without leisure
+            nor equality “United we bargain, divided we fall.”
+          </span>
+          <br />
+          <br />
+          I want deflation or equality for Keynes
+          <br />
+          <br />
           Would you like another job or mudpie?
           <h2>
             it's a big circus! (the anti anti synthesis: corpus linguistics)
@@ -572,6 +594,7 @@ export default class Basic extends React.Component {
               should have put more in escrow then you right loon)
             </h3>
             <div
+              ref={this.job}
               style={{
                 transition: ".3s ease-in",
                 width: "max-content",
@@ -1065,6 +1088,7 @@ export default class Basic extends React.Component {
               <br />
               <br />
               <div
+                ref={this.guild}
                 style={{
                   transition: ".3s ease-in",
                   width: "max-content",
