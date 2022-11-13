@@ -24,6 +24,7 @@ class App extends React.Component {
       this["scrollImg" + i] = React.createRef();
     }
     this.economics = React.createRef();
+    this.management = React.createRef();
   }
   componentDidMount = () => {
     window.addEventListener("resize", this.refresh);
@@ -68,6 +69,8 @@ class App extends React.Component {
       window.scroll(0, this.voting.current.offsetTop);
     } else if (["economics", "econ"].includes(pathname)) {
       window.scroll(0, this.economics.current.offsetTop);
+    } else if (["manage", "management"].includes(pathname)) {
+      window.scroll(0, this.management.current.offsetTop);
     }
   };
   componentWillUnmount = () => {
@@ -1980,6 +1983,7 @@ class App extends React.Component {
           The executive of the modern state is but a committee for managing the
           common affairs of the whole bourgeoisie.{space}
           <span
+            ref={this.management}
             style={{
               textDecoration: "line-through"
             }}
@@ -4430,3 +4434,4 @@ export default React.forwardRef((props, ref) => {
     />
   );
 });
+
