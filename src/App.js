@@ -46,7 +46,9 @@ export default class App extends React.Component {
         "/job",
         "/jobs",
         "/guilds",
-        "/guild"
+        "/guild",
+        "/manage",
+        "/management"
       ].includes(this.state.p)
     ) {
       this.setState({ basic: false });
