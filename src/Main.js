@@ -1978,8 +1978,34 @@ class App extends React.Component {
             </span>
           </div>
           The executive of the modern state is but a committee for managing the
-          common affairs of the whole bourgeoisie. ...The capitalist state
-          serves as the managing committee of the bourgeoisie.
+          common affairs of the whole bourgeoisie.{space}
+          <span
+            style={{
+              textDecoration: "line-through"
+            }}
+          >
+            ...The capitalist state serves as the managing committee of the
+            bourgeoisie.
+          </span>
+          <h2
+            style={{
+              margin: "4px 0px"
+            }}
+          >
+            The{space}
+            <a href="https://www.quora.com/Does-the-government-own-everything-in-communism/answer/Nick-Carducci">
+              relation
+            </a>
+            {space}of the{space}
+            <a href="https://marginalism.uk/classes">bourgeoisie to the</a>
+            {space}capitalist state
+          </h2>
+          It is therefore obvious that as soon as the bourgeoisie has
+          accumulated money, the state has to beg from the bourgeoisie and in
+          the end it is actually bought up by the latter. This takes place in
+          the period in which the bourgeoisie is still confronted by another
+          class, and consequently the state can retain some appearance of
+          independence in relation to both of them.
           <div
             style={{
               backgroundColor: "white",
@@ -4404,4 +4430,3 @@ export default React.forwardRef((props, ref) => {
     />
   );
 });
-
