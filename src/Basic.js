@@ -31,6 +31,7 @@ export default class Basic extends React.Component {
     this.utopia = React.createRef();
     this.job = React.createRef();
     this.guild = React.createRef();
+    this.liberal = React.createRef();
   }
   componentDidMount = () => {
     window.addEventListener("resize", this.refresh);
@@ -89,7 +90,11 @@ export default class Basic extends React.Component {
         } else if (["/job", "/jobs", "/jobbery"].includes(pathname)) {
           window.scroll(0, this.jobbery.current.offsetTop);
         } else if (["/guild", "/guilds"].includes(pathname)) {
-          window.scroll(0, this.utopia.current.offsetTop);
+          window.scroll(0, this.guild.current.offsetTop);
+        } else if (
+          ["/lib", "/libs", "/liberal", "/liberals"].includes(pathname)
+        ) {
+          window.scroll(0, this.liberal.current.offsetTop);
         }
       });
   };
@@ -270,6 +275,20 @@ export default class Basic extends React.Component {
                           return console.log(r.data);
                           await fetch("https://app.snipcart.com/api/orders", {
                             headers: {
+                              //https://support.snipcart.com/t/hiding-api-keys/325/4
+                              /*Hiding API Keys
+                              Can anyone tell me if it’s necessary to hide API Keys from being visibile in source code, and 
+                              if so, what the most non-technical way to do that would be?
+                              Hey @howtodothis, It’s totally fine to have your public API key in your site source. 
+                              This API key only gives access to a subset of API endpoints and 
+                              can’t be used to access any private information from your account.
+                              If you need to use a secret API key though, it should never be exposed in your frontend and 
+                              should only be used in server to server communications. Most of our users will write serverless functions that 
+                              act as a proxy between their applications and our API.
+
+                              Any plans to tokenize this? Then the window.Snipcart logic can be on the client.
+                              Later that evening I realized the api-reference can make its own scope and 
+                              the api in the client (use case) doesn’t require an Authorization header.* /
                               Authorization: `Basic ${btoa(r.data)}:`,
                               Accept: "application/json"
                             }
@@ -6164,6 +6183,7 @@ export default class Basic extends React.Component {
             </div>
           </div>
           <div
+            ref={this.liberal}
             style={{
               backgroundColor: "grey",
               color: "white",
