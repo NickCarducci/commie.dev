@@ -48,7 +48,11 @@ export default class App extends React.Component {
         "/guilds",
         "/guild",
         "/manage",
-        "/management"
+        "/management",
+        "/libs",
+        "/lib",
+        "/liberals",
+        "/liberal"
       ].includes(this.state.p)
     ) {
       this.setState({ basic: false });
