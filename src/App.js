@@ -52,7 +52,9 @@ export default class App extends React.Component {
         "/libs",
         "/lib",
         "/liberals",
-        "/liberal"
+        "/liberal",
+        "/mod",
+        "/mods"
       ].includes(this.state.p)
     ) {
       this.setState({ basic: false });
