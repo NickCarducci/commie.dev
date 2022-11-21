@@ -32,6 +32,7 @@ export default class Basic extends React.Component {
     this.job = React.createRef();
     this.guild = React.createRef();
     this.liberal = React.createRef();
+    this.mod = React.createRef();
   }
   componentDidMount = () => {
     window.addEventListener("resize", this.refresh);
@@ -95,8 +96,10 @@ export default class Basic extends React.Component {
           ["/lib", "/libs", "/liberal", "/liberals"].includes(pathname)
         ) {
           window.scroll(0, this.liberal.current.offsetTop);
+        } else if (["/mod"].includes(pathname)) {
+          window.scroll(0, this.liberal.current.offsetTop);
         }
-      });
+      }); //whom dumb (happens, me)
   };
   componentDidUpdate = (prevProps) => {
     const { pathname, basic } = this.props;
@@ -139,6 +142,8 @@ export default class Basic extends React.Component {
   }; //authority is unique for payment for the transaction requires it,
   //but for instance a distributed database for a death registry, would not
   //acheive trustlessness by the same methods
+
+  //maintain peasant, rollover insurance (squirrel)
   refresh = (first) => {
     const width =
       (this.state.ios ? window.screen.availWidth : window.innerWidth) - 20;
@@ -488,8 +493,13 @@ export default class Basic extends React.Component {
           <a href="https://www.reddit.com/r/Anarchy101/comments/yh9sh8/comment/iuedq4t">
             jobbery
           </a>
-          <br />
-          <br />
+          <h4>
+            Rankings, or approval eliminations, are both{space}
+            <a href="https://www.reddit.com/r/occupywallstreet/comments/z0wvvp/stop_compulsory_will_2024/">
+              choices
+            </a>
+            , not these godforsaken dynamic votes.
+          </h4>
           Why is there a $2,900 individual/multi-candidate, $2,000
           {space}
           <a href="https://truncatedwholesaletax.com">candidate-committee</a>,
@@ -5272,6 +5282,7 @@ export default class Basic extends React.Component {
             country by the feudal constitution, in the towns by the guild
             organisation.
             <div
+              ref={this.mod}
               style={{
                 backgroundColor: "white",
                 color: "black",
@@ -5281,6 +5292,7 @@ export default class Basic extends React.Component {
                 border: "1px solid"
               }}
             >
+              Political Treatise then Rousseau
               <h4 style={{ margin: "4px 0px" }}>The Anti-Mod</h4>
               Abide. Hate - Non-developmentally nor injuriously disabled
               innuendo.
