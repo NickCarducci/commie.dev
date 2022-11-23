@@ -1987,7 +1987,8 @@ export default class Basic extends React.Component {
                 {space}
                 <span style={{ fontSize: "15px" }}>
                   If inflation weren’t a survey wouldn’t growth be inflation
-                  unless we are overeating?
+                  unless we are overeating? When are costs “profits” except
+                  individually? Isn’t the cost of living a sum of prices?
                 </span>
               </span>
             </h2>
