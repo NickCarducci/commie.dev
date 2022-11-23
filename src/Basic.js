@@ -1994,11 +1994,23 @@ export default class Basic extends React.Component {
                     income equality?
                   </span>
                   {space}
-                  <i>
-                    Doesn’t social welfare increase GDP by inflation and slower,
-                    lower-quality outcomes? Is there a merit to having economic
-                    inequality?
-                  </i>
+                  <span style={{ color: "cadetblue" }}>
+                    <i>
+                      Doesn’t social welfare increase GDP by inflation and
+                      slower, lower-quality outcomes? Is there a merit to having
+                      economic inequality?
+                    </i>
+                    {space}Nominally growing (
+                    <span style={{ color: "grey" }}>
+                      out of{space}
+                      <a href="https://census.quora.com">poverty</a>
+                    </span>
+                    ), shrinking powers (
+                    <span style={{ color: "grey" }}>
+                      of labor productivity's cost to revenue
+                    </span>
+                    ).
+                  </span>
                 </span>
               </span>
             </h2>
