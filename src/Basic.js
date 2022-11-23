@@ -1988,7 +1988,17 @@ export default class Basic extends React.Component {
                 <span style={{ fontSize: "15px" }}>
                   If inflation weren’t a survey wouldn’t growth be inflation
                   unless we are overeating? When are costs “profits” except
-                  individually? Isn’t the cost of living a sum of prices?
+                  individually? Isn’t the cost of living a sum of prices?{space}
+                  <span style={{ color: "grey" }}>
+                    Doesn’t the maximum general rate of poverty equate potential
+                    income equality?
+                  </span>
+                  {space}
+                  <i>
+                    Doesn’t social welfare increase GDP by inflation and slower,
+                    lower-quality outcomes? Is there a merit to having economic
+                    inequality?
+                  </i>
                 </span>
               </span>
             </h2>
