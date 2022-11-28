@@ -97,7 +97,7 @@ export default class Basic extends React.Component {
         ) {
           window.scroll(0, this.liberal.current.offsetTop);
         } else if (["/mod"].includes(pathname)) {
-          window.scroll(0, this.liberal.current.offsetTop);
+          window.scroll(0, this.mod.current.offsetTop);
         }
       }); //whom dumb (happens, me)
     } else this.setState({ america: true });
@@ -1969,7 +1969,7 @@ export default class Basic extends React.Component {
                 {space}&bull;{space}Isn't economic growth shrinkflation,
                 profits, and/or employee benefits as surveyed-prices{space}
                 <a
-                  style={{ color: "red" }}
+                  style={{ color: "red" }} //last against sidelines look in (to remain onside from spot)
                   href="https://regcops.quora.com/Doesnt-capitalism-require-pensions-to-work-for-people-as-it-happens-in-reality-Doesnt-the-increase-of-living-labor-pr"
                 >
                   less
@@ -4015,6 +4015,88 @@ export default class Basic extends React.Component {
                 </a>
                 {space}character of the state power stands out in bolder and
                 bolder relief.
+                <div>
+                  <i>
+                    How would a Marxist society deal with crime and punishment?
+                  </i>
+                  {space}
+                  Given white collar crime is held, burglary, robbery, rape,
+                  injury, and homicide are also due recompense. However,
+                  punitive damages are of an incompetent state.{space}
+                  <i>
+                    Don't hold yourself back gents: Do some economical outcomes
+                    instead of productivity for once. (income vs outcome)
+                  </i>
+                </div>
+                Are the censors excluded from the historical whole? Are they
+                unaffected by the spirit of a time? Unfortunately, it may be so,
+                but what man of sound mind would not rather pardon sins of the
+                nation and the time in the press than sins against the nation
+                and the time in the censorship?
+                <br />
+                <br />
+                Of course, if freedom of the press were all in all it would make
+                all other functions of a nation, and the nation itself,
+                superfluous. (Karl Marx, On Freedom of the Press:{space}
+                <a href="https://marxists.architexturez.net/archive/marx/works/1842/free-press/ch02.htm">
+                  Opponents of a Free Press
+                </a>
+                , 1842)
+                <br />
+                <br />
+                Felled wood is wood that has been worked on. The natural
+                connection with property has been replaced by an artificial one.
+                Therefore anyone who takes away felled wood takes away property
+                <br />
+                <br />
+                In the case of fallen wood, on the contrary, nothing has been
+                separated from property. It is only what has already been
+                separated from property that is being separated from it.
+                <br />
+                <br />
+                Indeed, you punish the gathering of fallen wood more severely
+                than the theft of wood, for you punish it already by declaring
+                it to be theft, a punishment which you obviously do not
+                pronounce on the actual theft of wood. You should have called it
+                murder of wood and punished it as murder. The law is not exempt
+                from the general obligation to tell the truth. It is doubly
+                obliged to do so, for it is the universal and authentic exponent
+                of the legal nature of things. Hence the legal nature of things
+                cannot be regulated according to the law; on the contrary, the
+                law must be regulated according to the legal nature of things.
+                But if the law applies the term theft to an action that is
+                scarcely even a violation of forest regulations, then the law
+                lies, and the poor are sacrificed to a legal lie.
+                <br />
+                <br />
+                When the privileged classes appeal from legal right to their
+                customary rights, they are demanding instead of the human
+                content of right, its animal form, which has now lost its
+                reality and become a mere animal mask. (Karl Marx, Rheinische
+                Zeitung, No. 298, Supplement:{space}
+                <a href="https://marxists.architexturez.net/archive/marx/works/1842/10/25.htm">
+                  Debates on the Law on Thefts of Wood
+                </a>
+                , October 25 1842
+                <br />
+                <br />
+                Punishment as such, the restoration of the law, which must
+                certainly be distinguished from restitution of the value and
+                compensation for loss, the restoration of private property, is
+                transformed from a public punishment into a private
+                compensation, the fines going not to the state treasury, but to
+                the private coffers of the forest owner.
+                <br />
+                <br />
+                Barbaric peoples order the payment of a definite monetary
+                compensation (atonement money) to the injured person for a
+                definite crime. The notion of public punishment arose only in
+                opposition to this view, which regards a crime merely as an
+                injury to the individual, but the people and the theory have yet
+                to be discovered which are so complacent as to allow an
+                individual to claim for himself both the private punishment and
+                that imposed by the state. (Karl Marx, op.cit. 305, November 1
+                1842)
               </div>
               <h3>
                 <i style={{ color: "grey" }}>Your enemies will remain</i>
@@ -6368,6 +6450,10 @@ export default class Basic extends React.Component {
                   margin: "10px",
                   width: "calc(100% - 40px)",
                   border: "1px solid" //vote your age [squirrel]
+                  //would you as a ranked choice voter vote approval condorcet for all your rankings, or are your eliminated choices
+                  //hopefully useless towards that winner?
+                  //Isn't communism complementary supply in balance with made-demand
+                  //Isn't communism individual poverty stricken equality without the imbalances of non-complementary supply with made-demand?
                 }}
               >
                 <div
