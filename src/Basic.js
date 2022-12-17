@@ -476,6 +476,10 @@ export default class Basic extends React.Component {
           >
             donate
           </div>
+          Is inflation, deflation, or foreclosure instead of reverse service and
+          repo the cause of the Great Depression?
+          <br />
+          <br />
           dance to boycott credit f the working class generally. Isn't CEO pay a
           fraction of the value added as a share of GDP by finance (90%
           principal over down payment)?{space}
