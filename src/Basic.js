@@ -443,39 +443,23 @@ export default class Basic extends React.Component {
         <a href="https://saverparty.xyz/global">muh customs</a>, losing our
         commodties by treasurey or net exports) Special powers priced out
         <br />
-
         LLol call the cops on donation to foundations ...that \[...]he lives outta?
-
         rent  from the consumer 
-
         Do you like this? Only G-d saves these days. Bad advice about the prophet pbuh causes starvation.
         The divining line is that only civilians can punch a car burglar in the face. 
-        Normal productivity == living labor. C=U+K+L
-
+        Normal productivity == living labor. C=U+K+L_
         Isn't a plaintiff’s attorney a free rider immutable service for the public good will void of surrendering?
-
         what if boy is shlub, iran want electric car
-
         generous mistakes, Isn’t the gerontocracy and/or soft labor apparent from skill-based income inequality?
-
         Labor as all of capital production
-
         Isn’t money/technology elastic towards inelasticity as supply/budget is cumulatively/individually a price maker?
-
         Why can’t Americans buy Venezuelan oil?
-
         ("hired 'reason', now go 'do'") dictated script, "some words" (scopes.cc, scopebook.quora.com)
-
         implied niches of genius
-
         incredible chutzpah
-
         "mr.met flips off" like lil buddy (gremlin)
-
         broke at a higher level expenses and not working (lazy/soft)
-
         How is deviance delineated from incompetence to stand trial? (last meal was a speech)
-
         This is why welfare for anyone but the injured is worse than usufruct mutual aid.
            */
           }}
@@ -492,6 +476,86 @@ export default class Basic extends React.Component {
           >
             donate
           </div>
+          dance to boycott credit f the working class generally. Isn't CEO pay a
+          fraction of the value added as a share of GDP by finance (90%
+          principal over down payment)?{space}
+          <b>Are prices the purpose of microeconomic utility?</b>
+          {space}They went back for them (Was{space}
+          <a href="https://truncatedwholesaletax.com">slavery</a>
+          {space}made from colonizing-British).
+          <br />
+          <br />
+          We want to save in land property deeds, which necessitates plausible
+          use leases and seasonal contracts. Technologists: Isn't academia
+          inability to define things (their outcome life Product use to benefit)
+          once a reaosn for personal insanity?
+          <br />
+          <br />
+          <h3 style={{ float: "left", margin: "4px 0px" }}>
+            <a href="https://saltbank.quora.com">What went wrong?</a>
+            <br />
+            r/sayists
+          </h3>
+          <h3 style={{ float: "right", margin: "4px 0px" }}>r/VoteCommunism</h3>
+          capitalism is risky money.{space}
+          <a href="https://occupyrepublicans.quora.com/Why-do-we-need-to-cut-the-deficit-1">
+            cut the deficit?
+          </a>
+          {space}
+          how many mudpies can one{space}
+          <a href="https://leisuretoprefer.com">like</a>? How many cookies can
+          you eat? Doesn't dynamic use substitute itself? Communism is a verb
+          that has no{space}
+          <a href="https://commie.dev/anarchy">contract</a>. Equal and full
+          measure,{space}
+          <a href="https://vaults.biz/gdp">1820-1870</a>
+          <br />
+          <br />
+          pick one, merchants only lessen either storage and transport or
+          surplus, zero sum still otherwise, then.
+          <br />
+          <br />
+          Why do the rich entrepreneurs need more spending according to Keynes,
+          too?
+          <br />
+          <br />
+          Why does the Federal Reserve{space}
+          <a href="https://census.quora.com/Why-is-our-population-so-large-and-what-can-be-done-to-reduce-it-1">
+            feel the need
+          </a>
+          {space}to expand money stock to population growth?
+          <br />
+          <br />
+          If a politician cannot be an economist because they have better
+          economic ideas, shouldn't economists just drop dead already?
+          <br />
+          <br />
+          Why does the University of Chicago say subsidy is required for rich
+          entrepreneurs?
+          <br />
+          <br />
+          Don't Republicans usually trade border control for more spending when
+          it comes to the debt ceiling?
+          <br />
+          <br />
+          Were there African slaves working in the U.S. before America's
+          Revolutionary War? Didn't slavery start again then in 1820 until 1870?
+          <br />
+          <br />
+          <i>
+            Is inflation discriminatory? Is inflation measured either by a
+            survey of packaged goods and/or new monetarily-measured uses for the
+            same life?
+          </i>
+          <br />
+          <br />
+          {/**don't pity the fool "biden canceled my student debt" autumn leaves [pool] */}
+          Why wouldn't it be rational and reasonable to hate the older
+          generations for causing inflation?
+          <br />
+          <br />
+          Aren’t Occupy Wall Street protesters terrorists over the value added
+          of the financial industry as individuals now?
           <div
             onClick={() => this.setState({ america: false })}
             style={{ fontSize: this.state.america ? "0px" : "" }}
@@ -500,17 +564,19 @@ export default class Basic extends React.Component {
             <a href="https://www.reddit.com/r/Anarchy101/comments/yh9sh8/comment/iuedq4t">
               jobbery
             </a>
-            <h4>
-              Rankings, or approval eliminations, are both{space}
-              <a href="https://www.reddit.com/r/occupywallstreet/comments/z0wvvp/stop_compulsory_will_2024/">
-                choices
-              </a>
-              , not these godforsaken{space}
-              <i>
-                <a href="https://marginalism.uk">dynamic votes</a>
-              </i>
-              .
-            </h4>
+            {this.state.america && (
+              <h4>
+                Rankings, or approval eliminations, are both{space}
+                <a href="https://www.reddit.com/r/occupywallstreet/comments/z0wvvp/stop_compulsory_will_2024/">
+                  choices
+                </a>
+                , not these godforsaken{space}
+                <i>
+                  <a href="https://marginalism.uk">dynamic votes</a>
+                </i>
+                .
+              </h4>
+            )}
             Why is there a $2,900 individual/multi-candidate, $2,000
             {space}
             <a href="https://truncatedwholesaletax.com">candidate-committee</a>,
@@ -548,7 +614,7 @@ export default class Basic extends React.Component {
                 transition: ".3s ease-in",
                 width: "max-content",
                 maxWidth: "calc(100% - 22px)",
-                padding: "10px",
+                padding: !this.state.america && "10px",
                 border: "1px solid"
               }}
             >
@@ -561,15 +627,15 @@ export default class Basic extends React.Component {
               specifically force — must flow from and be shaped by the economic.
               The tail wags the dog. But isn’t power just about material
               interests? This is another Engels claim:
-              <br />
-              <br />
+              {!this.state.america && <br />}
+              {!this.state.america && <br />}
               ’Subjugation has always been — to use Herr Dühring’s elegant
               expression — a “stomach-filling agency” (taking stomach-filling in
               a very wide sense), but never and nowhere a political grouping
               established “for its own sake”.’ [William Gillis, Anti-Engels (or
               Anti-Anti-Duhring Aktion), 2021]
             </div>
-            <br />
+            {!this.state.america && <br />}
             Would you like another job or mudpie?
             <h2>
               it's a big circus! (the anti anti synthesis: corpus linguistics)
@@ -614,26 +680,30 @@ export default class Basic extends React.Component {
                   transition: ".3s ease-in",
                   width: "max-content",
                   maxWidth: "calc(100% - 22px)",
-                  padding: "10px",
+                  padding: !this.state.america && "10px",
                   border: "1px solid"
                 }}
               >
-                <Cable
-                  style={{ height: "300px" }}
-                  onError={handleScollImgError}
-                  //img={true}
-                  src={
-                    this.state.noyout
-                      ? ""
-                      : "https://www.youtube.com/embed/7Jy9JyrukCY?start=142"
-                  }
-                  float={"right"}
-                  title="Capitalist https://youtu.be/7Jy9JyrukCY?t=142"
-                  scrolling={this.state.scrolling}
-                  fwd={this["scrollImg" + scrollnum()]}
-                  scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
-                  scrollTop={this.state.scrollTop} //"kicked out, too strong, helped other people with their work. 1'31" Hans Niemann (Lex F.)
-                />
+                {this.state.america && (
+                  <Cable
+                    style={{ height: "300px" }}
+                    onError={handleScollImgError}
+                    //img={true}
+                    src={
+                      this.state.noyout
+                        ? ""
+                        : "https://www.youtube.com/embed/7Jy9JyrukCY?start=142"
+                    }
+                    float={"right"}
+                    title="Capitalist https://youtu.be/7Jy9JyrukCY?t=142"
+                    scrolling={this.state.scrolling}
+                    fwd={this["scrollImg" + scrollnum()]}
+                    scrollTopAndHeight={
+                      this.state.scrollTop + window.innerHeight
+                    }
+                    scrollTop={this.state.scrollTop} //"kicked out, too strong, helped other people with their work. 1'31" Hans Niemann (Lex F.)
+                  />
+                )}
                 {/**
               I don’t want to pick a source in case it’s a baddie but you can see many. 
               >Reasons for Short-Term Commitment or Involuntary Hospitalization. Suicidal thoughts and feelings; Risk of immediate danger in hurting ...
@@ -660,8 +730,8 @@ export default class Basic extends React.Component {
                 {space}Why is wishing your own life away a reason for
                 involuntary commitment but not others? Is it legal to wish for
                 the death of yourself if you are a socialist?
-                <br />
-                <br />
+                {!this.state.america && <br />}
+                {!this.state.america && <br />}
                 Would I rather imprison the ideation of others’ death with (1) a
                 timestamp by a convict intranet made by the{space}
                 <a href="https://quora.com/topic/U-S-General-Services-Administration">
@@ -689,7 +759,7 @@ export default class Basic extends React.Component {
                     transition: ".3s ease-in",
                     width: "max-content",
                     maxWidth: "calc(100% - 22px)",
-                    padding: "10px",
+                    padding: !this.state.america && "10px",
                     border: "1px solid"
                   }}
                 >
@@ -752,21 +822,21 @@ export default class Basic extends React.Component {
                 </h3>
                 u/Dr_Orgueil: This question is broad and there is still a lot
                 that we don’t know about this topic, but I’ll do my best.
-                <br />
-                <br />
+                {!this.state.america && <br />}
+                {!this.state.america && <br />}
                 The basic answer though is that Herpes viruses and retroviruses
                 (like HIV) integrate into your genome. They go through periods
                 of time where they are replicating and producing lots of viruses
                 that go on to infect other cells. They also have “dorment”
                 periods where they are still part of your genome but aren’t
                 producing much virus.
-                <br />
-                <br />
+                {!this.state.america && <br />}
+                {!this.state.america && <br />}
                 Antibodies are generally for the surface portions of a virus.
                 When dormant it is just the coding sequence, not an actual virus
                 that is hiding out.
-                <br />
-                <br />
+                {!this.state.america && <br />}
+                {!this.state.america && <br />}
                 Different viruses infect different cell types. Herpes infects
                 neural cells. HIV infects immune cells. After integration, the
                 viral genome is part of the cells genome.{space}
@@ -786,50 +856,50 @@ export default class Basic extends React.Component {
             So after finished Brave New World, something in my mind. I believed
             all of the evil, state, hierarchy, bourgeois, exploitation, is came
             from money. Money was the source of evil. Then I realised something.
-            <br />
-            <br />
+            {!this.state.america && <br />}
+            {!this.state.america && <br />}
             Isn't science the worst form of despotism? You can always justify
             opression and greed in scientific despotism. You can always exploit
             people if it is scientificly beneficial. You can always put barriers
             in people's mind if it's not{space}
             <i style={{ color: "cornflowerblue" }}>realistic</i>.
-            <br />
-            <br />
-            I think this way about technology (guild) and rollover insurance
-            (future). As science is gud. Bamf is the anti-Intellectual!
-            <br />
+            {!this.state.america && <br />}
+            {!this.state.america && <br />}I think this way about technology
+            (guild) and rollover insurance (future). As science is gud. Bamf is
+            the anti-Intellectual!
+            {!this.state.america && <br />}
             u/onedayitwillbedaisy: [deleted]
             {/**
-        You bring up Brave New World, anti-intellectualism, despotism, exploitation, 
-        money, science, greed and oppression. But I don't see an actual question. */}
-            <br />
-            <br />
+            You bring up Brave New World, anti-intellectualism, despotism, exploitation, 
+            money, science, greed and oppression. But I don't see an actual question. */}
+            {!this.state.america && <br />}
+            {!this.state.america && <br />}
             u/38incihesap: Isn't science is a despotic system?
             {/**it's a big circus! 
       
-      I'll do anything for an apple pie
+             I'll do anything for an apple pie
       
-      rationality dissurrendered depreciation against deprecation*/}
-            <br />
-            <br />
+            rationality dissurrendered depreciation against deprecation*/}
+            {!this.state.america && <br />}
+            {!this.state.america && <br />}
             Probably people who vie from Hegel. Antisynthesis is anti-science.
             <br />
             u/onedayitwillbedaisy: [deleted]
             {/**
-        I don't think so. Who do you think is holding science's absolute power? */}
-            <br />
-            <br />
+              I don't think so. Who do you think is holding science's absolute power? */}
+            {!this.state.america && <br />}
+            {!this.state.america && <br />}
             If “Roger Bacon (1214 - 1284) is credited as the first scholar to
             promote inductive reasoning as part of the scientific method,” Hegel
             should be for deductive reasoning by throws of contention.
-            <br />
-            <br />
+            {!this.state.america && <br />}
+            {!this.state.america && <br />}
             <div
               style={{
                 transition: ".3s ease-in",
                 width: "max-content",
                 maxWidth: "calc(100% - 22px)",
-                padding: "10px",
+                padding: !this.state.america && "10px",
                 border: "1px solid"
               }}
             >
@@ -890,21 +960,19 @@ export default class Basic extends React.Component {
             <a href="https://humanharvest.info">
               artifactual bias “confirming” fallacy
             </a>
-            .
-            <br />
+            .{!this.state.america && <br />}
             u/onedayitwillbedaisy: [deleted]
-            <br />
-            <br />
+            {!this.state.america && <br />}
+            {!this.state.america && <br />}
             Nobody. Are you talking to yourself or are you no one right now? I’m
             setting the corpus linguistics straight. your comments end up being
             noise when I am done with them
-            <br />
+            {!this.state.america && <br />}
             u/onedayitwillbedaisy: [deleted]
-            <br />
-            <br />
-            I feel you the plagiarist.
-            <br />
-            <br />
+            {!this.state.america && <br />}
+            {!this.state.america && <br />}I feel you the plagiarist.
+            {!this.state.america && <br />}
+            {!this.state.america && <br />}
             Wouldn't a cop and/or judge be homeless without crime? Wouldn't a
             farmer and/or chef be homeless without hunger? Wouldn't firepeople
             be homeless without house fires? Wouldn't a doctor be homeless
@@ -921,13 +989,13 @@ export default class Basic extends React.Component {
               apple pie. The question is not how many mudpies you have, but what
               you can do with them.
             </i>
-            <br />
+            {!this.state.america && <br />}
             <div
               style={{
                 transition: ".3s ease-in",
                 width: "max-content",
                 maxWidth: "calc(100% - 22px)",
-                padding: "10px",
+                padding: !this.state.america && "10px",
                 border: "1px solid"
               }}
             >
@@ -942,8 +1010,8 @@ export default class Basic extends React.Component {
               </a>
               , 27 October 1980. p. The Newsweek/Daily Beast Company, p. 95;
               Hoover Inst.)
-              <br />
-              <br />
+              {!this.state.america && <br />}
+              {!this.state.america && <br />}
               As money develops into international money, so the commodity-owner
               becomes a cosmopolitan. The cosmopolitan relations of men to one
               another originally comprise only their relations as
@@ -954,8 +1022,8 @@ export default class Basic extends React.Component {
                 Critique
               </a>
               {space}of Political Economy)
-              <br />
-              <br />
+              {!this.state.america && <br />}
+              {!this.state.america && <br />}
               Marx made a fundamental distinction, in this regard, between the
               classical political economists and the “vulgar economists” who
               came after them. Smith, James Mill and Ricardo had developed their
@@ -969,8 +1037,8 @@ export default class Basic extends React.Component {
                 Mutualist
               </a>
               {space}Political Economy)
-              <br />
-              <br />
+              {!this.state.america && <br />}
+              {!this.state.america && <br />}
               Capital must work, as it were, in concert with industry; and this
               concurrence is what I call the productive agency of capital. (Say,
               Political Economy)
@@ -1009,25 +1077,27 @@ export default class Basic extends React.Component {
                 transition: ".3s ease-in",
                 width: "max-content",
                 maxWidth: "calc(100% - 22px)",
-                padding: "10px",
+                padding: !this.state.america && "10px",
                 border: "1px solid"
               }}
             >
-              <h3
-                style={{
-                  margin: "4px 0px"
-                }}
-              >
-                Only labor produces value because everything else is{space}
-                <i>found</i>.{space}
-                <i>
-                  Can we not take in immigrants because of real non-deflationary
-                  principal and interest over collateral?
-                </i>
-                {space}What is sovereign independence worth? Isn't a contract
-                legal until proven otherwise? Does political asylum span the
-                same standing as self-defense?
-              </h3>
+              {this.state.america && (
+                <h3
+                  style={{
+                    margin: "4px 0px"
+                  }}
+                >
+                  Only labor produces value because everything else is{space}
+                  <i>found</i>.{space}
+                  <i>
+                    Can we not take in immigrants because of real
+                    non-deflationary principal and interest over collateral?
+                  </i>
+                  {space}What is sovereign independence worth? Isn't a contract
+                  legal until proven otherwise? Does political asylum span the
+                  same standing as self-defense?
+                </h3>
+              )}
               Laws may perpetuate a particular means of production, e.g., land,
               in certain families. These laws acquire economic significance only
               if large-scale landed property is in keeping with the social mode
@@ -1042,37 +1112,36 @@ export default class Basic extends React.Component {
               laws. The influence exercised by laws on the preservation of
               existing conditions of distribution, and the effect they thereby
               exert on production has to be examined separately.
-              <br />
-              <br />
+              {!this.state.america && <br />}
+              {!this.state.america && <br />}
               The Germanic barbarians, whose traditional mode of production was
               agriculture with the aid of serfs and who lived scattered over the
               countryside, could the more easily adapt the Roman provinces to
               their requirements because the concentration of landed property
               carried out there had already uprooted the older agricultural
               relations.
-              <br />
-              <br />
+              {!this.state.america && <br />}
+              {!this.state.america && <br />}
               An adult cannot become a child again, or he becomes childish. But
               does the naivete of the child not give him pleasure, and does not
               he himself endeavour to reproduce the child's veracity on a higher
               level? There are rude children and precocious children. Many of
               the ancient peoples belong to this category.
-              <br />
-              <br />
+              {!this.state.america && <br />}
+              {!this.state.america && <br />}
               The Greeks were normal children. The charm their art has for us
               does not conflict with the immature stage of the society in which
               it originated. On the contrary its charm is a consequence of this
               and is inseparably linked with the fact that the immature social
               conditions which gave rise, and which alone could give rise, to
               this art cannot recur.
-              <br />
-              <br />
-              … wine, metal work developing almost into a fine art … among the
-              Greeks and Romans, the full development of money, which is
-              presupposed in modern bourgeois society, appears only in the
-              period of their dissolution.
-              <br />
-              <br />
+              {!this.state.america && <br />}
+              {!this.state.america && <br />}… wine, metal work developing
+              almost into a fine art … among the Greeks and Romans, the full
+              development of money, which is presupposed in modern bourgeois
+              society, appears only in the period of their dissolution.
+              {!this.state.america && <br />}
+              {!this.state.america && <br />}
               The amount of money required as means of payment thus depends not
               on the aggregate amount of payments which are due to be made
               simultaneously, but on the degree of their concentration and on
@@ -1080,22 +1149,22 @@ export default class Basic extends React.Component {
               amounts have been offset against one another. Special devices for
               this type of balancing arise even if no credit system has been
               evolved, as was the case in ancient Rome.
-              <br />
-              <br />
+              {!this.state.america && <br />}
+              {!this.state.america && <br />}
               Where chains of payments and an artificial system for adjusting
               them have been developed, any upheaval that forcibly interrupts
               the flow of payments and upsets the mechanism for balancing them
               against one another suddenly turns money from the nebulous
               chimerical form it assumed as measure of value into hard cash or
               means of payment.
-              <br />
-              <br />
+              {!this.state.america && <br />}
+              {!this.state.america && <br />}
               This sudden transformation of the credit system into a monetary
               system adds theoretical dismay to the actually existing panic, and
               the agents of the circulation process are overawed by the
               impenetrable mystery surrounding their own relations.
-              <br />
-              <br />
+              {!this.state.america && <br />}
+              {!this.state.america && <br />}
               No production['s] possible without an instrument of production,
               even if this instrument is only the hand. No production without
               stored-up, past labour, even if it is only the facility gathered
@@ -1105,14 +1174,14 @@ export default class Basic extends React.Component {
               general, eternal relation of nature; that is, if I leave out just
               the specific quality which alone makes ‘instrument of production’
               and ‘stored-up labour’ into capital.
-              <br />
-              <br />
+              {!this.state.america && <br />}
+              {!this.state.america && <br />}
               These deductions from the "undiminished" proceeds of labor are an
               economic necessity, and their magnitude is to be determined
               according to available means and forces, and partly by computation
               of probabilities, but they are in no way calculable by equity.
-              <br />
-              <br />
+              {!this.state.america && <br />}
+              {!this.state.america && <br />}
               Moreover by its need for repetition consumption leads to the
               {space}
               <a href="https://www.marxists.org/archive/marx/works/1857/grundrisse/ch01.htm">
@@ -1129,8 +1198,8 @@ export default class Basic extends React.Component {
                 concluding act in which the product becomes product, but also
                 that in which the producer becomes producer.
               </i>
-              <br />
-              <br />
+              {!this.state.america && <br />}
+              {!this.state.america && <br />}
               As regards whole societies, distribution seems to precede
               production and to determine it in yet another respect, almost as
               if it were a pre-economic fact. A conquering people divides the
@@ -1146,8 +1215,8 @@ export default class Basic extends React.Component {
               are all historical, it seems that distribution is not structured
               and determined by production, but rather the opposite, production
               by distribution.
-              <br />
-              <br />
+              {!this.state.america && <br />}
+              {!this.state.america && <br />}
               In the shallowest conception, distribution appears as the
               distribution of products, and hence as further removed from and
               quasi-independent of production. But before distribution can be
@@ -1157,8 +1226,8 @@ export default class Basic extends React.Component {
               members of the society among the different kinds of production.
               (Subsumption of the individuals under specific relations of
               production.)
-              <br />
-              <br />
+              {!this.state.america && <br />}
+              {!this.state.america && <br />}
               Production creates the objects which correspond to the given
               needs; distribution divides them up according to social laws;
               exchange further parcels out the already divided shares in accord
@@ -1186,15 +1255,15 @@ export default class Basic extends React.Component {
                 This real inflation is called the technology guild in our
                 lexicon. The merchant and manufacturers are the most malleable
                 in this variable capital.
-                <br />
-                <br />
+                {!this.state.america && <br />}
+                {!this.state.america && <br />}
                 <div
                   ref={this.guild}
                   style={{
                     transition: ".3s ease-in",
                     width: "max-content",
                     maxWidth: "calc(100% - 22px)",
-                    padding: "10px",
+                    padding: !this.state.america && "10px",
                     border: "1px solid"
                   }}
                 >
@@ -1208,26 +1277,26 @@ export default class Basic extends React.Component {
                   prevented from turning into industrial capital, in the country
                   by the feudal constitution, in the towns by the guild
                   organisation.
-                  <br />
-                  <br />
+                  {!this.state.america && <br />}
+                  {!this.state.america && <br />}
                   For one thing, by keeping secrets in trade if the market is at
                   a great distance from those who supply it, that is, by
                   concealing a price change, its rise above the natural level
                   [of fixed/constant no-more deflationary tech].
                 </div>
-                <br />
+                {!this.state.america && <br />}
                 Service work is how the aristocracy becomes the bourgeoisie,
                 albeit perhaps begrudgingly, however you’d not know it in the
                 initial throws of opulence until globalization deludes our
                 conditioning of growth to leisure.
-                <br />
-                <br />
+                {!this.state.america && <br />}
+                {!this.state.america && <br />}
                 <div
                   style={{
                     transition: ".3s ease-in",
                     width: "max-content",
                     maxWidth: "calc(100% - 22px)",
-                    padding: "10px",
+                    padding: !this.state.america && "10px",
                     border: "1px solid"
                   }}
                 >
@@ -1240,45 +1309,45 @@ export default class Basic extends React.Component {
                   levelling surplus-value to average profit, although it does
                   not take part in its production.
                 </div>
-                <br />
+                {!this.state.america && <br />}
                 Traders aid in globalized efficiency. The expansion of capital
                 into the future is capitalist, with socialized capital.
-                <br />
-                <br />
+                {!this.state.america && <br />}
+                {!this.state.america && <br />}
                 <b>
                   Do commercial property owners hold the key to poverty ? If
                   not, what would happen if they cut leases by 50% on commercial
                   spaces that have been vacant for more than a year ?
                 </b>
-                <br />
+                {!this.state.america && <br />}
                 $800b/yr of $23t/yr commercial structures are built for these
                 purposes, and again that amount for residential structures.
                 $2.7t/yr is then spent on residential leases, and $1.2t/yr is on
                 the commercial-kind.
-                <br />
-                <br />
+                {!this.state.america && <br />}
+                {!this.state.america && <br />}
                 This of course would grant cheaper mudpies without leasing, the
                 surrender of future demand. A more efficient rather than
                 productive society, even really productive society, would
                 increase poverty surely, because the skewed rate of income below
                 a third national expense strata (or 3x average food) would widen
                 from the income equality/competition.
-                <br />
-                <br />
+                {!this.state.america && <br />}
+                {!this.state.america && <br />}
                 The only way to emancipate (the mass of) people from poverty, an
                 average of operating rates, is to allow for capitalism, which
                 pays soft labor. If living labor is paid their circulative
                 ground rent costs and constant reproductive capital (without
                 expiry), poverty will increase generally, and lessen per
                 capita/centile.
-                <br />
-                <br />
+                {!this.state.america && <br />}
+                {!this.state.america && <br />}
                 <div
                   style={{
                     transition: ".3s ease-in",
                     width: "max-content",
                     maxWidth: "calc(100% - 22px)",
-                    padding: "10px",
+                    padding: !this.state.america && "10px",
                     border: "1px solid"
                   }}
                 >
@@ -1298,24 +1367,24 @@ export default class Basic extends React.Component {
                   less labour is contained in that value itself. (Marx, Capital
                   III.1 Profit [to] Surplus)
                 </div>
-                <br />
+                {!this.state.america && <br />}
                 Social ground rent is fine. No expiration, nor future demand
                 surrendered. For instance, industry-specific max-royalty payday
                 loans will replace interest and principal over collateral, as
                 consumer protection (overtime implied change orders) will falter
                 to contracting technology r/scopebook.
-                <br />
-                <br />
+                {!this.state.america && <br />}
+                {!this.state.america && <br />}
                 Social capital is our issue, and ground rent is the cost of
                 circulation, being storage and transport.
-                <br />
-                <br />
+                {!this.state.america && <br />}
+                {!this.state.america && <br />}
                 <div
                   style={{
                     transition: ".3s ease-in",
                     width: "max-content",
                     maxWidth: "calc(100% - 22px)",
-                    padding: "10px",
+                    padding: !this.state.america && "10px",
                     border: "1px solid"
                   }}
                 >
@@ -1323,8 +1392,8 @@ export default class Basic extends React.Component {
                   represent commodities which have been sold or shipped. He
                   denies that these bills represent the value of commodities in
                   the same way that a bank-note represents gold.
-                  <br />
-                  <br />
+                  {!this.state.america && <br />}
+                  {!this.state.america && <br />}
                   Aside from the stock-company business, which represents the
                   abolition of capitalist private industry on the basis of the
                   capitalist system itself and destroys private industry as it
@@ -1354,7 +1423,7 @@ export default class Basic extends React.Component {
                 transition: ".3s ease-in",
                 width: "max-content",
                 maxWidth: "calc(100% - 22px)",
-                padding: "10px",
+                padding: !this.state.america && "10px",
                 border: "1px solid",
                 backgroundColor: "linen" //we know how it is made. eula, exclusion beyond 11/12
                 //2/23 crazy unduly incentivized until proven otherwise
@@ -1372,35 +1441,39 @@ export default class Basic extends React.Component {
               selflessness, is in definite circumstances a necessary form of the
               self-assertion of individuals.
             </div>
-            <h3>
-              Isn’t communism’s namesake reproductive commodity capital by labor
-              without machine rent?{space}
-              <span style={{ color: "grey" }}>
-                Don’t we "need" employment to make up for machine rent until
-                {space}
-                <a href="https://www.quora.com/How-have-socialist-and-communist-societies-been-developed-in-practice/answer/Nick-Carducci">
-                  leisure
-                </a>
-                {space}
-                runs out?
-              </span>
-            </h3>
+            {this.state.america && (
+              <h3>
+                Isn’t communism’s namesake reproductive commodity capital by
+                labor without machine rent?{space}
+                <span style={{ color: "grey" }}>
+                  Don’t we "need" employment to make up for machine rent until
+                  {space}
+                  <a href="https://www.quora.com/How-have-socialist-and-communist-societies-been-developed-in-practice/answer/Nick-Carducci">
+                    leisure
+                  </a>
+                  {space}
+                  runs out?
+                </span>
+              </h3>
+            )}
             How can market rates peak when the national account balance is
             negative? Can only the government borrow at the federal funds?
             Wouldn't homes be built notwithstanding mortgages?{space}
             <i>Ponzi consumer fraud protection is not business.</i>
-            <h3>
-              Why do{space}
-              <a href="https://www.reddit.com/r/realeconomics/comments/ybef0w/what_do_economists_know_now_that_they_didnt_50/">
-                economists
-              </a>
-              {space}following Alfred Marshall perceive capital as physical
-              assets instead of the{space}
-              <a href="https://www.instagram.com/p/CkBS7n7LAJH/">
-                revenue-affording account
-              </a>
-              ?
-            </h3>
+            {this.state.america && (
+              <h3>
+                Why do{space}
+                <a href="https://www.reddit.com/r/realeconomics/comments/ybef0w/what_do_economists_know_now_that_they_didnt_50/">
+                  economists
+                </a>
+                {space}following Alfred Marshall perceive capital as physical
+                assets instead of the{space}
+                <a href="https://www.instagram.com/p/CkBS7n7LAJH/">
+                  revenue-affording account
+                </a>
+                ?
+              </h3>
+            )}
             <h2
               style={{
                 color: "cadetblue",
@@ -1431,7 +1504,7 @@ export default class Basic extends React.Component {
                 transition: ".3s ease-in",
                 width: "max-content",
                 maxWidth: "calc(100% - 20px)",
-                padding: "10px",
+                padding: !this.state.america && "10px",
                 border: "1px solid",
                 backgroundColor: "cornflowerblue"
               }}
@@ -1470,24 +1543,28 @@ export default class Basic extends React.Component {
               {space}
               <i>Political Economy</i>)
             </div>
-            <h3>
-              If the GDP/yr to debt ratio is 1:1,{space}
-              <a href="https://saverparty.xyz/nato">velocity</a>
-              {space}of checking 1/10th m2, and debt outstanding 40 times
-              checking, wouldn’t it take 400 years to pay off and more by the
-              skew of income and{space}
-              <a href="https://saverparty.xyz/global">indebtedness</a>
-              {space}inequality?
-            </h3>
+            {this.state.america && (
+              <h3>
+                If the GDP/yr to debt ratio is 1:1,{space}
+                <a href="https://saverparty.xyz/nato">velocity</a>
+                {space}of checking 1/10th m2, and debt outstanding 40 times
+                checking, wouldn’t it take 400 years to pay off and more by the
+                skew of income and{space}
+                <a href="https://saverparty.xyz/global">indebtedness</a>
+                {space}inequality?
+              </h3>
+            )}
             The{space}
             <a href="https://english.stackexchange.com/questions/282494/is-there-a-special-rule-for-using-the-word-gild-and-guild-as-verb-or-noun">
               guilded
             </a>
             {space}age
-            <h3 style={{ margin: "4px 0px" }}>
-              Isn't technical growth deflationary while dynamic efficiency
-              retractable?
-            </h3>
+            {this.state.america && (
+              <h3 style={{ margin: "4px 0px" }}>
+                Isn't technical growth deflationary while dynamic efficiency
+                retractable?
+              </h3>
+            )}
             What is the use of education but secrets?{space}
             <a
               style={{ backgroundColor: "navy", color: "white" }}
@@ -2050,8 +2127,8 @@ export default class Basic extends React.Component {
               style={{
                 color: "white",
                 backgroundColor: "rgb(165,75,205)",
-                padding: "10px",
-                margin: "10px",
+                padding: !this.state.america && "10px",
+                margin: !this.state.america && "10px",
                 width: "calc(100% - 40px)",
                 border: "1px solid"
               }}
@@ -2488,19 +2565,23 @@ export default class Basic extends React.Component {
             </i>
             {space}Isn’t wage growth always short-term employment but for
             dynamic long-term efficiency?
-            <h3 style={{ margin: "4px 0px", backgroundColor: "salmon" }}>
-              Wouldn't the Federal Reserve be unable to reverse split checkable
-              deposits into the balance good will value? Isn't the Federal
-              Reserve operating as a treasury debit surplus? Won't "savings"
-              repossess these electronic funds without QE?
-            </h3>
-            <h4 style={{ margin: "4px 0px" }}>
-              "Interest rate{space}
-              <a href="https://www.quora.com/In-the-context-of-a-Great-Depression-would-it-be-possible-or-make-sense-for-everyone-to-forgive-each-other-s-debt-and-start-over/answer/Nick-Carducci">
-                basis
-              </a>
-              "
-            </h4>{" "}
+            {this.state.america && (
+              <h3 style={{ margin: "4px 0px", backgroundColor: "salmon" }}>
+                Wouldn't the Federal Reserve be unable to reverse split
+                checkable deposits into the balance good will value? Isn't the
+                Federal Reserve operating as a treasury debit surplus? Won't
+                "savings" repossess these electronic funds without QE?
+              </h3>
+            )}
+            {this.state.america && (
+              <h4 style={{ margin: "4px 0px" }}>
+                "Interest rate{space}
+                <a href="https://www.quora.com/In-the-context-of-a-Great-Depression-would-it-be-possible-or-make-sense-for-everyone-to-forgive-each-other-s-debt-and-start-over/answer/Nick-Carducci">
+                  basis
+                </a>
+                "
+              </h4>
+            )}{" "}
             <a href="https://census.quora.com/Would-cementing-the-entire-world-appease-the-structural-growthers">
               Doesn’t structural growth turn into a technical efficiency but for
               rental investment?
@@ -2522,8 +2603,8 @@ export default class Basic extends React.Component {
             <a href="https://www.quora.com/unanswered/Doesn-t-inflation-of-prior-years-get-confused-as-growth">
               Doesn’t inflation of prior years get confused as growth?
             </a>
-            <br />
-            <br />
+            {!this.state.america && <br />}
+            {!this.state.america && <br />}
             The reserve army of labor is that power{space}
             <span style={{ color: "rgb(165,75,205)" }}>[foresaken]</span>
             {space}in{space}
@@ -2539,8 +2620,8 @@ export default class Basic extends React.Component {
               happen when short term employment is already there to poorly pick
               up the slack with self-extended social capital accounts.
             </i>
-            <br />
-            <br />
+            {!this.state.america && <br />}
+            {!this.state.america && <br />}
             The{space}
             <i>equilibrium factor</i>
             {space}is apparent{space}
@@ -2603,8 +2684,8 @@ export default class Basic extends React.Component {
               Less long-term expenditure and more will employ recessionary and
               dynamic equilibrium, respectively.
             </i>
-            <br />
-            <br />
+            {!this.state.america && <br />}
+            {!this.state.america && <br />}
             When recessions (or stagflation) happen, long-term employment is
             lost because inflation occurs commensurately with unemployment.
             Starting from a dynamic/luxury growth gap, however, a recession is
@@ -2626,8 +2707,8 @@ export default class Basic extends React.Component {
             <i>
               Any more can be acclaimed to be short term employment, on-net.
             </i>
-            <br />
-            <br />
+            {!this.state.america && <br />}
+            {!this.state.america && <br />}
             Isn’t production growth over demand{space}
             <i>technically better than</i>
             {space}inventory growth{space}
@@ -2648,11 +2729,11 @@ export default class Basic extends React.Component {
             <div
               style={{
                 backgroundColor: "rgb(200,100,170)",
-                margin: "10px",
+                margin: !this.state.america && "10px",
                 transition: ".3s ease-in",
                 width: "max-content",
                 maxWidth: "calc(100% - 40px)",
-                padding: "10px",
+                padding: !this.state.america && "10px",
                 border: "1px solid"
               }}
             >
@@ -2667,7 +2748,7 @@ export default class Basic extends React.Component {
                   transition: ".3s ease-in",
                   width: "max-content",
                   maxWidth: "calc(100% - 40px)",
-                  padding: "10px",
+                  padding: !this.state.america && "10px",
                   border: "3px solid"
                 }}
               >
@@ -2682,11 +2763,11 @@ export default class Basic extends React.Component {
                 <div
                   style={{
                     backgroundColor: "rgb(200,100,170)",
-                    margin: "10px",
+                    margin: !this.state.america && "10px",
                     transition: ".3s ease-in",
                     width: "max-content",
                     maxWidth: "calc(100% - 40px)",
-                    padding: "10px",
+                    padding: !this.state.america && "10px",
                     border: "1px solid"
                   }}
                 >
@@ -2704,8 +2785,8 @@ export default class Basic extends React.Component {
                       Isn’t the gerontocracy and/or soft labor apparent from
                       skill-based income inequality?
                     </i>
-                    <br />
-                    <br />
+                    {!this.state.america && <br />}
+                    {!this.state.america && <br />}
                     'Why does an increase in income shift the demand curve for
                     goods to the right but not for money?'
                   </h4>
@@ -2716,7 +2797,7 @@ export default class Basic extends React.Component {
                       transition: ".3s ease-in",
                       width: "max-content",
                       maxWidth: "calc(100% - 40px)",
-                      padding: "10px",
+                      padding: !this.state.america && "10px",
                       border: "3px solid"
                     }}
                   >
@@ -2766,11 +2847,11 @@ export default class Basic extends React.Component {
               <div
                 style={{
                   backgroundColor: "white",
-                  margin: "10px",
+                  margin: !this.state.america && "10px",
                   transition: ".3s ease-in",
                   width: "max-content",
                   maxWidth: "calc(100% - 40px)",
-                  padding: "10px",
+                  padding: !this.state.america && "10px",
                   border: "1px solid"
                 }}
               >
@@ -2816,11 +2897,11 @@ export default class Basic extends React.Component {
             <br />
             <div
               style={{
-                margin: "10px",
+                margin: !this.state.america && "10px",
                 transition: ".3s ease-in",
                 width: "max-content",
                 maxWidth: "calc(100% - 40px)",
-                padding: "10px",
+                padding: !this.state.america && "10px",
                 border: "1px solid"
               }}
             >
@@ -2903,11 +2984,11 @@ export default class Basic extends React.Component {
             {!this.state.america && (
               <div
                 style={{
-                  margin: "10px",
+                  margin: !this.state.america && "10px",
                   transition: ".3s ease-in",
                   width: "max-content",
                   maxWidth: "calc(100% - 40px)",
-                  padding: "10px",
+                  padding: !this.state.america && "10px",
                   border: "1px solid"
                 }}
               >
@@ -2957,8 +3038,8 @@ export default class Basic extends React.Component {
                     scrollTop={this.state.scrollTop}
                   />
                 </a>
-                <br />
-                <br />
+                {!this.state.america && <br />}
+                {!this.state.america && <br />}
                 Perhaps you do not understand how prices are made by{space}
                 <a href="https://theanarchistlibrary.org/library/kevin-carson-studies-in-mutualist-political-economy">
                   social supply (variable capital)
@@ -3015,11 +3096,11 @@ export default class Basic extends React.Component {
             </a>
             <div
               style={{
-                margin: "10px",
+                margin: !this.state.america && "10px",
                 transition: ".3s ease-in",
                 width: "max-content",
                 maxWidth: "calc(100% - 40px)",
-                padding: "10px",
+                padding: !this.state.america && "10px",
                 border: "1px solid"
               }}
             >
@@ -3036,11 +3117,11 @@ export default class Basic extends React.Component {
                   Nonsense questions
                 </a>
               </i>
-              <br />
-              <br />
+              {!this.state.america && <br />}
+              {!this.state.america && <br />}
               Do you even work in the economics field?
-              <br />
-              <br />
+              {!this.state.america && <br />}
+              {!this.state.america && <br />}
               <i>
                 I buy and sell equities and futures for a living. Arcane
                 questions in this general forum are unproductive. This youtube
@@ -3048,12 +3129,11 @@ export default class Basic extends React.Component {
                 test. It doesn’t make you valuable to others if you can’t ask
                 questions average people or voters can understand.
               </i>
-              <br />
-              <br />
-              I disparage propaganda for free, I am advocate for public good
-              will accounting like
-              <br />
-              <br />
+              {!this.state.america && <br />}
+              {!this.state.america && <br />}I disparage propaganda for free, I
+              am advocate for public good will accounting like
+              {!this.state.america && <br />}
+              {!this.state.america && <br />}
               <h4
                 style={{
                   margin: "4px 0px"
@@ -3073,11 +3153,11 @@ export default class Basic extends React.Component {
               consumption and export of the physical
               <div
                 style={{
-                  margin: "10px",
+                  margin: !this.state.america && "10px",
                   transition: ".3s ease-in",
                   width: "max-content",
                   maxWidth: "calc(100% - 40px)",
-                  padding: "10px",
+                  padding: !this.state.america && "10px",
                   border: "1px dashed"
                 }}
               >
@@ -3184,8 +3264,8 @@ export default class Basic extends React.Component {
               </a>
               ?
             </i>
-            <br />
-            <br />
+            {!this.state.america && <br />}
+            {!this.state.america && <br />}
             <h4
               style={{
                 margin: "4px 0px"
@@ -3308,13 +3388,15 @@ export default class Basic extends React.Component {
               Rent: the constant raw capital-material power cost lives towards
               feature-based service worker machine dynamism.
             </h2>
-            <h3
-              style={{
-                margin: "4px 0px"
-              }}
-            >
-              Can rent prove technical deflationary investment?
-            </h3>
+            {this.state.america && (
+              <h3
+                style={{
+                  margin: "4px 0px"
+                }}
+              >
+                Can rent prove technical deflationary investment?
+              </h3>
+            )}
             We are to own the constant raw material as earnings to be the
             natural extent of variable part living labor exchange value.{space}
             <i>
@@ -3328,7 +3410,7 @@ export default class Basic extends React.Component {
                 transition: ".3s ease-in",
                 width: "max-content",
                 maxWidth: "calc(100% - 20px)",
-                padding: "10px",
+                padding: !this.state.america && "10px",
                 border: "1px solid",
                 backgroundColor: "grey"
               }}
@@ -3408,8 +3490,8 @@ export default class Basic extends React.Component {
               Isn’t recessionary unemployment acceleratingly inflationary and
               not deflationary nor otherwise as NBER would have it?
             </i>
-            <br />
-            <br />
+            {!this.state.america && <br />}
+            {!this.state.america && <br />}
             Isn't generous deflationary technological competition less subsidy
             and/or inflationary dynamic competition that either bears out to
             long-term employment or not? Isn’t the{space}
@@ -3500,16 +3582,16 @@ export default class Basic extends React.Component {
             have no use for the laffer curve if it cannot adjust to inflation.
             At the very least, you say it is good enough. We call this
             half-baked and not a viable theorem of powers to production factors.
-            <br />
-            <br />
+            {!this.state.america && <br />}
+            {!this.state.america && <br />}
             <a href="https://www.quora.com/Does-Art-Laffer-think-there-is-no-deficit/answer/J-Reynolds-15">
               You
             </a>
             {space}misunderstand lifetime means to the basis period of inflation
             instead of annual to discount productivity for velocity of living
             consumption and investment.
-            <br />
-            <br />
+            {!this.state.america && <br />}
+            {!this.state.america && <br />}
             The natural rate of productivity normalizes as it happens, but
             technological competition deflates while dynamic competition imposes
             complementary luxury market-demand.
@@ -3559,7 +3641,7 @@ export default class Basic extends React.Component {
                 transition: ".3s ease-in",
                 width: "max-content",
                 maxWidth: "calc(100% - 20px)",
-                padding: "10px",
+                padding: !this.state.america && "10px",
                 border: "1px dashed"
               }}
             >
@@ -3580,12 +3662,12 @@ export default class Basic extends React.Component {
               </i>
               <div
                 style={{
-                  margin: "10px",
+                  margin: !this.state.america && "10px",
 
                   transition: ".3s ease-in",
                   width: "max-content",
                   maxWidth: "calc(100% - 40px)",
-                  padding: "10px",
+                  padding: !this.state.america && "10px",
                   border: "1px dashed"
                 }}
               >
@@ -3688,15 +3770,15 @@ export default class Basic extends React.Component {
                 />
               </a>
             )}
-            <br />
-            <br />
+            {!this.state.america && <br />}
+            {!this.state.america && <br />}
             <i>
               Isn’t the reserve army of workers rather the long-term employed?
             </i>
             {space}Isn’t the Laffer curve fallacious during the crowding out of
             long-term employment?
-            <br />
-            <br />
+            {!this.state.america && <br />}
+            {!this.state.america && <br />}
             Does consumption velocity lower the cost of living because people
             can only save inventory of non-perishable durable goods?{space}
             <span
@@ -3715,8 +3797,8 @@ export default class Basic extends React.Component {
               rent
             </a>
             {space}not investment in national accounting?
-            <br />
-            <br />
+            {!this.state.america && <br />}
+            {!this.state.america && <br />}
             <i>
               If growth is gross private investment, is living production growth
               not?{space}
@@ -3754,7 +3836,7 @@ export default class Basic extends React.Component {
                 transition: ".3s ease-in",
                 width: "max-content",
                 maxWidth: "calc(100% - 20px)",
-                padding: "10px",
+                padding: !this.state.america && "10px",
                 border: "1px solid",
                 backgroundColor: "grey"
               }}
@@ -3771,7 +3853,7 @@ export default class Basic extends React.Component {
                   transition: ".3s ease-in",
                   width: "max-content",
                   maxWidth: "calc(100% - 20px)",
-                  padding: "10px",
+                  padding: !this.state.america && "10px",
                   border: "1px solid",
                   backgroundColor: "cornflowerblue"
                 }}
@@ -3831,13 +3913,13 @@ export default class Basic extends React.Component {
             {space}back to us? Why would one pay a financial service more in
             their earnings than such an equally skilled working day does require
             in sum?
-            <br />
-            <br />
+            {!this.state.america && <br />}
+            {!this.state.america && <br />}
             machine-rent = "means[] still[] get their cut" - Stuart Edwards
-            <br />
+            {!this.state.america && <br />}
             wealth = (concentraton / equality) of good will
-            <br />
-            <br />
+            {!this.state.america && <br />}
+            {!this.state.america && <br />}
             Why does the{space}
             <a href="https://saverparty.xyz/poverty">poverty</a>
             {space}rate assume everyone has two kids? 30 day lease, 5/landlord.
@@ -3847,14 +3929,14 @@ export default class Basic extends React.Component {
                 width:
                   //maxWidth:
                   "calc(100% - 40px)",
-                padding: "10px",
-                margin: "10px",
+                padding: !this.state.america && "10px",
+                margin: !this.state.america && "10px",
                 border: "1px solid"
               }}
             >
               Tax benefits for years of cost to revenue exemptions 1099
-              <br />
-              <br />
+              {!this.state.america && <br />}
+              {!this.state.america && <br />}
               If that wasn't skewed towards a home with a single kid 1/3 stay
               with
               {space}
@@ -3863,11 +3945,11 @@ export default class Basic extends React.Component {
               </a>
               {/*space}wtf it just causes the number to be fucked up*/}. Stop
               with the white picket fence patriarchy.
-              <br />
-              <br />
+              {!this.state.america && <br />}
+              {!this.state.america && <br />}
               <i>Everyone has two kids.</i>
-              <br />
-              <br />
+              {!this.state.america && <br />}
+              {!this.state.america && <br />}
               It's just not natural; we need{space}
               <a href="https://thetax.party">a police state</a>
               {space}thetax.party.{" "}
@@ -3909,8 +3991,8 @@ export default class Basic extends React.Component {
               assume we all have two kids?{space}
               <a href="https://vaults.biz">What ages aren’t working</a>?
             </i>
-            <br />
-            <br />
+            {!this.state.america && <br />}
+            {!this.state.america && <br />}
             <div
               style={{
                 transition: ".3s ease-in", //"Shouldn't Joe Biden be institutionalized? 'We beat pharma this year,
@@ -3948,8 +4030,8 @@ export default class Basic extends React.Component {
                 width:
                   //maxWidth:
                   "calc(100% - 40px)",
-                padding: "10px",
-                margin: "10px",
+                padding: !this.state.america && "10px",
+                margin: !this.state.america && "10px",
                 border: "1px solid"
               }}
             >
@@ -3969,8 +4051,8 @@ export default class Basic extends React.Component {
               financial reform socialistic. It was socialistic to build a
               railway where a canal already existed, and it was socialistic to
               defend oneself with a cane when one was attacked with a rapier.
-              <br />
-              <br />
+              {!this.state.america && <br />}
+              {!this.state.america && <br />}
               <a href="https://www.marxists.org/archive/marx/works/1872/03/fictitious-splits.htm">
                 [T]he reactionary
               </a>
@@ -3996,7 +4078,7 @@ export default class Basic extends React.Component {
                   transition: ".3s ease-in",
                   width: "max-content",
                   maxWidth: "calc(100% - 20px)",
-                  padding: "10px",
+                  padding: !this.state.america && "10px",
                   border: "1px solid",
                   backgroundColor: "firebrick"
                 }}
@@ -4033,8 +4115,8 @@ export default class Basic extends React.Component {
                 but what man of sound mind would not rather pardon sins of the
                 nation and the time in the press than sins against the nation
                 and the time in the censorship?
-                <br />
-                <br />
+                {!this.state.america && <br />}
+                {!this.state.america && <br />}
                 Of course, if freedom of the press were all in all it would make
                 all other functions of a nation, and the nation itself,
                 superfluous. (Karl Marx, On Freedom of the Press:{space}
@@ -4042,18 +4124,18 @@ export default class Basic extends React.Component {
                   Opponents of a Free Press
                 </a>
                 , 1842)
-                <br />
-                <br />
+                {!this.state.america && <br />}
+                {!this.state.america && <br />}
                 Felled wood is wood that has been worked on. The natural
                 connection with property has been replaced by an artificial one.
                 Therefore anyone who takes away felled wood takes away property
-                <br />
-                <br />
+                {!this.state.america && <br />}
+                {!this.state.america && <br />}
                 In the case of fallen wood, on the contrary, nothing has been
                 separated from property. It is only what has already been
                 separated from property that is being separated from it.
-                <br />
-                <br />
+                {!this.state.america && <br />}
+                {!this.state.america && <br />}
                 Indeed, you punish the gathering of fallen wood more severely
                 than the theft of wood, for you punish it already by declaring
                 it to be theft, a punishment which you obviously do not
@@ -4067,8 +4149,8 @@ export default class Basic extends React.Component {
                 But if the law applies the term theft to an action that is
                 scarcely even a violation of forest regulations, then the law
                 lies, and the poor are sacrificed to a legal lie.
-                <br />
-                <br />
+                {!this.state.america && <br />}
+                {!this.state.america && <br />}
                 When the privileged classes appeal from legal right to their
                 customary rights, they are demanding instead of the human
                 content of right, its animal form, which has now lost its
@@ -4078,16 +4160,16 @@ export default class Basic extends React.Component {
                   Debates on the Law on Thefts of Wood
                 </a>
                 , October 25 1842
-                <br />
-                <br />
+                {!this.state.america && <br />}
+                {!this.state.america && <br />}
                 Punishment as such, the restoration of the law, which must
                 certainly be distinguished from restitution of the value and
                 compensation for loss, the restoration of private property, is
                 transformed from a public punishment into a private
                 compensation, the fines going not to the state treasury, but to
                 the private coffers of the forest owner.
-                <br />
-                <br />
+                {!this.state.america && <br />}
+                {!this.state.america && <br />}
                 Barbaric peoples order the payment of a definite monetary
                 compensation (atonement money) to the injured person for a
                 definite crime. The notion of public punishment arose only in
@@ -4096,13 +4178,15 @@ export default class Basic extends React.Component {
                 to be discovered which are so complacent as to allow an
                 individual to claim for himself both the private punishment and
                 that imposed by the state. (Karl Marx, op.cit. 305, November 1
-                1842)
+                1842){/**is this a good reason to be insane */}
               </div>
-              <h3>
-                <i style={{ color: "grey" }}>Your enemies will remain</i>
-                {space}extraversive.{space}
-                <a href="https://thetaxparty.com">Spoof democracy</a>{" "}
-              </h3>
+              {this.state.america && (
+                <h3>
+                  <i style={{ color: "grey" }}>Your enemies will remain</i>
+                  {space}extraversive.{space}
+                  <a href="https://thetaxparty.com">Spoof democracy</a>{" "}
+                </h3>
+              )}
               <div
                 ref={this.property}
                 style={{
@@ -4110,7 +4194,7 @@ export default class Basic extends React.Component {
                   transition: ".3s ease-in",
                   width: "max-content",
                   maxWidth: "calc(100% - 20px)",
-                  padding: "10px",
+                  padding: !this.state.america && "10px",
                   border: "1px solid",
                   backgroundColor: "darkslategrey"
                 }}
@@ -4132,7 +4216,12 @@ export default class Basic extends React.Component {
                     The Role of the Contract
                   </a>
                 </h3>
-                <div style={{ borderLeft: "1px dotted", padding: "10px" }}>
+                <div
+                  style={{
+                    borderLeft: "1px dotted",
+                    padding: !this.state.america && "10px"
+                  }}
+                >
                   As with Proudhon, Bakunin defended the absolute right of each
                   group to secede from the federation, but unlike Proudhon[,] he
                   did not vitiate this right by allowing for majority rule over
@@ -4147,7 +4236,7 @@ export default class Basic extends React.Component {
                     transition: ".3s ease-in",
                     width: "max-content",
                     maxWidth: "calc(100% - 20px)",
-                    padding: "10px",
+                    padding: !this.state.america && "10px",
                     border: "1px solid",
                     backgroundColor: "darkslategrey"
                   }}
@@ -4396,7 +4485,7 @@ export default class Basic extends React.Component {
                   transition: ".3s ease-in",
                   width: "max-content",
                   maxWidth: "calc(100% - 20px)",
-                  padding: "10px",
+                  padding: !this.state.america && "10px",
                   border: "1px solid",
                   backgroundColor: "cadetblue"
                 }}
@@ -4423,7 +4512,7 @@ export default class Basic extends React.Component {
                     transition: ".3s ease-in",
                     width: "max-content",
                     maxWidth: "calc(100% - 20px)",
-                    padding: "10px",
+                    padding: !this.state.america && "10px",
                     border: "1px solid",
                     backgroundColor: "cadetblue"
                   }}
@@ -5109,8 +5198,8 @@ export default class Basic extends React.Component {
             <div
               style={{
                 color: "black",
-                padding: "10px",
-                margin: "10px",
+                padding: !this.state.america && "10px",
+                margin: !this.state.america && "10px",
                 width: "calc(100% - 40px)",
                 border: "1px solid",
                 backgroundColor: "rgb(240,230,250)"
@@ -5227,8 +5316,8 @@ export default class Basic extends React.Component {
               style={{
                 backgroundColor: "grey",
                 color: "white",
-                padding: "10px",
-                margin: "10px",
+                padding: !this.state.america && "10px",
+                margin: !this.state.america && "10px",
                 width: "calc(100% - 40px)",
                 border: "1px solid"
               }}
@@ -5261,8 +5350,8 @@ export default class Basic extends React.Component {
               <div
                 style={{
                   color: "black",
-                  padding: "10px",
-                  margin: "10px",
+                  padding: !this.state.america && "10px",
+                  margin: !this.state.america && "10px",
                   width: "calc(100% - 40px)",
                   border: "1px solid",
                   backgroundColor: "white"
@@ -5335,13 +5424,13 @@ export default class Basic extends React.Component {
             individual use costs, or without expiry. “What difference at this
             point does it make.” Minimal viable duress cost to revenue. State
             spending is 50% deficit so.
-            <br />
+            {!this.state.america && <br />}
             The dollar is all we have the poor and not because of UT NM WY
-            <br />
+            {!this.state.america && <br />}
             And not for the free labor because only does charity of welfare
             happen for bondage.
-            <br />
-            <br />
+            {!this.state.america && <br />}
+            {!this.state.america && <br />}
             <b>
               Will economic growth in physical inventory or ordinary consumption
               by machine or man be right for the British people?
@@ -5399,8 +5488,8 @@ export default class Basic extends React.Component {
               style={{
                 backgroundColor: "grey",
                 color: "white",
-                padding: "10px",
-                margin: "10px",
+                padding: !this.state.america && "10px",
+                margin: !this.state.america && "10px",
                 width: "calc(100% - 40px)",
                 border: "1px solid"
               }}
@@ -5422,8 +5511,8 @@ export default class Basic extends React.Component {
               style={{
                 backgroundColor: "grey",
                 color: "white",
-                padding: "10px",
-                margin: "10px",
+                padding: !this.state.america && "10px",
+                margin: !this.state.america && "10px",
                 width: "calc(100% - 40px)",
                 border: "1px solid"
               }}
@@ -5443,19 +5532,20 @@ export default class Basic extends React.Component {
             <a href="https://www.quora.com/Will-I-be-ostracized-if-I-say-if-you-don-t-vote-for-me-you-ain-t-Chinese-as-a-Marxist-running-in-NJ-for-U-S-Senate">
               Is debt, insurance, and rent “free enterprise”
             </a>
-            ?
-            <br />
+            ?{!this.state.america && <br />}
             <span>
               The <a href="https://humanharvest.info">Natural Rate</a> vs. IS-LM
             </span>
-            <br />
+            {!this.state.america && <br />}
             Overeating[-by time] implied [, implied] by real growth, or the
             subsummation of deflation by shrinkflation, a velocity not by a
             molar weight to water. A fee may make for a larger social credit
             capital exchange value fee, for such is access (yes, the 'access'
             of) from the individual use exchange in excess of use.
             <span style={{ display: "flex" }}>
-              <h4 style={{ margin: "8px" }}>certain technology guild</h4>
+              {!this.state.america && (
+                <h4 style={{ margin: "8px" }}>certain technology guild</h4>
+              )}
               {space}
               <i
                 style={{
@@ -5470,8 +5560,8 @@ export default class Basic extends React.Component {
               style={{
                 backgroundColor: "grey",
                 color: "white",
-                padding: "10px",
-                margin: "10px",
+                padding: !this.state.america && "10px",
+                margin: !this.state.america && "10px",
                 width: "calc(100% - 40px)",
                 border: "1px solid"
               }}
@@ -5510,8 +5600,8 @@ export default class Basic extends React.Component {
                 style={{
                   backgroundColor: "white",
                   color: "black",
-                  padding: "10px",
-                  margin: "10px",
+                  padding: !this.state.america && "10px",
+                  margin: !this.state.america && "10px",
                   width: "calc(100% - 40px)",
                   border: "1px solid"
                 }}
@@ -5760,8 +5850,8 @@ export default class Basic extends React.Component {
                 style={{
                   backgroundColor: "cornflowerblue",
                   color: "white",
-                  padding: "10px",
-                  margin: "10px",
+                  padding: !this.state.america && "10px",
+                  margin: !this.state.america && "10px",
                   width: "calc(100% - 40px)",
                   border: "1px solid"
                 }}
@@ -5788,8 +5878,8 @@ export default class Basic extends React.Component {
                 style={{
                   backgroundColor: "white",
                   color: "black",
-                  padding: "10px",
-                  margin: "10px",
+                  padding: !this.state.america && "10px",
+                  margin: !this.state.america && "10px",
                   width: "calc(100% - 40px)",
                   border: "1px solid"
                 }}
@@ -5811,7 +5901,7 @@ export default class Basic extends React.Component {
                   style={{
                     backgroundColor: "grey",
                     color: "white",
-                    padding: "10px",
+                    padding: !this.state.america && "10px",
                     margin: "4px 0px",
                     width: "calc(100% - 40px)",
                     border: "1px solid"
@@ -6018,8 +6108,8 @@ export default class Basic extends React.Component {
             <br />
             <div
               style={{
-                padding: "10px",
-                margin: "10px",
+                padding: !this.state.america && "10px",
+                margin: !this.state.america && "10px",
                 width: "calc(100% - 40px)"
               }}
             >
@@ -6098,8 +6188,8 @@ export default class Basic extends React.Component {
                   style={{
                     color: "white",
                     backgroundColor: "rgb(195, 151, 103)",
-                    padding: "10px",
-                    margin: "10px",
+                    padding: !this.state.america && "10px",
+                    margin: !this.state.america && "10px",
                     width: "calc(100% - 40px)"
                   }}
                 >
@@ -6118,8 +6208,8 @@ export default class Basic extends React.Component {
                     style={{
                       backgroundColor: "cornflowerblue",
                       color: "black",
-                      padding: "10px",
-                      margin: "10px",
+                      padding: !this.state.america && "10px",
+                      margin: !this.state.america && "10px",
                       width: "calc(100% - 40px)",
                       border: "1px solid" //not only "often" but every time "the minority view is true" for every truth, of course
                     }}
@@ -6154,8 +6244,8 @@ export default class Basic extends React.Component {
                     style={{
                       backgroundColor: "grey",
                       color: "white",
-                      padding: "10px",
-                      margin: "10px",
+                      padding: !this.state.america && "10px",
+                      margin: !this.state.america && "10px",
                       width: "calc(100% - 40px)",
                       border: "1px solid" //not only "often" but every time "the minority view is true" for every truth, of course
                     }}
@@ -6225,8 +6315,8 @@ export default class Basic extends React.Component {
               style={{
                 backgroundColor: "white",
                 color: "black",
-                padding: "10px",
-                margin: "10px",
+                padding: !this.state.america && "10px",
+                margin: !this.state.america && "10px",
                 width: "calc(100% - 40px)",
                 border: "1px solid"
               }}
@@ -6266,8 +6356,8 @@ export default class Basic extends React.Component {
                 style={{
                   backgroundColor: "white",
                   color: "black",
-                  padding: "10px",
-                  margin: "10px",
+                  padding: !this.state.america && "10px",
+                  margin: !this.state.america && "10px",
                   width: "calc(100% - 40px)",
                   border: "1px solid"
                 }}
@@ -6447,7 +6537,7 @@ export default class Basic extends React.Component {
                   height: "400px",
                   overflowY: "auto",
                   overflowX: "hidden",
-                  margin: "10px",
+                  margin: !this.state.america && "10px",
                   width: "calc(100% - 40px)",
                   border: "1px solid" //vote your age [squirrel]
                   //would you as a ranked choice voter vote approval condorcet for all your rankings, or are your eliminated choices
@@ -6459,7 +6549,7 @@ export default class Basic extends React.Component {
                 <div
                   style={{
                     position: "absolute",
-                    padding: "10px",
+                    padding: !this.state.america && "10px",
                     width: "calc(100% - 20px)"
                   }}
                 >
@@ -6608,7 +6698,7 @@ export default class Basic extends React.Component {
                       transition: ".3s ease-in",
                       width: "max-content",
                       maxWidth: "calc(100% - 20px)",
-                      padding: "10px",
+                      padding: !this.state.america && "10px",
                       border: "1px solid",
                       backgroundColor: "cornflowerblue"
                     }}
@@ -6671,8 +6761,8 @@ export default class Basic extends React.Component {
               style={{
                 color: "white",
                 backgroundColor: "rgb(22,22,222)",
-                padding: "10px",
-                margin: "10px",
+                padding: !this.state.america && "10px",
+                margin: !this.state.america && "10px",
                 width: "calc(100% - 40px)"
               }}
             >
@@ -6701,8 +6791,8 @@ export default class Basic extends React.Component {
                 style={{
                   backgroundColor: "grey",
                   color: "white",
-                  padding: "10px",
-                  margin: "10px",
+                  padding: !this.state.america && "10px",
+                  margin: !this.state.america && "10px",
                   width: "calc(100% - 40px)",
                   border: "1px solid" //not only "often" but every time "the minority view is true" for every truth, of course
                 }}
@@ -7021,8 +7111,8 @@ export default class Basic extends React.Component {
                 style={{
                   backgroundColor: "grey",
                   color: "white", //"consensus but not entity-indicate [exhibit]"
-                  padding: "10px",
-                  margin: "10px", //"certain experts on the *future*" policy,
+                  padding: !this.state.america && "10px",
+                  margin: !this.state.america && "10px", //"certain experts on the *future*" policy,
                   width: "calc(100% - 40px)",
                   border: "1px solid" //not only "often" but every time "the minority view is true" for every truth, of course
                 }}
@@ -7095,8 +7185,8 @@ export default class Basic extends React.Component {
             <div
               style={{
                 color: "white",
-                padding: "10px",
-                margin: "10px",
+                padding: !this.state.america && "10px",
+                margin: !this.state.america && "10px",
                 width: "calc(100% - 40px)", //christian guilt (a condition)
                 border: "1px solid", //freedom freedom of speech Trump right conservative
                 backgroundColor: "rgb(22, 93, 49)"
@@ -7138,8 +7228,8 @@ export default class Basic extends React.Component {
               <div
                 style={{
                   color: "black",
-                  padding: "10px",
-                  margin: "10px",
+                  padding: !this.state.america && "10px",
+                  margin: !this.state.america && "10px",
                   width: "calc(100% - 40px)",
                   border: "1px solid",
                   backgroundColor: "rgb(252, 255, 179)"
@@ -7291,8 +7381,8 @@ export default class Basic extends React.Component {
               <div
                 style={{
                   color: "black",
-                  padding: "10px",
-                  margin: "10px",
+                  padding: !this.state.america && "10px",
+                  margin: !this.state.america && "10px",
                   width: "calc(100% - 40px)",
                   border: "1px solid",
                   backgroundColor: "rgb(252, 255, 179)"
@@ -7770,24 +7860,24 @@ export default class Basic extends React.Component {
         */}
             <div
               style={{
-                padding: "10px",
-                margin: "10px",
+                padding: !this.state.america && "10px",
+                margin: !this.state.america && "10px",
                 width: "calc(100% - 40px)"
               }}
             >
               Is debt, insurance, and rent “free enterprise?”
               <div
                 style={{
-                  padding: "10px",
-                  margin: "10px",
+                  padding: !this.state.america && "10px",
+                  margin: !this.state.america && "10px",
                   width: "calc(100% - 40px)"
                 }}
               >
                 Is it possible to create non labor based Value?
                 <div
                   style={{
-                    padding: "10px",
-                    margin: "10px",
+                    padding: !this.state.america && "10px",
+                    margin: !this.state.america && "10px",
                     width: "calc(100% - 40px)"
                   }}
                 >
@@ -7927,8 +8017,8 @@ export default class Basic extends React.Component {
             Richard Stephens: Actually read Marx.
             <div
               style={{
-                padding: "10px",
-                margin: "10px",
+                padding: !this.state.america && "10px",
+                margin: !this.state.america && "10px",
                 width: "calc(100% - 40px)"
               }}
             >
@@ -7949,8 +8039,8 @@ export default class Basic extends React.Component {
               <br />
               <div
                 style={{
-                  padding: "10px",
-                  margin: "10px",
+                  padding: !this.state.america && "10px",
+                  margin: !this.state.america && "10px",
                   width: "calc(100% - 40px)"
                 }}
               >
@@ -8026,8 +8116,8 @@ export default class Basic extends React.Component {
               </i>
               <div
                 style={{
-                  padding: "10px",
-                  margin: "10px",
+                  padding: !this.state.america && "10px",
+                  margin: !this.state.america && "10px",
                   width: "calc(100% - 40px)"
                 }}
               >
@@ -8154,7 +8244,7 @@ export default class Basic extends React.Component {
                 transition: ".3s ease-in",
                 width: "max-content",
                 maxWidth: "calc(100% - 20px)",
-                padding: "10px",
+                padding: !this.state.america && "10px",
                 border: "1px solid",
                 backgroundColor: "cadetblue"
               }}
@@ -8709,7 +8799,7 @@ export default class Basic extends React.Component {
             )}
             <div
               style={{
-                padding: "10px",
+                padding: !this.state.america && "10px",
                 color: "white",
                 transition: ".3s ease-in",
                 width: "max-content",
@@ -8721,7 +8811,7 @@ export default class Basic extends React.Component {
               <div
                 style={{
                   borderLeft: "2px solid",
-                  padding: "10px",
+                  padding: !this.state.america && "10px",
                   color: "white",
                   transition: ".3s ease-in",
                   width: "max-content",
@@ -8749,7 +8839,7 @@ export default class Basic extends React.Component {
               <div
                 style={{
                   borderLeft: "2px solid",
-                  padding: "10px",
+                  padding: !this.state.america && "10px",
                   color: "white",
                   transition: ".3s ease-in",
                   width: "max-content",
