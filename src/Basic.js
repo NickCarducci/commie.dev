@@ -305,6 +305,16 @@ export default class Basic extends React.Component {
               }}
             >
               <a href="https://venmo.com/nickcarducci">donate</a>
+              {/**https://cash.app/$vaumoney fee business - no other bank?
+              Circle,
+              Can I fund my account personally? I’ve managed to open a Vaumoney account
+              on cash app, but would like to avoid the percentage payout if I can.
+              Perhaps I can just spend exempt, non-connected contributions from
+              this account too, but I will probably fund usdc omnibus gateway deposit
+              from my personal, directly. I likely will not use the payments api,
+              and perhaps not even the payout api until I need to. Best, Nick Carducci
+              
+              */}
             </div>
           </div>
           Why did Friederik Engels, a capitalist factory owner with a nice
@@ -7121,7 +7131,26 @@ export default class Basic extends React.Component {
                   border: "1px solid" //not only "often" but every time "the minority view is true" for every truth, of course
                 }}
               >
-                <h4>HumanHarvest.info</h4>
+                <div
+                  style={{
+                    backgroundColor: "grey",
+                    color: "white",
+                    padding: !this.state.america && "6px",
+                    margin: !this.state.america && "6px",
+                    width: "calc(100% - 40px)",
+                    border: "1px dotted"
+                  }}
+                >
+                  <h4>HumanHarvest.info</h4>
+                  Circle, Can I fund my account personally? I’ve managed to open
+                  a Vaumoney account on cash app, but would like to avoid the
+                  percentage payout if I can. Perhaps I can just spend exempt,
+                  non-connected contributions from this account too, but I will
+                  probably fund usdc omnibus gateway deposit from my personal,
+                  directly. I likely will not use the payments api, and perhaps
+                  not even the payout api until I need to. Best, Nick Carducci
+                </div>
+                <br />
                 The{space}
                 <a
                   style={{
