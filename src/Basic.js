@@ -486,8 +486,12 @@ export default class Basic extends React.Component {
           >
             donate
           </div>
+          Recession without inflation should make it easier to hired
+          <br />
+          <br />
           T0: human action deflates investment. more kuznets; contracts
-          <br/><br/>
+          <br />
+          <br />
           Is inflation, deflation, or foreclosure instead of reverse service and
           repo the cause of the Great Depression?
           <br />
@@ -8924,4 +8928,3 @@ export default class Basic extends React.Component {
       );
   }
 }
-
