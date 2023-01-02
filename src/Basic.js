@@ -486,6 +486,10 @@ export default class Basic extends React.Component {
           >
             donate
           </div>
+          ​I've found stolen purchase contract splits the party.
+          <br />
+          personal fiduciary account lmao.
+          <br />
           Recession without inflation should make it easier to hired
           <br />
           <br />
