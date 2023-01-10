@@ -5630,6 +5630,16 @@ export default class Basic extends React.Component {
                   border: "1px solid"
                 }}
               >
+                <div
+                  style={{
+                  
+                    color: "white",
+                    backgroundColor: "cornflowerblue",
+                    float: "right"
+                  }}
+                >
+                  NEW okay: Go die not drop dead (1/10/2022)
+                </div>
                 Political Treatise then Rousseau
                 <h4 style={{ margin: "4px 0px" }}>The Anti-Mod</h4>
                 Abide. Hate - Non-developmentally nor injuriously disabled
