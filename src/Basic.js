@@ -486,7 +486,17 @@ export default class Basic extends React.Component {
           >
             donate
           </div>
-          ​I've found stolen purchase contract splits the party.
+          Is a convenient yield for compulsory extra-indemnity amelioration of
+          plaintiff taxes deadly?{space}
+          <a href="https://reddit.com/r/thetaxparty">Uniform Liberty</a>
+          <br />
+          <br />
+          ​I've found stolen purchase contract splits the party (and human
+          action is{space}
+          <a href="https://thepolicestate.quora.com/Is-getcovered-NJ-gov-nurse-scheduling-and-southwest-airline-pilot-scheduling-pricing-mandated-to-be-ameliorated-per-diem">
+            a scheduling issue
+          </a>
+          ).
           <br />
           personal fiduciary account lmao.
           <br />
@@ -5632,7 +5642,6 @@ export default class Basic extends React.Component {
               >
                 <div
                   style={{
-                  
                     color: "white",
                     backgroundColor: "cornflowerblue",
                     float: "right"
