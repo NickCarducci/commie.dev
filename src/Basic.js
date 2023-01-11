@@ -482,7 +482,7 @@ export default class Basic extends React.Component {
               top: "0px",
               cursor: "pointer"
             }}
-            onClick={() => this.setState({ donor: true })}
+            onClick={() => this.setState({ donor: true })}//Unlike Velocity Rate
           >
             donate
           </div>
@@ -718,7 +718,7 @@ export default class Basic extends React.Component {
                   border: "1px solid"
                 }}
               >
-                {this.state.america && (
+                {!this.state.america && (
                   <Cable
                     style={{ height: "300px" }}
                     onError={handleScollImgError}
