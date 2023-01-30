@@ -486,6 +486,13 @@ export default class Basic extends React.Component {
           >
             donate
           </div>
+          Windfall layoffs: real, non deflationary layoffs, no questions asked (
+          <a href="https://quant.stackexchange.com/questions/74289/are-stablecoins-stable-if-the-merchant-processor-uses-fiat-currencies-or-insuran">
+            2015
+          </a>
+          ). Expiring commodities and scalped schedules, combines budget
+          constraints and consumer fraud independent non regular but custom and
+          closed or else open.
           <h3>
             Let ability garner needs: Don’t contracts make non-deflationary
             investment layoffs in the long term?
