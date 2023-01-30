@@ -482,10 +482,14 @@ export default class Basic extends React.Component {
               top: "0px",
               cursor: "pointer"
             }}
-            onClick={() => this.setState({ donor: true })}//Unlike Velocity Rate
+            onClick={() => this.setState({ donor: true })} //Unlike Velocity Rate
           >
             donate
           </div>
+          <h3>
+            Let ability garner needs: Don’t contracts make non-deflationary
+            investment layoffs in the long term?
+          </h3>
           Is a convenient yield for compulsory extra-indemnity amelioration of
           plaintiff taxes deadly?{space}
           <a href="https://reddit.com/r/thetaxparty">Uniform Liberty</a>
