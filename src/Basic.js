@@ -471,6 +471,8 @@ export default class Basic extends React.Component {
         broke at a higher level expenses and not working (lazy/soft)
         How is deviance delineated from incompetence to stand trial? (last meal was a speech)
         This is why welfare for anyone but the injured is worse than usufruct mutual aid.
+
+        contract exchange imports
            */
           }}
         >
@@ -487,8 +489,12 @@ export default class Basic extends React.Component {
             donate
           </div>
           <h3>
-            Bonds are safe assets, implausible use ascertained universal harm
-            1031 scoped proprietorship rental income
+            contract exchange imports{space}
+            <span role="img" aria-label="side-splitting laughter">
+              🤣
+            </span>
+            {space}Bonds are safe assets, implausible use ascertained universal
+            harm 1031 scoped proprietorship rental income
           </h3>
           Commie is GOP, just more{space}
           <a href="https://vaults.biz/immi">imports</a>
