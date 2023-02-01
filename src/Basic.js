@@ -486,9 +486,16 @@ export default class Basic extends React.Component {
           >
             donate
           </div>
-          Commie is GOP, just more imports until sound vault share. Do you agree
-          with economists that deflation is worse than inflation? Do you agree
-          with Jerome Powell that 2% annual inflation helps Americans?
+          <h3>
+            Bonds are safe assets, implausible use ascertained universal harm
+            1031 scoped proprietorship rental income
+          </h3>
+          Commie is GOP, just more{space}
+          <a href="https://vaults.biz/immi">imports</a>
+          {space}until{space}
+          <a href="https://saverparty.xyz/global">sound vault share</a>. Do you
+          agree with economists that deflation is worse than inflation? Do you
+          agree with Jerome Powell that 2% annual inflation helps Americans?
           <h3>
             Does the government need to{space}
             <a href="https://vau.money/login">spend in line with crime</a>?
