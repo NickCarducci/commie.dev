@@ -486,6 +486,9 @@ export default class Basic extends React.Component {
           >
             donate
           </div>
+          Commie is GOP, just more imports until sound vault share.
+          <br />
+          <br />
           Windfall layoffs: real, non deflationary layoffs, no questions asked (
           <a href="https://quant.stackexchange.com/questions/74289/are-stablecoins-stable-if-the-merchant-processor-uses-fiat-currencies-or-insuran">
             2015
