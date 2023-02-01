@@ -489,8 +489,10 @@ export default class Basic extends React.Component {
           Commie is GOP, just more imports until sound vault share. Do you agree
           with economists that deflation is worse than inflation? Do you agree
           with Jerome Powell that 2% annual inflation helps Americans?
-          <br />
-          <br />
+          <h3>
+            Does the government need to{space}
+            <a href="https://vau.money/login">spend in line with crime</a>?
+          </h3>
           Windfall layoffs: real, non deflationary layoffs, no questions asked (
           <a href="https://quant.stackexchange.com/questions/74289/are-stablecoins-stable-if-the-merchant-processor-uses-fiat-currencies-or-insuran">
             2015
