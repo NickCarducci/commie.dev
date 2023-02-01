@@ -486,7 +486,9 @@ export default class Basic extends React.Component {
           >
             donate
           </div>
-          Commie is GOP, just more imports until sound vault share.
+          Commie is GOP, just more imports until sound vault share. Do you agree
+          with economists that deflation is worse than inflation? Do you agree
+          with Jerome Powell that 2% annual inflation helps Americans?
           <br />
           <br />
           Windfall layoffs: real, non deflationary layoffs, no questions asked (
