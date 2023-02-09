@@ -33,6 +33,7 @@ export default class Basic extends React.Component {
     this.guild = React.createRef();
     this.liberal = React.createRef();
     this.mod = React.createRef();
+    this.work = React.createRef();
   }
   componentDidMount = () => {
     window.addEventListener("resize", this.refresh);
@@ -55,7 +56,7 @@ export default class Basic extends React.Component {
     };*/
   };
   check = (pathname) => {
-    if (pathname !== "/") {
+    if (!["/"].includes(pathname)) {
       this.setState({ donor: false }, () => {
         if (pathname === "/plaintiff") {
           window.scroll(0, this.plaintiff.current.offsetTop);
@@ -98,6 +99,8 @@ export default class Basic extends React.Component {
           window.scroll(0, this.liberal.current.offsetTop);
         } else if (["/mod"].includes(pathname)) {
           window.scroll(0, this.mod.current.offsetTop);
+        } else if (["/work"].includes(pathname)) {
+          window.scroll(0, this.work.current.offsetTop);
         }
       }); //whom dumb (happens, me)
     } else this.setState({ america: true });
@@ -473,6 +476,8 @@ export default class Basic extends React.Component {
         This is why welfare for anyone but the injured is worse than usufruct mutual aid.
 
         contract exchange imports
+
+        zombie physiological nonsense humanharvest.info
            */
           }}
         >
@@ -1624,12 +1629,10 @@ export default class Basic extends React.Component {
               guilded
             </a>
             {space}age
-            {this.state.america && (
-              <h3 style={{ margin: "4px 0px" }}>
-                Isn't technical growth deflationary while dynamic efficiency
-                retractable?
-              </h3>
-            )}
+            <h3 ref={this.work} style={{ margin: "4px 0px" }}>
+              Isn't technical growth deflationary while dynamic efficiency
+              retractable?
+            </h3>
             What is the use of education but secrets?{space}
             <a
               style={{ backgroundColor: "navy", color: "white" }}
