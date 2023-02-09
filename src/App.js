@@ -54,7 +54,8 @@ export default class App extends React.Component {
         "/liberals",
         "/liberal",
         "/mod",
-        "/mods"
+        "/mods",
+        "/work"
       ].includes(this.state.p)
     ) {
       this.setState({ basic: false });
