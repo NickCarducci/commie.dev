@@ -547,7 +547,12 @@ export default class Basic extends React.Component {
           non-deflationary hour of work good for tools? Does a persistent
           economic equalization include or deduct non-deflationary hours worked?
           <h2>
-            ​petit bourgoisie is trade secret; caps renegged MONTHLY, aoc LIES
+            ​petit bourgoisie is trade /
+            <a href="https://www.intel.com/content/www/us/en/security/confidential-computing.html">
+              <span style={{ textDecoration: "line-through" }}>ibm</span>
+              {space}Intel
+            </a>
+            ; caps renegged MONTHLY, aoc LIES
           </h2>
           ​checking still is triple so if that isn't your balance and you live
           in nj 2024nj.com/carducci; shareholder revenuedata.doi.gov review and
