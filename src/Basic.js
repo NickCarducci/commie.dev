@@ -524,6 +524,12 @@ export default class Basic extends React.Component {
               );
             })}
           </div>
+          <b>Important information</b>; implausible foreseeable non-inflationary
+          nor deflationary real liquidity nor shrinkflation; Is a
+          non-deflationary hour of work good for tools? Does a persistent
+          economic equalization include or deduct non-deflationary hours worked?
+          <br />
+          <br />
           join wipo maybe it would solve it; tangible, outright withstanding
           markets; advanced payments, but to get out present value interest and
           only with insurance and student loans education and direct payments
