@@ -493,6 +493,22 @@ export default class Basic extends React.Component {
           >
             donate
           </div>
+          Already tax breaks for getting out of debt. Would out-of-pocket
+          payments be tax-free if there were no insurance? They admit by policy
+          the accelerating(ly)-inflation(ary) effects.
+          <br />
+          White House to refinance student loans with pipe.
+          <h4>
+            There is no cdc statistician that is paid by{space}
+            <a href="https://humanharvest.info">another industry</a>.
+          </h4>
+          Joint accounts can standardized guarantees; right to trade but not
+          contract.{space}
+          <a href="https://jester.com.co">Retarded</a>
+          {space}by ability or action; let ability determine your needs
+          <br />
+          Maybe sue the government as a whole by international associations; at
+          least, war is ok for human right; currency is deeds.
           <h3>
             contract exchange imports{space}
             <span role="img" aria-label="side-splitting laughter">
