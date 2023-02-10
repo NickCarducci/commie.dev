@@ -564,7 +564,8 @@ export default class Basic extends React.Component {
             <i>the liberal reward of trade</i>, should have an outstanding
             withstanding market primary resident 1520 trust, at least if not
             explicitly used, divided by customer accounts with payments
-            received. ...implicit tax advantaged outright withstanding social security account ;)
+            received. ...implicit tax advantaged outright withstanding social
+            security account ;)
           </h3>
           <a href="https://hibit.cc">join wipo</a>
           {space}maybe it would solve it; tangible, outright withstanding
@@ -757,6 +758,10 @@ export default class Basic extends React.Component {
               backgroundColor: "cornflowerblue"
             }}
           >
+            <h4 style={{ margin: "4px 0px" }}>
+              Would you prefer to work for a mortgage or save up for a tax
+              exempt primary residence and rent? (Medic benefactors)
+            </h4>
             petit bourgoisie is trade secret
             <br />
             you need to have kids to live with property? or be a HUD benefactor
@@ -769,7 +774,8 @@ export default class Basic extends React.Component {
             withstanding market
             <br />
             Fuck school
-            <br />i can organize fucking rec teams
+            <br />i can organize{space}
+            <a href="https://wavv.art/test3">fucking rec teams</a>
           </div>
           Don't Republicans usually trade border control for more spending when
           it comes to the debt ceiling?
