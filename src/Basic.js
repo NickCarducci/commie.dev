@@ -552,7 +552,8 @@ export default class Basic extends React.Component {
               <span style={{ textDecoration: "line-through" }}>ibm</span>
               {space}Intel
             </a>
-            ; caps renegged MONTHLY, aoc LIES
+            ; caps renegged MONTHLY, aoc LIES; anonymous identity provider and
+            tamper proof grid
           </h2>
           ​checking still is triple so if that isn't your balance and you live
           in nj 2024nj.com/carducci; shareholder revenuedata.doi.gov review and
