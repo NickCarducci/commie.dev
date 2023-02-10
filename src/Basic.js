@@ -514,7 +514,11 @@ export default class Basic extends React.Component {
               "/guilds",
               "/liberals",
               "/mod",
-              "/work"
+              "/work",
+              "/anarchy",
+              "/taxes",
+              "/economics",
+              "/management"
             ].map((x) => {
               //console.log(window.location.origin + x);
               return (
@@ -530,7 +534,8 @@ export default class Basic extends React.Component {
           economic equalization include or deduct non-deflationary hours worked?
           <br />
           <br />
-          join wipo maybe it would solve it; tangible, outright withstanding
+          <a href="https://hibit.cc">join wipo</a>
+          {space}maybe it would solve it; tangible, outright withstanding
           markets; advanced payments, but to get out present value interest and
           only with insurance and student loans education and direct payments
           (access or benefactors?); NOT incentivize, we all swear by being here.
