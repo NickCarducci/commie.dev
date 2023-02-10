@@ -493,7 +493,7 @@ export default class Basic extends React.Component {
           >
             donate
           </div>
-          <h1>Sex bots</h1>
+          <h1>Sex bots: intraclass replication</h1>
           Not a good look for brown people. and the energy grid peeps fall for
           phishing; youtube likes it like that and the energy grid peeps fall
           for phishing
