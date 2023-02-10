@@ -564,7 +564,7 @@ export default class Basic extends React.Component {
             <i>the liberal reward of trade</i>, should have an outstanding
             withstanding market primary resident 1520 trust, at least if not
             explicitly used, divided by customer accounts with payments
-            received.
+            received. ...implicit tax advantaged outright withstanding social security account ;)
           </h3>
           <a href="https://hibit.cc">join wipo</a>
           {space}maybe it would solve it; tangible, outright withstanding
