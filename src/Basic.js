@@ -514,7 +514,8 @@ export default class Basic extends React.Component {
           payments be tax-free if there were no insurance? They admit by policy
           the accelerating(ly)-inflation(ary) effects.
           <br />
-          White House to refinance student loans with pipe.
+          White House to refinance student loans with pipe.io
+          <h2>the police will help us make a commercial legislation</h2>
           <h4>
             There is no cdc statistician that is paid by{space}
             <a href="https://humanharvest.info">another industry</a>.
@@ -577,11 +578,15 @@ export default class Basic extends React.Component {
           <br />
           Is inflation, deflation, or foreclosure instead of reverse service and
           repo the cause of the Great Depression?
-          <br />
-          <br />
-          dance to boycott credit f the working class generally. Isn't CEO pay a
-          fraction of the value added as a share of GDP by finance (90%
-          principal over down payment)?{space}
+          <h2>
+            <a href="https://saverparty.xyz">Dollar vote</a>,{space}
+            <a href="https://reverseamortization.quora.com">reverse</a>,{space}
+            <a href="https://thetax.party">tax</a>
+          </h2>
+          dance to boycott credit{space}
+          <a href="https://micro-theory.com">f the working class, generally</a>.
+          Isn't CEO pay a fraction of the value added as a share of GDP by
+          finance (90% principal over down payment)?{space}
           <b>Are prices the purpose of microeconomic utility?</b>
           {space}They went back for them (Was{space}
           <a href="https://truncatedwholesaletax.com">slavery</a>
