@@ -581,7 +581,8 @@ export default class Basic extends React.Component {
           <h2>
             <a href="https://saverparty.xyz">Dollar vote</a>,{space}
             <a href="https://reverseamortization.quora.com">reverse</a>,{space}
-            <a href="https://thetax.party">tax</a>
+            <a href="https://taxsecurityfirst.com">tax</a>: above 35?
+            sayists@icloud.com, even males that get spray tans
           </h2>
           dance to boycott credit{space}
           <a href="https://micro-theory.com">f the working class, generally</a>.
