@@ -493,6 +493,60 @@ export default class Basic extends React.Component {
           >
             donate
           </div>
+          <div
+            style={{
+              display: "flex",
+              flexWrap: "wrap"
+            }}
+          >
+            {[
+              "/plaintiff",
+              "/recession",
+              "/capitalism",
+              "/police",
+              "/voting",
+              "/banks",
+              "/property",
+              "/domain",
+              "/cukl",
+              "/utopia",
+              "/jobs",
+              "/guilds",
+              "/liberals",
+              "/mod",
+              "/work"
+            ].map((x) => {
+              //console.log(window.location.origin + x);
+              return (
+                <div style={{ padding: "4px 8px" }}>
+                  <a href={window.location.origin + x}>{x}</a>
+                </div>
+              );
+            })}
+          </div>
+          {/**prison, you have to go to prison? jc */}
+          <Cable
+            style={{ maxWidth: "600px", width: "100%" }}
+            onError={handleScollImgError}
+            img={true}
+            src={
+              this.state.noyout
+                ? ""
+                : "https://www.dropbox.com/s/keyk09qf47bv52e/Screen%20Shot%202023-02-10%20at%203.15.27%20PM.png?raw=1"
+            }
+            float={"right"}
+            title="2/10/2023 white house karine fiscal responsibility, the debt ceiling, and safe assets"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + scrollnum()]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          <br />
+          ​benefactors of the supplemental poverty measure resetting
+          <h3>Network effect permits, parachutes on duty; save the rats</h3>
+          would out of pocket and direct payments to schools be tax free without
+          finance? the tax value present interest payments are not a
+          disincentive
           <h1>Sex bots: intraclass replication</h1>
           Not a good look for brown people. and the energy grid peeps fall for
           phishing; youtube likes it like that and the energy grid peeps fall
@@ -504,12 +558,14 @@ export default class Basic extends React.Component {
           <i>
             i apologize if that hasn't to do with already bizarre polythesism
           </i>
-          <br />
-          I won’t count personal nor dollar bond in industry proprietor payday
-          and interior vote after reversing stolen purchases or intractable
-          stock
-          <br />
-          <br />
+          <br />I won’t count personal nor dollar bond in industry proprietor
+          payday and interior vote after reversing stolen purchases or
+          intractable stock
+          <h3>
+            be aware o phishing emails and use ssl energy grid peeps; a magnate
+            partnership of context
+          </h3>
+          <h2>probate uncollateralize retroactive</h2>
           Already tax breaks for getting out of debt. Would out-of-pocket
           payments be tax-free if there were no insurance? They admit by policy
           the accelerating(ly)-inflation(ary) effects.
