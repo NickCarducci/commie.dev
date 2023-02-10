@@ -56,20 +56,9 @@ class App extends React.Component {
         //another day, scalp indigeonious, boys will be bous
         window.scroll(0, this.props.taxes.current.offsetTop);
       });
-    }
-    if (pathname === "/plaintiff") {
-      window.scroll(0, this.plaintiff.current.offsetTop);
-    } else if (pathname === "/recession") {
-      window.scroll(0, this.recession.current.offsetTop);
-    } else if (pathname === "/socialcapital") {
-      window.scroll(0, this.socialcapital.current.offsetTop);
-    } else if (pathname === "/police") {
-      window.scroll(0, this.police.current.offsetTop);
-    } else if (pathname === "/voting") {
-      window.scroll(0, this.voting.current.offsetTop);
-    } else if (["economics", "econ"].includes(pathname)) {
+    } else if (["/economics", "/econ"].includes(pathname)) {
       window.scroll(0, this.economics.current.offsetTop);
-    } else if (["manage", "management"].includes(pathname)) {
+    } else if (["/manage", "/management"].includes(pathname)) {
       window.scroll(0, this.management.current.offsetTop);
     }
   };
