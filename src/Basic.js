@@ -523,7 +523,10 @@ export default class Basic extends React.Component {
               //console.log(window.location.origin + x);
               return (
                 <div style={{ padding: "4px 8px" }}>
-                  <a href={window.location.origin + x}>{x}</a>
+                  <a href={window.location.origin + x}>
+                    {(x === "/work" ? "child" : "") + x ? space : ""}
+                    {x}
+                  </a>
                 </div>
               );
             })}
@@ -532,8 +535,9 @@ export default class Basic extends React.Component {
           nor deflationary real liquidity nor shrinkflation; Is a
           non-deflationary hour of work good for tools? Does a persistent
           economic equalization include or deduct non-deflationary hours worked?
-          <br />
-          <br />
+          <h2>
+            ​petit bourgoisie is trade secret; caps renegged MONTHLY, aoc LIES
+          </h2>
           <a href="https://hibit.cc">join wipo</a>
           {space}maybe it would solve it; tangible, outright withstanding
           markets; advanced payments, but to get out present value interest and
@@ -717,7 +721,28 @@ export default class Basic extends React.Component {
           Why does the University of Chicago say subsidy is required for rich
           entrepreneurs?
           <br />
-          <br />
+          <div
+            style={{
+              padding: "10px",
+              margin: "10px",
+              border: "1px dotted",
+              backgroundColor: "cornflowerblue"
+            }}
+          >
+            petit bourgoisie is trade secret
+            <br />
+            you need to have kids to live with property? or be a HUD benefactor
+            <br />
+            weekend shooters because no school
+            <br />
+            truancy is what it means
+            <br />
+            kids should have enough saved in a tax advantaged outright
+            withstanding market
+            <br />
+            Fuck school
+            <br />i can organize fucking rec teams
+          </div>
           Don't Republicans usually trade border control for more spending when
           it comes to the debt ceiling?
           <br />
