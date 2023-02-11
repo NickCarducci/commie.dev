@@ -533,7 +533,10 @@ export default class Basic extends React.Component {
           </div>
           <h4>
             Are either fewer profits, lower wages, or less income ever not worth
-            the same material outcomes?
+            the same material outcomes? Does everyone like productivity growth
+            without thereafter deflation? Does a recession harm anyone more than
+            its acceleratingly-inflationary covalent layoffs? When does a layoff
+            ever cause inflation anyway?
           </h4>
           I am here to destroy jobs
           {/**temp infrastructure improves deflationary */}
