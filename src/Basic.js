@@ -531,6 +531,8 @@ export default class Basic extends React.Component {
               );
             })}
           </div>
+          How does a degradation of materiality help competitiveness
+          internationally?
           <h4>
             Are either fewer profits, lower wages, or less income ever not worth
             the same material outcomes? Does everyone like productivity growth
