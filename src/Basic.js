@@ -532,12 +532,16 @@ export default class Basic extends React.Component {
             })}
           </div>
           I am here to destroy jobs
+          {/**temp infrastructure improves deflationary */}
           <h3>​non-deflationary layoffs or employment is a problem</h3>
           Is an increase of a worker's real take-home pay thereafter with stable
           prices more often a shareholder loss or shrinkflation? (Larry Kudlow
           is an idiot) Why do economists use real to deduct price changes? Isn't
           real growth either shrinkflation, material waste, persistent
-          equalization, or deflation?
+          equalization, or deflation? Is it controversial to say tariffs are
+          counterproductive or degrading? Aren't forced technology transfers
+          clearly labeled things? How does international trade prevent military
+          spending?
           <h3>
             Universal plaintiff tax yes; magnate partnership{space}
             <a href="https://vau.money/login">extractable</a>
@@ -9168,4 +9172,3 @@ export default class Basic extends React.Component {
       );
   }
 }
-
