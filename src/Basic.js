@@ -531,6 +531,10 @@ export default class Basic extends React.Component {
               );
             })}
           </div>
+          <h4>
+            Are either fewer profits, lower wages, or less income ever not worth
+            the same material outcomes?
+          </h4>
           I am here to destroy jobs
           {/**temp infrastructure improves deflationary */}
           <h3>​non-deflationary layoffs or employment is a problem</h3>
