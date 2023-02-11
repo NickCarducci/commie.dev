@@ -539,9 +539,10 @@ export default class Basic extends React.Component {
           is an idiot) Why do economists use real to deduct price changes? Isn't
           real growth either shrinkflation, material waste, persistent
           equalization, or deflation? Is it controversial to say tariffs are
-          counterproductive or degrading? Aren't forced technology transfers
-          clearly labeled things? How does international trade prevent military
-          spending?
+          counterproductive or degrading? Is a technology transfer confidential
+          computing for pre-revenue businesses or clearly labeled trade? Aren't
+          forced technology transfers clearly labeled things? How does
+          international trade prevent military spending?
           <h3>
             Universal plaintiff tax yes; magnate partnership{space}
             <a href="https://vau.money/login">extractable</a>
