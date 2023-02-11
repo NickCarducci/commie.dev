@@ -531,6 +531,8 @@ export default class Basic extends React.Component {
               );
             })}
           </div>
+          I am here to destroy jobs
+          <h3>​non-deflationary layoffs or employment is a problem</h3>
           Is an increase of a worker's real take-home pay thereafter with stable
           prices more often a shareholder loss or shrinkflation? (Larry Kudlow
           is an idiot) Why do economists use real to deduct price changes? Isn't
@@ -9166,3 +9168,4 @@ export default class Basic extends React.Component {
       );
   }
 }
+
