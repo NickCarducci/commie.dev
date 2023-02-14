@@ -561,7 +561,10 @@ export default class Basic extends React.Component {
             its acceleratingly-inflationary covalent layoffs? When does a layoff
             ever cause inflation anyway?
           </h4>
-          I am here to destroy jobs
+          <h2>Immediately transactional or Temporal funk?</h2>I am here to
+          destroy jobs; Stephen Moore (the antifascist) would use congressional
+          debt for anything over deficits for only real plaintiff coverage. eula
+          can do anything until someone complains.
           {/**temp infrastructure improves deflationary */}
           <h3>​non-deflationary layoffs or employment is a problem</h3>
           Is an increase of a worker's real take-home pay thereafter with stable
