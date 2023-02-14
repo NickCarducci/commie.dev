@@ -561,10 +561,10 @@ export default class Basic extends React.Component {
             its acceleratingly-inflationary covalent layoffs? When does a layoff
             ever cause inflation anyway?
           </h4>
-          <h2>Immediately transactional or Temporal funk?</h2>I am here to
-          destroy jobs; Stephen Moore (the antifascist) would use congressional
-          debt for anything over deficits for only real plaintiff coverage. eula
-          can do anything until someone complains.
+          <h2>Immediately transactional or Temporal funk{/*degrade */}?</h2>I am
+          here to destroy jobs; Stephen Moore (the antifascist) would use
+          congressional debt for anything over deficits for only real plaintiff
+          coverage. eula can do anything until someone complains.
           {/**temp infrastructure improves deflationary */}
           <h3>​non-deflationary layoffs or employment is a problem</h3>
           Is an increase of a worker's real take-home pay thereafter with stable
@@ -672,6 +672,10 @@ export default class Basic extends React.Component {
             There is no cdc statistician that is paid by{space}
             <a href="https://humanharvest.info">another industry</a>.
           </h4>
+          <h1>
+            Can severed land be reburied to barter tax-free with advanced
+            payments?
+          </h1>
           <h2>
             Is Trump at fault for warped speed causing sudden cardiac arrest
             deaths of excessively obese 30 and 40-year-olds in the 2020 decade?
