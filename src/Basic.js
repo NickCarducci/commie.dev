@@ -567,140 +567,162 @@ export default class Basic extends React.Component {
           coverage. eula can do anything until someone complains.
           {/**temp infrastructure improves deflationary */}
           <h3>​non-deflationary layoffs or employment is a problem</h3>
-          Is an increase of a worker's real take-home pay thereafter with stable
-          prices more often a shareholder loss or shrinkflation? (Larry Kudlow
-          is an idiot) Why do economists use real to deduct price changes? Isn't
-          real growth either shrinkflation, material waste, persistent
-          equalization, or deflation? Is it controversial to say tariffs are
-          counterproductive or degrading? Is a technology transfer confidential
-          computing for pre-revenue businesses or clearly labeled trade? Aren't
-          forced technology transfers clearly labeled things? How does
-          international trade prevent military spending?
-          <h3>
-            Universal plaintiff tax yes; magnate partnership{space}
-            <a href="https://vau.money/login">extractable</a>
-          </h3>
-          hryvnia is plenty arrable; the election definitely had survey bias;
-          I'm pro intranet? ["Sky net"] desist court autonomy will fold with
-          public docket industry variability and parachutes
-          <h4>
-            "[the business of truth]": implicit tax advantaged outright
-            withstanding social security account... primarily to rebate leisides
-          </h4>
-          <b>Important information</b>; implausible foreseeable non-inflationary
-          nor deflationary real liquidity nor shrinkflation; Is a
-          non-deflationary hour of work good for tools? Does a persistent
-          economic equalization include or deduct non-deflationary hours worked?
-          <h2>
-            ​petit bourgoisie is trade /
-            <a href="https://www.intel.com/content/www/us/en/security/confidential-computing.html">
-              <span style={{ textDecoration: "line-through" }}>ibm</span>
-              {space}Intel
-            </a>
-            ; caps renegged MONTHLY, aoc LIES; anonymous identity provider and
-            tamper proof grid
-          </h2>
-          ​checking still is triple so if that isn't your balance and you live
-          in nj 2024nj.com/carducci; shareholder revenuedata.doi.gov review and
-          permit but{space}
-          <a href="https://thumbprint.us">stakeholder advisement</a>
-          <h3>
-            George Floyd Bank is for the Kids (MAGA communism might very well be
-            right to try trump; especially with dollar vote but hardly thrice
-            checkable - did{space}
-            <a href="https://saverparty.xyz">yours</a>?),{space}
-            <i>the liberal reward of trade</i>, should have an outstanding
-            withstanding market primary resident 1520 trust, at least if not
-            explicitly used, divided by customer accounts with payments
-            received. ...implicit tax advantaged outright withstanding social
-            security account ;)
-          </h3>
-          <a href="https://hibit.cc">join wipo</a>
-          {space}maybe it would solve it; tangible, outright withstanding
-          markets; advanced payments, but to get out present value interest and
-          only with insurance and student loans education and direct payments
-          (access or benefactors?); NOT incentivize, we all swear by being here.
-          {/**prison, you have to go to prison? jc */}
-          <Cable
-            style={{ maxWidth: "600px", width: "100%" }}
-            onError={handleScollImgError}
-            img={true}
-            src={
-              this.state.noyout
-                ? ""
-                : "https://www.dropbox.com/s/keyk09qf47bv52e/Screen%20Shot%202023-02-10%20at%203.15.27%20PM.png?raw=1"
-            }
-            float={"right"}
-            title="2/10/2023 white house karine fiscal responsibility, the debt ceiling, and safe assets"
-            scrolling={this.state.scrolling}
-            fwd={this["scrollImg" + scrollnum()]}
-            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
-            scrollTop={this.state.scrollTop}
-          />
-          <br />
-          ​benefactors of the supplemental poverty measure resetting
-          <h3>Network effect permits, parachutes on duty; save the rats</h3>
-          would out of pocket and direct payments to schools be tax free without
-          finance? the tax value present interest payments are not a
-          disincentive
-          <h1>Sex bots: intraclass replication</h1>
-          Not a good look for brown people. and the energy grid peeps fall for
-          phishing; youtube likes it like that and the energy grid peeps fall
-          for phishing
-          <br />a real john wayne; birthright trumpers bite identity.{space}
-          <a href="https://marginalism.uk">Karma sutra</a>
-          {space}is bizarre
-          <br />
+          Does a recurring temporal, standardized claim, or transactional
+          complementary and extractable partnership fee benefit material
+          recoverability?{space}
           <i>
-            i apologize if that hasn't to do with already bizarre polythesism
+            Does the national accounting economic grade happen to make products
+            after real operational costs or inflationary either labor or
+            material resource depletion?
           </i>
-          <br />I won’t count personal nor dollar bond in industry proprietor
-          payday and interior vote after reversing stolen purchases or
-          intractable stock
-          <h3>
-            be aware o phishing emails and use ssl energy grid peeps; a magnate
-            partnership of context
-          </h3>
-          <h2>probate uncollateralize retroactive</h2>
-          Already tax breaks for getting out of debt. Would out-of-pocket
-          payments be tax-free if there were no insurance? They admit by policy
-          the accelerating(ly)-inflation(ary) effects.
           <br />
-          White House to refinance student loans with pipe.io
-          <h2>the police will help us make a commercial legislation</h2>
-          <h4>
-            There is no cdc statistician that is paid by{space}
-            <a href="https://humanharvest.info">another industry</a>.
-          </h4>
-          <h1>
-            Can severed land be reburied to barter tax-free with advanced
-            payments?
-          </h1>
-          <h2>
-            Is Trump at fault for warped speed causing sudden cardiac arrest
-            deaths of excessively obese 30 and 40-year-olds in the 2020 decade?
-          </h2>
-          Joint accounts can standardized guarantees; right to trade but not
-          contract.{space}
-          <a href="https://jester.com.co">Retarded</a>
-          {space}by ability or action; let ability determine your needs
           <br />
-          Maybe sue the government as a whole by international associations; at
-          least, war is ok for human right; currency is deeds.
-          <h3>
-            contract exchange imports{space}
-            <span role="img" aria-label="side-splitting laughter">
-              🤣
-            </span>
-            {space}Bonds are safe assets, implausible use ascertained universal
-            harm 1031 scoped proprietorship rental income
-          </h3>
-          Commie is GOP, just more{space}
-          <a href="https://vaults.biz/immi">imports</a>
-          {space}until{space}
-          <a href="https://saverparty.xyz/global">sound vault share</a>. Do you
-          agree with economists that deflation is worse than inflation? Do you
-          agree with Jerome Powell that 2% annual inflation helps Americans?
+          <div
+            style={{
+              transition: ".3s ease-in",
+              fontSize: this.state.openWorkers ? "" : "0px"
+            }}
+          >
+            Is an increase of a worker's real take-home pay thereafter with
+            stable prices more often a shareholder loss or shrinkflation? (Larry
+            Kudlow is an idiot) Why do economists use real to deduct price
+            changes? Isn't real growth either shrinkflation, material waste,
+            persistent equalization, or deflation? Is it controversial to say
+            tariffs are counterproductive or degrading? Is a technology transfer
+            confidential computing for pre-revenue businesses or clearly labeled
+            trade? Aren't forced technology transfers clearly labeled things?
+            How does international trade prevent military spending?
+            <h3>
+              Universal plaintiff tax yes; magnate partnership{space}
+              <a href="https://vau.money/login">extractable</a>
+            </h3>
+            hryvnia is plenty arrable; the election definitely had survey bias;
+            I'm pro intranet? ["Sky net"] desist court autonomy will fold with
+            public docket industry variability and parachutes
+            <h4>
+              "[the business of truth]": implicit tax advantaged outright
+              withstanding social security account... primarily to rebate
+              leisides
+            </h4>
+            <b>Important information</b>; implausible foreseeable
+            non-inflationary nor deflationary real liquidity nor shrinkflation;
+            Is a non-deflationary hour of work good for tools? Does a persistent
+            economic equalization include or deduct non-deflationary hours
+            worked?
+            <h2>
+              ​petit bourgoisie is trade /
+              <a href="https://www.intel.com/content/www/us/en/security/confidential-computing.html">
+                <span style={{ textDecoration: "line-through" }}>ibm</span>
+                {space}Intel
+              </a>
+              ; caps renegged MONTHLY, aoc LIES; anonymous identity provider and
+              tamper proof grid
+            </h2>
+            ​checking still is triple so if that isn't your balance and you live
+            in nj 2024nj.com/carducci; shareholder revenuedata.doi.gov review
+            and permit but{space}
+            <a href="https://thumbprint.us">stakeholder advisement</a>
+            <h3>
+              George Floyd Bank is for the Kids (MAGA communism might very well
+              be right to try trump; especially with dollar vote but hardly
+              thrice checkable - did{space}
+              <a href="https://saverparty.xyz">yours</a>?),{space}
+              <i>the liberal reward of trade</i>, should have an outstanding
+              withstanding market primary resident 1520 trust, at least if not
+              explicitly used, divided by customer accounts with payments
+              received. ...implicit tax advantaged outright withstanding social
+              security account ;)
+            </h3>
+            <a href="https://hibit.cc">join wipo</a>
+            {space}maybe it would solve it; tangible, outright withstanding
+            markets; advanced payments, but to get out present value interest
+            and only with insurance and student loans education and direct
+            payments (access or benefactors?); NOT incentivize, we all swear by
+            being here.
+            {/**prison, you have to go to prison? jc */}
+            <Cable
+              style={{ maxWidth: "600px", width: "100%" }}
+              onError={handleScollImgError}
+              img={true}
+              src={
+                this.state.noyout
+                  ? ""
+                  : "https://www.dropbox.com/s/keyk09qf47bv52e/Screen%20Shot%202023-02-10%20at%203.15.27%20PM.png?raw=1"
+              }
+              float={"right"}
+              title="2/10/2023 white house karine fiscal responsibility, the debt ceiling, and safe assets"
+              scrolling={this.state.scrolling}
+              fwd={this["scrollImg" + scrollnum()]}
+              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+              scrollTop={this.state.scrollTop}
+            />
+            <br />
+            ​benefactors of the supplemental poverty measure resetting
+            <h3>Network effect permits, parachutes on duty; save the rats</h3>
+            would out of pocket and direct payments to schools be tax free
+            without finance? the tax value present interest payments are not a
+            disincentive
+            <h1>Sex bots: intraclass replication</h1>
+            Not a good look for brown people. and the energy grid peeps fall for
+            phishing; youtube likes it like that and the energy grid peeps fall
+            for phishing
+            <br />a real john wayne; birthright trumpers bite identity.{space}
+            <a href="https://marginalism.uk">Karma sutra</a>
+            {space}is bizarre
+            <br />
+            <i>
+              i apologize if that hasn't to do with already bizarre polythesism
+            </i>
+            <br />I won’t count personal nor dollar bond in industry proprietor
+            payday and interior vote after reversing stolen purchases or
+            intractable stock
+            <h3>
+              be aware o phishing emails and use ssl energy grid peeps; a
+              magnate partnership of context
+            </h3>
+            <h2>probate uncollateralize retroactive</h2>
+            Already tax breaks for getting out of debt. Would out-of-pocket
+            payments be tax-free if there were no insurance? They admit by
+            policy the accelerating(ly)-inflation(ary) effects.
+            <br />
+            White House to refinance student loans with pipe.io
+            <h2>the police will help us make a commercial legislation</h2>
+            <h4>
+              There is no cdc statistician that is paid by{space}
+              <a href="https://humanharvest.info">another industry</a>.
+            </h4>
+            <h1>
+              Can severed land be reburied to barter tax-free with advanced
+              payments?
+            </h1>
+            <h2>
+              Is Trump at fault for warped speed causing sudden cardiac arrest
+              deaths of excessively obese 30 and 40-year-olds in the 2020
+              decade?
+            </h2>
+            Joint accounts can standardized guarantees; right to trade but not
+            contract.{space}
+            <a href="https://jester.com.co">Retarded</a>
+            {space}by ability or action; let ability determine your needs
+            <br />
+            Maybe sue the government as a whole by international associations;
+            at least, war is ok for human right; currency is deeds.
+            <h3>
+              contract exchange imports{space}
+              <span role="img" aria-label="side-splitting laughter">
+                🤣
+              </span>
+              {space}Bonds are safe assets, implausible use ascertained
+              universal harm 1031 scoped proprietorship rental income
+            </h3>
+            Commie is GOP, just more{space}
+            <a href="https://vaults.biz/immi">imports</a>
+            {space}until{space}
+            <a href="https://saverparty.xyz/global">sound vault share</a>. Do
+            you agree with economists that deflation is worse than inflation? Do
+            you agree with Jerome Powell that 2% annual inflation helps
+            Americans?
+          </div>
           <h3>
             Does the government need to{space}
             <a href="https://vau.money/login">spend in line with crime</a>?
