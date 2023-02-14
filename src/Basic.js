@@ -572,8 +572,16 @@ export default class Basic extends React.Component {
           recoverability?{space}
           <i>
             Does the national accounting economic grade happen to make products
-            after real operational costs or inflationary either labor or
-            material resource depletion?
+            after real operational costs or inflationary{space}
+            <span
+              onClick={() =>
+                this.setState({ openWorkers: !this.state.openWorkers })
+              }
+              style={{ textDecoration: "underline" }}
+            >
+              either labor or material resource depletion
+            </span>
+            ?
           </i>
           <br />
           <br />
