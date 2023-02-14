@@ -18,6 +18,7 @@ export default class Basic extends React.Component {
     for (let i = 0; i < 220; i++) {
       this["scrollImg" + i] = React.createRef();
     }
+    this.disutility = React.createRef();
     this.plaintiff = React.createRef();
     this.recession = React.createRef();
     this.socialcapital = React.createRef();
@@ -58,7 +59,9 @@ export default class Basic extends React.Component {
   check = (pathname) => {
     if (!["/"].includes(pathname)) {
       this.setState({ donor: false }, () => {
-        if (pathname === "/plaintiff") {
+        if (pathname === "/disutility") {
+          window.scroll(0, this.disutility.current.offsetTop);
+        } else if (pathname === "/plaintiff") {
           window.scroll(0, this.plaintiff.current.offsetTop);
         } else if (pathname === "/recession") {
           window.scroll(0, this.recession.current.offsetTop);
@@ -509,6 +512,7 @@ export default class Basic extends React.Component {
               "/property",
               "/domain",
               "/cukl",
+              "/disutility",
               "/utopia",
               "/jobs",
               "/guilds",
@@ -531,7 +535,7 @@ export default class Basic extends React.Component {
               );
             })}
           </div>
-          <h3>
+          <h3 ref={this.disutility}>
             Is working for real corporate or personal materiality responsible?
             {space}
             <a
