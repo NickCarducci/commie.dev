@@ -22,6 +22,7 @@ export default class App extends React.Component {
     if (
       ![
         "/",
+        "/disutility",
         "/plaintiff",
         "/recession",
         "/socialcapital",
@@ -103,3 +104,4 @@ export default class App extends React.Component {
   }
 }
 //$NZDJPY
+
