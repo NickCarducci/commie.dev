@@ -544,6 +544,9 @@ export default class Basic extends React.Component {
               association and primary residence allowed cost of either goods
               sold, marketing, or inventory)
             </a>
+            <br />
+            what makes $2/mo with card over technical network unprotected
+            character; wait for probate.
           </h3>
           How does a degradation of materiality help competitiveness
           internationally?
