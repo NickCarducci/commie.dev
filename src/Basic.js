@@ -531,6 +531,20 @@ export default class Basic extends React.Component {
               );
             })}
           </div>
+          <h3>
+            Is working for real corporate or personal materiality responsible?
+            {space}
+            <a
+              href="https://vau.money/login"
+              style={{
+                color: "navy"
+              }}
+            >
+              (vau.money: advanced property or customer-unitary, value-unlimited
+              association and primary residence allowed cost of either goods
+              sold, marketing, or inventory)
+            </a>
+          </h3>
           How does a degradation of materiality help competitiveness
           internationally?
           <h4>
