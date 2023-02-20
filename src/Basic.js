@@ -7434,8 +7434,9 @@ export default class Basic extends React.Component {
                   }}
                 >
                   Wouldn't a durable goods tax miss barter of durable goods with
-                  a premium not deposited? Wouldn’t gold then circulate more
-                  proportionally to the rest?
+                  a premium not deposited? Wouldn’t{space}
+                  <a href="https://vau.money/login">gold then circulate</a>
+                  {space}more proportionally to the rest?
                 </i>
               </h2>
               <div
