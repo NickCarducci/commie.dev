@@ -535,6 +535,68 @@ export default class Basic extends React.Component {
               );
             })}
           </div>
+          <div
+            style={{
+              color: "white",
+              padding: "10px",
+              margin: "10px",
+              borderRadius: "10px",
+              backgroundColor: "cadetblue"
+            }}
+          >
+            medics for all tax security first 2024nj.com/carducci
+            <br />
+            <br />
+            Do industry and family tax credits or uniform progression and
+            wholesale liquidity of taxes help people?
+            <br />
+            <br />
+            Are investors or concurrent vertical industries important to
+            economic prosperity, entrepreneurship, and either material
+            deflationary or retiring windfall profits?
+            <br />
+            <br />
+            If out-of-pocket payments are less than premiums, why's insurance
+            considered a static material benefit value rather than a dynamic
+            marginal utility value? Is the market inefficient if investment's
+            deflationary lag occurs?
+            <br />
+            <br />
+            Can interest estimated industry proprietor payday loans mediate
+            government and third party donee beneficiary debt before or after
+            reducing total liabilities to its annual ratio from cash?
+            <br />
+            <br />
+            Risk free banking is{space}
+            <a href="https://saverparty.xyz" style={{ color: "white" }}>
+              white
+            </a>
+            <br />
+            <br />
+            Medics for all or none; I prefer value added sales levy for
+            universal plaintiffs in the latter none case, but either case would
+            be an anarchist stance. There are definitely socialists who would
+            not be so cavalier about this deal, but anarchists are 1.
+            Anti-capitalist and 2. Fair. So socialists would like private or
+            public insurance and anarchists would like universal or none. Tax
+            security first for Proudhon’s commercial legislation.
+            <br />
+            <br />
+            Property is what you can plausible use per diem
+            <br />
+            <br />
+            Immediate contract won’t harm scribe
+            <br />
+            <br />
+            Exclusion by democratic permit though
+            <br />
+            <br />
+            FCSU premiums and mortgages cause inequality concurrently. SPM
+            resets and global poverty is deflation. Ron Paul can't get Marx out
+            of his dreams yet the left never even mentions him because he
+            advocated for risk-free banking. 2024nj.com/carducci
+          </div>
+          <br />
           <h3 ref={this.disutility}>
             Is working for real corporate or personal materiality responsible?
             {space}
@@ -9241,3 +9303,4 @@ export default class Basic extends React.Component {
       );
   }
 }
+
