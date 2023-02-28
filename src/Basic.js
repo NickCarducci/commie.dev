@@ -537,7 +537,10 @@ export default class Basic extends React.Component {
           </div>
           <h1>
             Liquid capital or goods? Productive-marginal utility or
-            material-incremental benefit
+            material-incremental benefit.{space}
+            <a style={{ color: "black" }} href="https://marginalism.uk">
+              marginalism.uk
+            </a>
           </h1>
           Service workers are part of circulation, but only as a ground rent
           that can expound.{space}
