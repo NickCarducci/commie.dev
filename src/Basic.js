@@ -535,6 +535,20 @@ export default class Basic extends React.Component {
               );
             })}
           </div>
+          Should everyone buy their first car by showing income and then using a
+          personal cash advance to buy out their lien? Why should personal
+          lenders have their game fixed at probate like foreclosure and debt
+          service earners?{space}
+          <i>
+            Is the incentive to show income to cash advance a car until probate
+            while your living at home under 18 fixed for inflation the
+            unintended consequence for small entertainment and principal
+            windfall gift tax reporting exemptions?
+          </i>
+          {space}
+          <a href="https://vau.money/login" style={{ color: "black" }}>
+            vau.money/login
+          </a>
           <div
             style={{
               color: "white",
@@ -9303,4 +9317,3 @@ export default class Basic extends React.Component {
       );
   }
 }
-
