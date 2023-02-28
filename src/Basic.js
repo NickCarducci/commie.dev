@@ -535,6 +535,12 @@ export default class Basic extends React.Component {
               );
             })}
           </div>
+          The right to{space}
+          <span style={{ textDecoration: "line-through" }}>brandish</span>
+          {space}
+          <i>retire industry</i>
+          {space}but also bluff, crowdfund for taxes (for plaintiffs), and
+          regress convenience.{/*"not strategic" "non-sincere" */}
           <h3>
             <a href="https://jester.com.co" style={{ color: "black" }}>
               Paper bag politics
@@ -545,7 +551,12 @@ export default class Basic extends React.Component {
             <a href="https://wavv.art/test3" style={{ color: "black" }}>
               thumbprint.us
             </a>
-            {space}love?
+            {space}love
+            {space}
+            <a href="https://wavv.art/test3" style={{ color: "black" }}>
+              humanharvest.info
+            </a>
+            {space}mitosis?
           </h3>
           Should everyone buy their first car by showing income and then using a
           personal cash advance to buy out their lien? Why should personal
