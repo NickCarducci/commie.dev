@@ -553,7 +553,26 @@ export default class Basic extends React.Component {
           <b style={{ fontSize: "11px" }}>
             Should first time home buyers take a mortgage out or rent and save
             income tax free for a primary residence subcontractor trust
-            procurement or advance?
+            procurement or advance?{space}
+            <i>
+              If you want something similar to{space}
+              <a style={{ color: "black" }} href="https://wavv.art">
+                wavv.art
+              </a>
+              , I might have you visit
+              {space}
+              <a
+                style={{ color: "black" }}
+                href="https://github.com/nickcarducci"
+              >
+                GitHub.com/nickcarducci
+              </a>
+              . My consultancy beyond{space}
+              <a href="https://hibit.cc" style={{ color: "black" }}>
+                that
+              </a>
+              {space}would be honest, for a rate like $60/hr billing or advance.
+            </i>
           </b>
           <br />
           The right to{space}
