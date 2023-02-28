@@ -535,6 +535,18 @@ export default class Basic extends React.Component {
               );
             })}
           </div>
+          <h3>
+            <a href="https://jester.com.co" style={{ color: "black" }}>
+              Paper bag politics
+            </a>
+            ; most people are too passive otherwise to do the thing; zombie
+            genealogy or
+            {space}
+            <a href="https://wavv.art/test3" style={{ color: "black" }}>
+              thumbprint.us
+            </a>
+            {space}love?
+          </h3>
           Should everyone buy their first car by showing income and then using a
           personal cash advance to buy out their lien? Why should personal
           lenders have their game fixed at probate like foreclosure and debt
