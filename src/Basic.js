@@ -535,13 +535,20 @@ export default class Basic extends React.Component {
               );
             })}
           </div>
+          <b style={{ fontSize: "11px" }}>
+            Should first time home buyers take a mortgage out or rent and save
+            income tax free for a primary residence subcontractor trust
+            procurement or advance?
+          </b>
+          <br />
           The right to{space}
           <span style={{ textDecoration: "line-through" }}>brandish</span>
           {space}
           <i>retire industry</i>
           {space}but also bluff, crowdfund for taxes (for plaintiffs), and
           regress convenience.{/*"not strategic" "non-sincere" */}
-          <h3>
+          <br />
+          <b style={{ fontSize: "20px" }}>
             <a href="https://jester.com.co" style={{ color: "black" }}>
               Paper bag politics
             </a>
@@ -557,7 +564,8 @@ export default class Basic extends React.Component {
               humanharvest.info
             </a>
             {space}mitosis?
-          </h3>
+          </b>
+          <br />
           Should everyone buy their first car by showing income and then using a
           personal cash advance to buy out their lien? Why should personal
           lenders have their game fixed at probate like foreclosure and debt
