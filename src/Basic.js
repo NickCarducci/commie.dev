@@ -535,6 +535,15 @@ export default class Basic extends React.Component {
               );
             })}
           </div>
+          <h1>Liquid capital or goods?</h1>
+          Service workers are part of circulation, but only as a ground rent
+          that can expound.{space}
+          <i>
+            Is a CarShield, Inflation Reduction Act, or T-Mobile price lock
+            guarantee legitimately premium? Are broadband, health care, or auto
+            providers variable final good capital?
+          </i>
+          <br />
           <b style={{ fontSize: "11px" }}>
             Should first time home buyers take a mortgage out or rent and save
             income tax free for a primary residence subcontractor trust
