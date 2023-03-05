@@ -4194,8 +4194,23 @@ export default class Basic extends React.Component {
               effective jobs with a matching non-accelerating inflation rate per
               leisure utility?
             </span>
-            <br />
-            <br />
+            <h4
+              style={{
+                fontSize: "12px",
+                backgroundColor: "black",
+                color: "white"
+              }}
+            >
+              Is an evidently dynamic substitute, technological benefactor
+              reduction, persistent capital-skew equalization, or another luxury
+              complementary good shrinkflation? Is resource productivity instead
+              of technological growth materially efficient when the product is
+              complementary, inflationary, or one-dynamic product substituting
+              the others? Doesn’t product variance only make deflationary
+              productivity efficient by complementary technology while basing
+              life as a product also makes dynamic productivity efficient
+              through substitutive competition?
+            </h4>
             rent, from the consumer - marginal productivity causes a natural
             rate decrease
             <h2>
@@ -4216,7 +4231,7 @@ export default class Basic extends React.Component {
             {!this.state.america && (
               <a href="https://phyletic.quora.com/What-does-it-mean-if-the-demand-curve-has-an-inelastic-slope-1">
                 <Cable
-                  style={{ width: "100%" }}
+                  style={{ width: "100%", maxWidth: "400px" }}
                   onError={handleScollImgError}
                   img={true}
                   src={
@@ -9382,3 +9397,4 @@ export default class Basic extends React.Component {
       );
   }
 }
+
