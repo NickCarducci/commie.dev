@@ -567,14 +567,20 @@ export default class Basic extends React.Component {
               <a
                 style={{ color: "black" }}
                 href="https://github.com/nickcarducci"
+                //try to do better this weed-week
               >
                 GitHub.com/nickcarducci
               </a>
-              . My consultancy beyond{space}
-              <a href="https://hibit.cc" style={{ color: "black" }}>
-                that
-              </a>
-              {space}would be honest, for a rate like $60/hr billing or advance.
+              .{space}
+              <span style={{ color: "cadetblue" }}>
+                My consultancy beyond{space}
+                <a href="https://hibit.cc" style={{ color: "black" }}>
+                  that
+                </a>
+                {space}would be honest (hibit.cc), for a rate like $60/hr
+                billing or advance. Are business accounts on the cash app for
+                invoices and neither tips nor advances? (vau.money)
+              </span>
             </i>
           </b>
           <br />
