@@ -526,8 +526,11 @@ export default class Basic extends React.Component {
             ].map((x) => {
               //console.log(window.location.origin + x);
               return (
-                <div style={{ padding: "4px 8px" }}>
-                  <a href={window.location.origin + x}>
+                <div style={{ padding: "4px 8px", fontSize: "14px" }}>
+                  <a
+                    href={window.location.origin + x}
+                    style={{ color: "blue" }}
+                  >
                     {(x === "/work" ? "child" : "") + x ? space : ""}
                     {x}
                   </a>
@@ -535,6 +538,15 @@ export default class Basic extends React.Component {
               );
             })}
           </div>
+          <h3 style={{ margin: "4px 0px" }}>
+            <a
+              href="https://froth.quora.com/Are-many-Americans-against-universal-healthcare-because-they-dont-understand-how-it-works-1"
+              style={{ color: "cornflowerblue" }}
+            >
+              Shouldn't medics for all be secured after recessionary tax hikes
+              already?
+            </a>
+          </h3>
           After emulating debt service interest foreclosure, shouldn't the tax
           rate for plaintiffs on federal lands by state stock as in dollars
           reconcile with annualized recessions already?
