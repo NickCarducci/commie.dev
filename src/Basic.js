@@ -535,7 +535,10 @@ export default class Basic extends React.Component {
               );
             })}
           </div>
-          <h1>
+          After emulating debt service interest foreclosure, shouldn't the tax
+          rate for plaintiffs on federal lands by state stock as in dollars
+          reconcile with annualized recessions already?
+          <h1 style={{ margin: "4px 0px" }}>
             Liquid capital or goods? Productive-marginal utility or
             material-incremental benefit.{space}
             <a style={{ color: "black" }} href="https://marginalism.uk">
@@ -9397,4 +9400,3 @@ export default class Basic extends React.Component {
       );
   }
 }
-
