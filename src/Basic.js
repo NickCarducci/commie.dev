@@ -538,13 +538,13 @@ export default class Basic extends React.Component {
               );
             })}
           </div>
-          <h3 style={{ margin: "4px 0px" }}>
+          <h3 style={{ margin: "4px 0px", fontSize: "18px" }}>
             <a
               href="https://froth.quora.com/Are-many-Americans-against-universal-healthcare-because-they-dont-understand-how-it-works-1"
               style={{ color: "cornflowerblue" }}
             >
               Shouldn't medics for all be secured after recessionary tax hikes
-              already?
+              already? in Medicate the Homeless (moving to work) on Quora
             </a>
           </h3>
           After emulating debt service interest foreclosure, shouldn't the tax
