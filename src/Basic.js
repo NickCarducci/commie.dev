@@ -538,6 +538,7 @@ export default class Basic extends React.Component {
               );
             })}
             <div style={{ padding: "4px 8px", fontSize: "14px" }}>
+              Reduce for{space}
               <a href="https://www.quora.com/Why-is-the-Marshallian-demand-curve-more-elastic-than-the-Hicksian-demand-curves-for-a-normal-good/answer/Nick-Carducci">
                 Liquidity ({">"})
               </a>
