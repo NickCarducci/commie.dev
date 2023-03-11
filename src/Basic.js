@@ -548,7 +548,7 @@ export default class Basic extends React.Component {
           <a style={{ color: "black" }} href="https://micro-theory.com">
             podcasts
           </a>
-          {space}the new manifest sociologic book treaties?
+          {space}the new manifest sociologic book treaties? vaults.biz/money
           <h4 style={{ margin: "4px 0px" }}>
             <i>Do-do-do *funny goal*</i>
             {space}in usufruct doing business like a secret Bourg
@@ -567,7 +567,7 @@ export default class Basic extends React.Component {
             <a style={{ color: "black" }} href="https://bankingisnot.biz">
               quantitative easing
             </a>
-            ?
+            ? (saverparty.xyz)
           </i>
           <h3 style={{ margin: "4px 0px", fontSize: "18px" }}>
             <a
@@ -580,7 +580,15 @@ export default class Basic extends React.Component {
           </h3>
           After emulating debt service interest foreclosure, shouldn't the tax
           rate for plaintiffs on federal lands by state stock as in dollars
-          reconcile with annualized recessions already?
+          reconcile with annualized recessions already?{space}
+          <span
+            style={{
+              fontSize: "12px"
+            }}
+          >
+            treesdebindcarbon.quora.com
+          </span>
+          {space}Is significance that's either usual or not meaningful?
           <h1 style={{ margin: "4px 0px" }}>
             Liquid capital or goods? Productive-marginal utility or
             material-incremental benefit.{space}
