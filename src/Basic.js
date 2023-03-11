@@ -6101,6 +6101,18 @@ export default class Basic extends React.Component {
               usury and commerce was prevented from turning into industrial
               capital, in the country by the feudal constitution, in the towns
               by the guild organisation.
+              <h3>Bankingisnot.biz</h3>
+              There are no protected classes in anarchy; you can{space}
+              <i>ostracize</i>
+              {space}
+              whomever you wish socially but you cannot{space}
+              <i>exclude</i>
+              {space}them from commerce and usufruct but for a minimal viable
+              duress obliged by industry variable{space}
+              <i>business permit democracy and plaintiffs</i>. (see: commercial
+              legislation,{space}
+              <i>What is Property?</i>) The Department of Justice acts on so
+              many terms too, allegedly.
               <div
                 ref={this.mod}
                 style={{
