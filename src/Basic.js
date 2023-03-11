@@ -544,6 +544,31 @@ export default class Basic extends React.Component {
               </a>
             </div>
           </div>
+          Are{space}
+          <a style={{ color: "black" }} href="https://micro-theory.com">
+            podcasts
+          </a>
+          {space}the new manifest sociologic book treaties?
+          <h4 style={{ margin: "4px 0px" }}>
+            <i>Do-do-do *funny goal*</i>
+            {space}in usufruct doing business like a secret Bourg
+          </h4>
+          Is Usufruct a social framework?{space}
+          <i>Are ideas or copyrights fair to own?</i>
+          {space}
+          Doesn’t the left want tax security first but medics for all?{space}
+          <i>
+            Is an “efficient” or “risk free”{space}
+            <a style={{ color: "black" }} href="https://taxsecurityfirst.com">
+              recession-made tax hike popular
+            </a>
+            {space}
+            over{space}
+            <a style={{ color: "black" }} href="https://bankingisnot.biz">
+              quantitative easing
+            </a>
+            ?
+          </i>
           <h3 style={{ margin: "4px 0px", fontSize: "18px" }}>
             <a
               href="https://froth.quora.com/Are-many-Americans-against-universal-healthcare-because-they-dont-understand-how-it-works-1"
