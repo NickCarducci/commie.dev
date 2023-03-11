@@ -595,7 +595,24 @@ export default class Basic extends React.Component {
             guarantee legitimately premium? Are broadband, health care, or auto
             providers variable final good capital?
           </i>
-          <br />
+          <h4 style={{ margin: "4px 0px" }}>
+            <a style={{ color: "black" }} href="https://multilevelcapital.com">
+              multilevelcapital.com
+            </a>
+            {space}- the case lost: A loser’s curse or a sponsor’s purse?{space}
+            <i style={{ color: "grey" }}>
+              Would a prosecutor lose a case for being acquitted of the same
+              crime?{space}
+              <i
+                style={{
+                  color: "lightslategrey"
+                }}
+              >
+                Is selling a fraud protected premium version of a product that
+                you sell anyway fraud?
+              </i>
+            </i>
+          </h4>
           <b style={{ fontSize: "11px" }}>
             Should first time home buyers take a mortgage out or rent and save
             income tax free for a primary residence subcontractor trust
