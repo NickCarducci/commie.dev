@@ -544,6 +544,10 @@ export default class Basic extends React.Component {
               </a>
             </div>
           </div>
+          <h3 style={{ margin: "4px 0px" }}>
+            Was communism invented by Karl Marx or Victor d'Hupay?
+            (bankingisnot.biz)
+          </h3>
           Are{space}
           <a style={{ color: "black" }} href="https://micro-theory.com">
             podcasts
@@ -4755,15 +4759,30 @@ export default class Basic extends React.Component {
                   backgroundColor: "darkslategrey"
                 }}
               >
-                <i>
+                <b>
                   It’s like Proudhon took Rousseau's social contract literally,
                   to which the contracts and letters of intent were synonymous
                   instead of a warning to beckon{space}
                   <span style={{ color: "grey" }}>
                     (in their binding differentiation)
                   </span>
-                  .
-                </i>
+                  .{space}
+                  <i>
+                    If you can keep the sporting commercial usufruct of
+                    complementary demand and substitutive supply without
+                    plaintiffs but technology, so be it, would say the storage
+                    and transport communist. The time preference money
+                    multiplier affects the service factor inflation and material
+                    benefit shrinkflation going rate, the most. Service escrow
+                    sutures, moving to learn to code shelters with computer
+                    labs, open the borders, truancy as trespass but
+                    inflation-affixed dependency, tax cuts for surplus and hikes
+                    after recession yet during its inflation part, codify past
+                    debt by factor. That’s my platform for petitioning
+                    Independent NJ U.S. Senate, at least: TaxSecurityFirst.com
+                    for Risk-Free Banking.
+                  </i>
+                </b>
                 <h3 style={{ margin: "4px 0px" }}>
                   <a
                     style={{ color: "lightskyblue" }}
