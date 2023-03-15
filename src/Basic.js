@@ -3640,6 +3640,7 @@ export default class Basic extends React.Component {
               When is outsourcing not cheaper for Americans?
             </a>
             <div
+              ref={this.plaintiff}
               style={{
                 margin: !this.state.america && "10px",
                 transition: ".3s ease-in",
@@ -3729,10 +3730,7 @@ export default class Basic extends React.Component {
               <a href="https://www.youtube.com/watch?v=APQAosdUKiM">dynamic</a>
               {space}efficiency renaming variable capital? '[What does “free
               rider immutable{space}
-              <a
-                ref={this.plaintiff}
-                href="https://www.reddit.com/r/thumbprint/comments/xvdsnt/man_without_insurance_killed_by_police_after/"
-              >
+              <a href="https://www.reddit.com/r/thumbprint/comments/xvdsnt/man_without_insurance_killed_by_police_after/">
                 plaintiff
               </a>
               {space}tax” mean to you?]'{space}
@@ -4640,7 +4638,7 @@ export default class Basic extends React.Component {
                   maxWidth: "calc(100% - 20px)",
                   padding: !this.state.america && "10px",
                   border: "1px solid",
-                  backgroundColor: "firebrick"
+                  backgroundColor: "indianred"
                 }}
               >
                 <a
@@ -4782,6 +4780,14 @@ export default class Basic extends React.Component {
                     Independent NJ U.S. Senate, at least: TaxSecurityFirst.com
                     for Risk-Free Banking.
                   </i>
+                  {space}
+                  <a
+                    style={{ color: "indianred" }}
+                    href="https://saverparty.xyz"
+                  >
+                    Can a business legally make their products worse or prices
+                    higher in line with margins?
+                  </a>
                 </b>
                 <h3 style={{ margin: "4px 0px" }}>
                   <a
