@@ -4788,15 +4788,40 @@ export default class Basic extends React.Component {
                     Can a business legally make their products worse or prices
                     higher in line with margins?
                   </a>
+                  <br />
+                  <span style={{ color: "lightgreen" }}>
+                    Isn’t a Nash equilibrium strategy immediate while
+                    Arrow-Debreu’s is intertemporal? Doesn’t the Hicks-Hansen
+                    model operate on a cash basis while the latter Debreu’s
+                    {space}
+                    <i>accrues invoices for work done less advances</i>
+                    {space}of nonsale fixed{space}
+                    <a
+                      style={{ color: "forestgreen" }}
+                      href="https://stocktwits.com/nmc123"
+                    >
+                      costs-to-nature
+                    </a>
+                    ? (The natural{space}
+                    <i>work invoice and advance rate</i>
+                    {space}is complementary demand and substitutive supply.
+                    There that’s like 1,2,3{space}
+                    <a
+                      style={{ color: "forestgreen" }}
+                      href="https://micro-theory.com"
+                    >
+                      in a go
+                    </a>
+                    ).{space}
+                    <a
+                      style={{ color: "lightskyblue" }}
+                      href="https://www.academia.edu/40237388/The_Role_of_Contract_in_Anarchist_Ideology"
+                    >
+                      The Role of the Contract
+                    </a>
+                    :
+                  </span>
                 </b>
-                <h3 style={{ margin: "4px 0px" }}>
-                  <a
-                    style={{ color: "lightskyblue" }}
-                    href="https://www.academia.edu/40237388/The_Role_of_Contract_in_Anarchist_Ideology"
-                  >
-                    The Role of the Contract
-                  </a>
-                </h3>
                 <div
                   style={{
                     borderLeft: "1px dotted",
